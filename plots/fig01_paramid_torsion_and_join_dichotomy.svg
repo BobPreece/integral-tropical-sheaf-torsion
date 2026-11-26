@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="660" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="656" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="682" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="537" y="104" width="133" height="24" rx="6" fill="#DBEAFE" stroke="none" data-role="badge-bg" />
+  <line id="line_13" x1="88" y1="430" x2="650" y2="430" stroke="#334155" stroke-width="2" />
+  <line id="line_14" x1="88" y1="175" x2="88" y2="430" stroke="#334155" stroke-width="2" />
+  <line id="line_16" x1="83" y1="398" x2="88" y2="398" stroke="#334155" stroke-width="1" />
+  <line id="line_18" x1="83" y1="366" x2="88" y2="366" stroke="#334155" stroke-width="1" />
+  <line id="line_20" x1="83" y1="334" x2="88" y2="334" stroke="#334155" stroke-width="1" />
+  <line id="line_22" x1="83" y1="270" x2="88" y2="270" stroke="#334155" stroke-width="1" />
+  <line id="line_24" x1="83" y1="206" x2="88" y2="206" stroke="#334155" stroke-width="1" />
+  <rect id="rect_26" x="104" y="366" width="38" height="64" rx="4" fill="#EFF6FF" stroke="#2563EB" stroke-width="2" data-role="shape" />
+  <rect id="rect_31" x="164" y="334" width="38" height="96" rx="4" fill="#CCFBF1" stroke="#0D9488" stroke-width="2" data-role="shape" />
+  <rect id="rect_36" x="224" y="366" width="38" height="64" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" data-role="shape" />
+  <rect id="rect_41" x="284" y="270" width="38" height="160" rx="4" fill="#FEF3C7" stroke="#D97706" stroke-width="2" data-role="shape" />
+  <rect id="rect_46" x="344" y="398" width="38" height="32" rx="4" fill="#F1F5F9" stroke="#64748B" stroke-width="2" data-role="shape" />
+  <rect id="rect_51" x="404" y="206" width="38" height="224" rx="4" fill="#EDE9FE" stroke="#7C3AED" stroke-width="2" data-role="shape" />
+  <rect id="rect_56" x="464" y="366" width="38" height="64" rx="4" fill="#EFF6FF" stroke="#2563EB" stroke-width="2" data-role="shape" />
+  <rect id="rect_61" x="524" y="334" width="38" height="96" rx="4" fill="#CCFBF1" stroke="#0D9488" stroke-width="2" data-role="shape" />
+  <rect id="rect_66" x="584" y="398" width="38" height="32" rx="4" fill="#F1F5F9" stroke="#64748B" stroke-width="2" data-role="shape" />
+  <rect id="rect_71" x="46" y="498" width="616" height="152" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_78" x="46" y="666" width="616" height="154" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="1" data-role="panel" />
+  <rect id="rect_84" x="704" y="96" width="672" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_85" x="706" y="98" width="668" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_86" x1="706" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_88" x="1263" y="104" width="99" height="24" rx="6" fill="#CCFBF1" stroke="none" data-role="badge-bg" />
+  <rect id="rect_90" x="726" y="152" width="304" height="240" rx="8" fill="#F0FDFA" stroke="#0D9488" stroke-width="2" data-role="panel" />
+  <line id="line_92" x1="748" y1="336" x2="1008" y2="336" stroke="#334155" stroke-width="2" />
+  <rect id="rect_93" x="762" y="224" width="52" height="112" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" data-role="shape" />
+  <rect id="rect_97" x="846" y="292" width="52" height="44" rx="4" fill="#FEF3C7" stroke="#D97706" stroke-width="2" data-role="shape" />
+  <rect id="rect_101" x="930" y="304" width="52" height="32" rx="4" fill="#D1FAE5" stroke="#059669" stroke-width="2" data-role="shape" />
+  <rect id="rect_106" x="1048" y="152" width="306" height="240" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="2" data-role="panel" />
+  <line id="line_108" x1="1070" y1="336" x2="1332" y2="336" stroke="#334155" stroke-width="2" />
+  <rect id="rect_109" x="1084" y="220" width="52" height="116" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" data-role="shape" />
+  <rect id="rect_113" x="1168" y="280" width="52" height="56" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" data-role="shape" />
+  <rect id="rect_117" x="1252" y="300" width="52" height="36" rx="4" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" data-role="shape" />
+  <rect id="rect_122" x="726" y="406" width="628" height="418" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_123" x="728" y="408" width="624" height="32" rx="6" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <rect id="rect_125" x="734" y="446" width="612" height="34" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_128" x="734" y="488" width="612" height="34" rx="4" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_131" x="734" y="530" width="612" height="34" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_134" x="734" y="572" width="612" height="34" rx="4" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_137" x="734" y="614" width="612" height="34" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_140" x="736" y="658" width="608" height="154" rx="8" fill="#DBEAFE" stroke="#1E3A8A" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 01 — Join-Volume GCD Staircase, (2,2) Escape &amp; Arrangement Quotient SNF</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track A (Theorems A1, A2a, A2c, A3) | G_3=1, G_4=2, G_5=2, G_6=12 &amp; Finite-Arrangement Paramid vs Zonotope SNFs</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact | d=5: (4,0)-&gt;24, (3,1)-&gt;6, (2,2)-&gt;4 == 1 mod 3 | d=6: 120,24,12 == 0 mod 6 | H_4, H_5^{D_4}, H_6^{D_6} SNFs</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. Kummer Product GCD &amp; MAX_n Annihilator Staircase</text>
+  <text id="txt_12" x="603" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">THEOREMS A1 &amp; A3</text>
+  <text id="txt_15" x="52" y="162" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#334155">Kummer gcd</text>
+  <text id="txt_17" x="78" y="402" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">1</text>
+  <text id="txt_19" x="78" y="370" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">2</text>
+  <text id="txt_21" x="78" y="338" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">3</text>
+  <text id="txt_23" x="78" y="274" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">5</text>
+  <text id="txt_25" x="78" y="210" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">7</text>
+  <text id="txt_27" x="123" y="356" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#2563EB">2</text>
+  <text id="txt_28" x="123" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=2</text>
+  <text id="txt_29" x="123" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_3</text>
+  <text id="txt_30" x="123" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#2563EB">2^1</text>
+  <text id="txt_32" x="183" y="324" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#0D9488">3</text>
+  <text id="txt_33" x="183" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=3</text>
+  <text id="txt_34" x="183" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_4</text>
+  <text id="txt_35" x="183" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#0D9488">3^1</text>
+  <text id="txt_37" x="243" y="356" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#DC2626">2</text>
+  <text id="txt_38" x="243" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=4</text>
+  <text id="txt_39" x="243" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_5</text>
+  <text id="txt_40" x="243" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#DC2626">2^2</text>
+  <text id="txt_42" x="303" y="260" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#D97706">5</text>
+  <text id="txt_43" x="303" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=5</text>
+  <text id="txt_44" x="303" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_6</text>
+  <text id="txt_45" x="303" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#D97706">5^1</text>
+  <text id="txt_47" x="363" y="388" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#64748B">1</text>
+  <text id="txt_48" x="363" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=6</text>
+  <text id="txt_49" x="363" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_7</text>
+  <text id="txt_50" x="363" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">comp</text>
+  <text id="txt_52" x="423" y="196" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#7C3AED">7</text>
+  <text id="txt_53" x="423" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=7</text>
+  <text id="txt_54" x="423" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_8</text>
+  <text id="txt_55" x="423" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#7C3AED">7^1</text>
+  <text id="txt_57" x="483" y="356" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#2563EB">2</text>
+  <text id="txt_58" x="483" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=8</text>
+  <text id="txt_59" x="483" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_9</text>
+  <text id="txt_60" x="483" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#2563EB">2^3</text>
+  <text id="txt_62" x="543" y="324" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#0D9488">3</text>
+  <text id="txt_63" x="543" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=9</text>
+  <text id="txt_64" x="543" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_10</text>
+  <text id="txt_65" x="543" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#0D9488">3^2</text>
+  <text id="txt_67" x="603" y="388" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#64748B">1</text>
+  <text id="txt_68" x="603" y="448" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F172A">d=10</text>
+  <text id="txt_69" x="603" y="464" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">MAX_11</text>
+  <text id="txt_70" x="603" y="478" font-family="Menlo, Consolas, monospace" font-size="9" text-anchor="middle" fill="#64748B">comp</text>
+  <text id="txt_72" x="60" y="520" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">Certified Ring Realizations &amp; Minkowski Support Quotient Q_n^Mink(Z)</text>
+  <text id="txt_73" x="60" y="540" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">n=4 (d=3): MAX_4 in ReLU_{4,2}(Z) via strict 9-neuron {-1,0,+1} net (m_4 = 1).</text>
+  <text id="txt_74" x="60" y="561" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">n=5 (d=4=2^2): Vol_4(Delta_4)=1 (mod 2) =&gt; not in Z; Bakaev 9-term =&gt; m_5 = 2.</text>
+  <text id="txt_75" x="60" y="582" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">n=6 (d=5): D_6 105-gate hexagon identity =&gt; 6*MAX_6 in ReLU_{6,2}(Z) (m_6 | 6).</text>
+  <text id="txt_76" x="60" y="603" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">n=6 (d=5): Vol_5(Delta_2 x Delta_3) = binom(5,2) = 10 == 1 (mod 3) [not 0 mod 3!].</text>
+  <text id="txt_77" x="60" y="624" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">n=10 (d=9=3^2): Prime power 3^2 restores gcd_{1&lt;=a&lt;=8} binom(9,a) = 3.</text>
+  <text id="txt_79" x="60" y="688" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#DC2626">Virtual Zonotope-Hull Complexity Separation (Theorem A3)</text>
+  <text id="txt_80" x="60" y="708" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Over Z:      vrc_{2,Z}(Delta_4) = +infinity  (every 2-layer Z-join has even Vol_4).</text>
+  <text id="txt_81" x="60" y="731" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Over Z[1/2]: vrc_{2,Z[1/2]}(Delta_4) &lt;= 9    (2*h_{Delta_4} = P_1..4 + Q - R_{13..24}).</text>
+  <text id="txt_82" x="60" y="754" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Trap 2: Asymptotic recession N_rec(d) kills arbitrary rational biases b in Q,</text>
+  <text id="txt_83" x="60" y="777" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">        preserving Vol_4(M * Delta_4) = M^4 == 1 (mod 2) for all odd M in Z_(2).</text>
+  <text id="txt_87" x="720" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. Join-Volume Arithmetic Dichotomy (d = 3..7)</text>
+  <text id="txt_89" x="1312" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F766E">THEOREM A2a</text>
+  <text id="txt_91" x="878" y="176" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0F766E">d = 5 (MAX_6): Prime 3 Escaped!</text>
+  <text id="txt_94" x="788" y="200" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#DC2626">Vol=24</text>
+  <text id="txt_95" x="788" y="215" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">0 mod 3</text>
+  <text id="txt_96" x="788" y="356" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">(4,0)</text>
+  <text id="txt_98" x="872" y="268" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#D97706">Vol=6</text>
+  <text id="txt_99" x="872" y="283" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#D97706">0 mod 3</text>
+  <text id="txt_100" x="872" y="356" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">(3,1)</text>
+  <text id="txt_102" x="956" y="280" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#059669">Vol=4</text>
+  <text id="txt_103" x="956" y="295" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#059669">1 mod 3!</text>
+  <text id="txt_104" x="956" y="356" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">(2,2)</text>
+  <text id="txt_105" x="878" y="380" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#0F766E">Pi_1=[0,e1]+[0,e2], Pi_2=e5+[0,e3]+[0,e4]</text>
+  <text id="txt_107" x="1201" y="176" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#DC2626">d = 6 (MAX_7): All 0 mod 6!</text>
+  <text id="txt_110" x="1110" y="196" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#DC2626">Vol=120</text>
+  <text id="txt_111" x="1110" y="211" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">0 mod 6</text>
+  <text id="txt_112" x="1110" y="356" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">(5,0)</text>
+  <text id="txt_114" x="1194" y="256" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#DC2626">Vol=24</text>
+  <text id="txt_115" x="1194" y="271" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">0 mod 6</text>
+  <text id="txt_116" x="1194" y="356" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">(4,1)</text>
+  <text id="txt_118" x="1278" y="276" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#DC2626">Vol=12</text>
+  <text id="txt_119" x="1278" y="291" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">0 mod 6</text>
+  <text id="txt_120" x="1278" y="356" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">(3,2)</text>
+  <text id="txt_121" x="1201" y="380" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#DC2626">r1+r2=5 =&gt; max&gt;=3 =&gt; gcd(120,24,12)=12</text>
+  <text id="txt_124" x="740" y="429" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="start" fill="#0F172A">d  | MAX_{d+1} | Splits (r1,r2): r1!r2!              | G_d=GCD | Prime-3 Status</text>
+  <text id="txt_126" x="744" y="468" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A">3  | MAX_4   | (2,0):2,  (1,1):1                     | G_3=1   |</text>
+  <text id="txt_127" x="1174" y="468" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="start" fill="#059669">ESCAPES (1 mod 6)</text>
+  <text id="txt_129" x="744" y="510" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A">4  | MAX_5   | (3,0):6,  (2,1):2                     | G_4=2   |</text>
+  <text id="txt_130" x="1174" y="510" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="start" fill="#2563EB">ESCAPES 3 (2 mod 3)</text>
+  <text id="txt_132" x="744" y="552" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A">5  | MAX_6   | (4,0):24, (3,1):6,  (2,2):4           | G_5=2   |</text>
+  <text id="txt_133" x="1174" y="552" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="start" fill="#0F766E">(2,2) ESCAPES (1 mod 3)</text>
+  <text id="txt_135" x="744" y="594" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A">6  | MAX_7   | (5,0):120,(4,1):24, (3,2):12          | G_6=12  |</text>
+  <text id="txt_136" x="1174" y="594" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="start" fill="#DC2626">LOCKED (all 0 mod 6)</text>
+  <text id="txt_138" x="744" y="636" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A">7  | MAX_8   | (6,0):720,(5,1):120,(4,2):48,(3,3):36 | G_7=12  |</text>
+  <text id="txt_139" x="1174" y="636" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="start" fill="#DC2626">LOCKED (all 0 mod 6)</text>
+  <text id="txt_141" x="750" y="680" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">Theorem A2c — Finite-Arrangement SNF: Pure Paramids -&gt; Zonotope-Pair Span</text>
+  <text id="txt_142" x="750" y="700" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">H_4 (48 ch, rk 27):  [1^22, 2^5] (MAX_4 den=2)  -&gt; [1^24, 2^3]   (Z-SAT, den=1!)</text>
+  <text id="txt_143" x="750" y="724" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">H_5^{D_4} (480 ch):  [1^13, 4]   (MAX_5 Q-UNSAT)-&gt; [1^16, 2]     (Z[1/2]-SAT, den=2!)</text>
+  <text id="txt_144" x="750" y="748" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">H_6^{D_6} (hexagon): [1^26, 2]   (MAX_6 Q-UNSAT)-&gt; [1^34, 2,2,6] (Z[1/6]-SAT, den=6!)</text>
+  <text id="txt_145" x="750" y="772" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">H_6^{S_6} (canon.):  [1^10,3,12] (rk 12)        -&gt; [1^14,2,2,6,6,60,180] (rk 20)</text>
+  </g>
+</svg>

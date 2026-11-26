@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="660" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="656" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="682" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="524" y="104" width="146" height="24" rx="6" fill="#CCFBF1" stroke="none" data-role="badge-bg" />
+  <polygon id="poly_13" points="335,300 210,180 110,400" fill="#F0FDFA" stroke="#334155" stroke-width="2" />
+  <line id="line_14" x1="210" y1="300" x2="335" y2="300" stroke="#DC2626" stroke-width="3" />
+  <circle id="circ_15" cx="335" cy="300" r="6" fill="#334155" stroke="#FFFFFF" stroke-width="2" />
+  <line id="line_16" x1="210" y1="300" x2="210" y2="180" stroke="#DC2626" stroke-width="3" />
+  <circle id="circ_17" cx="210" cy="180" r="6" fill="#334155" stroke="#FFFFFF" stroke-width="2" />
+  <line id="line_18" x1="210" y1="300" x2="110" y2="400" stroke="#DC2626" stroke-width="3" />
+  <circle id="circ_19" cx="110" cy="400" r="6" fill="#334155" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_20" cx="210" cy="300" r="7" fill="#DC2626" stroke="#FFFFFF" stroke-width="2" />
+  <rect id="rect_24" x="262" y="392" width="146" height="28" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_26" x="438" y="156" width="224" height="276" rx="8" fill="#F5F3FF" stroke="#7C3AED" stroke-width="1" data-role="panel" />
+  <rect id="rect_36" x="46" y="456" width="616" height="362" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_46" x="704" y="96" width="672" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_47" x="706" y="98" width="668" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_48" x1="706" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_50" x="1236" y="104" width="126" height="24" rx="6" fill="#DBEAFE" stroke="none" data-role="badge-bg" />
+  <rect id="rect_52" x="726" y="152" width="628" height="296" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="2" data-role="panel" />
+  <polygon id="poly_54" points="996,314 816,210 816,418" fill="#FFFFFF" stroke="#334155" stroke-width="2" />
+  <polygon id="poly_55" points="936,314 846,262 846,366" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" />
+  <line id="line_56" x1="936" y1="314" x2="996" y2="314" stroke="#DC2626" stroke-width="3" />
+  <line id="line_57" x1="876" y1="314" x2="936" y2="314" stroke="#64748B" stroke-width="1" stroke-dasharray="3,3" />
+  <line id="line_58" x1="846" y1="262" x2="816" y2="210" stroke="#DC2626" stroke-width="3" />
+  <line id="line_59" x1="876" y1="314" x2="846" y2="262" stroke="#64748B" stroke-width="1" stroke-dasharray="3,3" />
+  <line id="line_60" x1="846" y1="366" x2="816" y2="418" stroke="#DC2626" stroke-width="3" />
+  <line id="line_61" x1="876" y1="314" x2="846" y2="366" stroke="#64748B" stroke-width="1" stroke-dasharray="3,3" />
+  <circle id="circ_62" cx="876" cy="314" r="4" fill="#DC2626" stroke="none" />
+  <rect id="rect_63" x="1026" y="204" width="308" height="218" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="1" data-role="panel" />
+  <rect id="rect_71" x="726" y="468" width="628" height="350" rx="8" fill="#D1FAE5" stroke="#059669" stroke-width="2" data-role="panel" />
+  <polygon id="poly_73" points="996,646 816,542 816,750" fill="#FFFFFF" stroke="#334155" stroke-width="2" />
+  <polygon id="poly_74" points="936,646 846,594 846,698" fill="#F1F5F9" stroke="#334155" stroke-width="2" />
+  <line id="line_75" x1="936" y1="646" x2="996" y2="646" stroke="#1E3A8A" stroke-width="2" />
+  <line id="line_76" x1="936" y1="646" x2="816" y2="542" stroke="#059669" stroke-width="3" />
+  <line id="line_77" x1="846" y1="594" x2="816" y2="542" stroke="#1E3A8A" stroke-width="2" />
+  <line id="line_78" x1="846" y1="594" x2="816" y2="750" stroke="#059669" stroke-width="3" />
+  <line id="line_79" x1="846" y1="698" x2="816" y2="750" stroke="#1E3A8A" stroke-width="2" />
+  <line id="line_80" x1="846" y1="698" x2="996" y2="646" stroke="#059669" stroke-width="3" />
+  <rect id="rect_81" x="1026" y="524" width="308" height="270" rx="8" fill="#FFFFFF" stroke="#059669" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 06 — Track C1: Maxwell-Cremona Spiderweb Z/mZ Torsion &amp; 6-Triangle Annulus Monodromy</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track C (Trap 6 &amp; Theorem C1) | Saturated Airy Cosheaf A_Z vs F_Z^geom &amp; Repaired Rank-3 Annular Monodromy</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact | Spiderweb ev_V SNF = [1,m,m,m] | Concurrent Spokes Collapse Rank 3-&gt;2 | 6-Tri Chords Restore Z^{3(b-1)}</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. Spiderweb [1,m,m,m] &amp; Twisted Wheel [1,1,1,m]</text>
+  <text id="txt_12" x="597" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F766E">NODAL Z/mZ TORSION</text>
+  <text id="txt_21" x="210" y="162" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">v_2=(0, m)</text>
+  <text id="txt_22" x="348" y="304" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#0F172A">v_1=(m, 0)</text>
+  <text id="txt_23" x="110" y="424" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">v_3=(-m,-m)</text>
+  <text id="txt_25" x="335" y="409" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">v_0: m | z_0!</text>
+  <text id="txt_27" x="452" y="178" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#7C3AED">Primitive Twisted Wheel</text>
+  <text id="txt_28" x="452" y="198" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">All 3 spokes gcd = 1!</text>
+  <text id="txt_29" x="452" y="224" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">F_Z^geom edge torsion:</text>
+  <text id="txt_30" x="452" y="250" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  m=3,9 -&gt; [] (ZERO!)</text>
+  <text id="txt_31" x="452" y="276" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Yet determinant shear</text>
+  <text id="txt_32" x="452" y="302" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">forces nodal SNF:</text>
+  <text id="txt_33" x="452" y="328" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  [1, 1, 1, m]</text>
+  <text id="txt_34" x="452" y="354" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">(Pure sheaf torsion,</text>
+  <text id="txt_35" x="452" y="380" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">not edge-length gcd!)</text>
+  <text id="txt_37" x="60" y="478" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#0F766E">Saturated Integral Airy Sequence &amp; Geometric Force Comparison</text>
+  <text id="txt_38" x="60" y="498" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Short Exact Sequence:  0 -&gt; Z_R^sat -&gt; Aff_R -&gt; A_R -&gt; 0   (R in {Z, Z_(p)})</text>
+  <text id="txt_39" x="60" y="532" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Stalk Ranks:  Face sigma: (0, 3, 3) | Edge e: (1, 3, 2) | Vertex v: (2, 3, 1)</text>
+  <text id="txt_40" x="60" y="566" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"></text>
+  <text id="txt_41" x="60" y="600" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">1. Scaled Spiderweb (m = 2,3,4,6,8,9,12): unclamped ev_V SNF = [1, m, m, m];</text>
+  <text id="txt_42" x="60" y="634" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   clamped tent (z_0 = 1, z_rim = 0) is Q-SAT (1/m) yet Z_(p)-SAT iff p !| m!</text>
+  <text id="txt_43" x="60" y="668" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">2. Maxwell-Cremona 90-deg Rotation: Z_Z^sat ~= F_Z^prim is torsion-free,</text>
+  <text id="txt_44" x="60" y="702" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   whereas unnormalized F_Z^geom embeds with cokernel oplus_e (Z / g_e Z).</text>
+  <text id="txt_45" x="60" y="736" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">3. Multi-Hole Domains: b=2 annulus -&gt; Z^3; b=3 double-punctured grid -&gt; Z^6.</text>
+  <text id="txt_49" x="720" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. Concurrent Spokes (Rk 2) vs 6-Tri Chords (Rk 3)</text>
+  <text id="txt_51" x="1299" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">H_1(A_Z) ~= Z^3</text>
+  <text id="txt_53" x="744" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#DC2626">BROKEN: Untriangulated 3-Sector Annulus (Spokes Concur at Origin)</text>
+  <text id="txt_64" x="1040" y="226" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#DC2626">Concurrency Rank Drop!</text>
+  <text id="txt_65" x="1040" y="246" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">All 3 interior spoke lines</text>
+  <text id="txt_66" x="1040" y="271" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">pass through (0, 0)!</text>
+  <text id="txt_67" x="1040" y="296" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">-&gt; Cross-edge hinge jumps</text>
+  <text id="txt_68" x="1040" y="321" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   satisfy sum n_k x (0,0) = 0.</text>
+  <text id="txt_69" x="1040" y="346" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">-&gt; Monodromy rank collapses</text>
+  <text id="txt_70" x="1040" y="371" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   from 3(b-1)=3 down to 2!</text>
+  <text id="txt_72" x="744" y="494" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#059669">CERTIFIED: 6-Triangle CCW Chord-Subdivided Annulus (Full Rank 3)</text>
+  <text id="txt_82" x="1040" y="546" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">Full Affine Monodromy Z^3</text>
+  <text id="txt_83" x="1040" y="566" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Chords u_1 v_2, u_2 v_3, u_3 v_1</text>
+  <text id="txt_84" x="1040" y="594" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">break spoke concurrency!</text>
+  <text id="txt_85" x="1040" y="622" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">-&gt; 3x6 jump matrix J_mono has</text>
+  <text id="txt_86" x="1040" y="650" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   SNF(J_mono) = [1, 1, 2]</text>
+  <text id="txt_87" x="1040" y="678" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   (exact rank = 3!).</text>
+  <text id="txt_88" x="1040" y="706" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">-&gt; H_1(A_Z) ~= Z^{3(b-1)} = Z^3</text>
+  <text id="txt_89" x="1040" y="734" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   (2 tilts + 1 vertical shift).</text>
+  </g>
+</svg>

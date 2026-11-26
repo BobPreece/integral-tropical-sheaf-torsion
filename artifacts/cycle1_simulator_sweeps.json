@@ -1,0 +1,4728 @@
+{
+  "agent": "simulator",
+  "ast_self_audit": {
+    "passed": true,
+    "scanned_files": [
+      "__init__.py",
+      "run_cycle1_sweeps.py",
+      "run_cycle2_sweeps.py",
+      "run_cycle3_summary.py",
+      "sim_exact_la.py",
+      "svg_atlas.py",
+      "sweep_airy_spiderwebs.py",
+      "sweep_finite_groups.py",
+      "sweep_reeve_fans.py",
+      "sweep_track_a_max6.py",
+      "sweep_track_e_torsors.py",
+      "wave2_sweeps.py"
+    ],
+    "violations": []
+  },
+  "cycle": 1,
+  "stages": {
+    "stage1_reeve": {
+      "a1_2d_control": {
+        "c12_gradient_q": [
+          "0",
+          "1/2"
+        ],
+        "cartier_dc_hull_integral_nonempty": false,
+        "cone_12_snf": [
+          1,
+          2
+        ],
+        "dim_balanced_space": 1,
+        "name": "A_1_2D_fan",
+        "nontrivial_dc_splits_possible": false,
+        "primitive_normals": [
+          [
+            0,
+            1
+          ],
+          [
+            -2,
+            -1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        "primitive_wall_jumps_q": [
+          "1/2",
+          "1/2",
+          "1"
+        ],
+        "rays": [
+          [
+            1,
+            0
+          ],
+          [
+            -1,
+            2
+          ],
+          [
+            0,
+            -1
+          ]
+        ],
+        "runtime_us": 73,
+        "weil_mod_cart_torsion": [
+          2
+        ],
+        "weil_witness_h": [
+          0,
+          1,
+          0
+        ]
+      },
+      "reeve_sweep_r_2_to_12": [
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              2
+            ],
+            [
+              1,
+              1,
+              2
+            ],
+            [
+              1,
+              1,
+              2
+            ],
+            [
+              1,
+              1,
+              2
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 2,
+            "polar_input_bits": 2,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 2,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/2Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            2,
+            2
+          ],
+          "normalized_vol3": 2,
+          "polar_facet_snf": [
+            1,
+            2,
+            2
+          ],
+          "polar_torsion": [
+            2,
+            2
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            2
+          ],
+          "primal_torsion": [
+            2
+          ],
+          "r": 2,
+          "ridge_colon_snfs": [
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              2
+            ]
+          ],
+          "runtime_us": 261,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              2
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/2",
+            "1/2",
+            "1/2"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              1,
+              1,
+              3
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 2,
+            "polar_input_bits": 2,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 2,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/3Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            3,
+            3
+          ],
+          "normalized_vol3": 3,
+          "polar_facet_snf": [
+            1,
+            3,
+            3
+          ],
+          "polar_torsion": [
+            3,
+            3
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            3
+          ],
+          "primal_torsion": [
+            3
+          ],
+          "r": 3,
+          "ridge_colon_snfs": [
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              3
+            ]
+          ],
+          "runtime_us": 274,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              3
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/3",
+            "1/3",
+            "1/3"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              4
+            ],
+            [
+              1,
+              1,
+              4
+            ],
+            [
+              1,
+              1,
+              4
+            ],
+            [
+              1,
+              1,
+              4
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 3,
+            "polar_input_bits": 3,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 3,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/4Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            4,
+            4
+          ],
+          "normalized_vol3": 4,
+          "polar_facet_snf": [
+            1,
+            4,
+            4
+          ],
+          "polar_torsion": [
+            4,
+            4
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            4
+          ],
+          "primal_torsion": [
+            4
+          ],
+          "r": 4,
+          "ridge_colon_snfs": [
+            [
+              1,
+              4
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              1,
+              4
+            ]
+          ],
+          "runtime_us": 267,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              4
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/4",
+            "1/4",
+            "1/4"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              5
+            ],
+            [
+              1,
+              1,
+              5
+            ],
+            [
+              1,
+              1,
+              5
+            ],
+            [
+              1,
+              1,
+              5
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 3,
+            "polar_input_bits": 3,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 3,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/5Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            5,
+            5
+          ],
+          "normalized_vol3": 5,
+          "polar_facet_snf": [
+            1,
+            5,
+            5
+          ],
+          "polar_torsion": [
+            5,
+            5
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            5
+          ],
+          "primal_torsion": [
+            5
+          ],
+          "r": 5,
+          "ridge_colon_snfs": [
+            [
+              1,
+              5
+            ],
+            [
+              1,
+              5
+            ],
+            [
+              1,
+              5
+            ]
+          ],
+          "runtime_us": 277,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              5
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/5",
+            "1/5",
+            "1/5"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              6
+            ],
+            [
+              1,
+              1,
+              6
+            ],
+            [
+              1,
+              1,
+              6
+            ],
+            [
+              1,
+              1,
+              6
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 3,
+            "polar_input_bits": 3,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 3,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/6Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            6,
+            6
+          ],
+          "normalized_vol3": 6,
+          "polar_facet_snf": [
+            1,
+            6,
+            6
+          ],
+          "polar_torsion": [
+            6,
+            6
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            6
+          ],
+          "primal_torsion": [
+            6
+          ],
+          "r": 6,
+          "ridge_colon_snfs": [
+            [
+              1,
+              6
+            ],
+            [
+              1,
+              6
+            ],
+            [
+              1,
+              6
+            ]
+          ],
+          "runtime_us": 270,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              6
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/6",
+            "1/6",
+            "1/6"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              7
+            ],
+            [
+              1,
+              1,
+              7
+            ],
+            [
+              1,
+              1,
+              7
+            ],
+            [
+              1,
+              1,
+              7
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 3,
+            "polar_input_bits": 3,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 3,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/7Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            7,
+            7
+          ],
+          "normalized_vol3": 7,
+          "polar_facet_snf": [
+            1,
+            7,
+            7
+          ],
+          "polar_torsion": [
+            7,
+            7
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            7
+          ],
+          "primal_torsion": [
+            7
+          ],
+          "r": 7,
+          "ridge_colon_snfs": [
+            [
+              1,
+              7
+            ],
+            [
+              1,
+              7
+            ],
+            [
+              1,
+              7
+            ]
+          ],
+          "runtime_us": 301,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              7
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/7",
+            "1/7",
+            "1/7"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              8
+            ],
+            [
+              1,
+              1,
+              8
+            ],
+            [
+              1,
+              1,
+              8
+            ],
+            [
+              1,
+              1,
+              8
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 4,
+            "polar_input_bits": 4,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 4,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/8Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            8,
+            8
+          ],
+          "normalized_vol3": 8,
+          "polar_facet_snf": [
+            1,
+            8,
+            8
+          ],
+          "polar_torsion": [
+            8,
+            8
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            8
+          ],
+          "primal_torsion": [
+            8
+          ],
+          "r": 8,
+          "ridge_colon_snfs": [
+            [
+              1,
+              8
+            ],
+            [
+              1,
+              8
+            ],
+            [
+              1,
+              8
+            ]
+          ],
+          "runtime_us": 269,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              8
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/8",
+            "1/8",
+            "1/8"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              9
+            ],
+            [
+              1,
+              1,
+              9
+            ],
+            [
+              1,
+              1,
+              9
+            ],
+            [
+              1,
+              1,
+              9
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 4,
+            "polar_input_bits": 4,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 4,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/9Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            9,
+            9
+          ],
+          "normalized_vol3": 9,
+          "polar_facet_snf": [
+            1,
+            9,
+            9
+          ],
+          "polar_torsion": [
+            9,
+            9
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            9
+          ],
+          "primal_torsion": [
+            9
+          ],
+          "r": 9,
+          "ridge_colon_snfs": [
+            [
+              1,
+              9
+            ],
+            [
+              1,
+              9
+            ],
+            [
+              1,
+              9
+            ]
+          ],
+          "runtime_us": 291,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              9
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/9",
+            "1/9",
+            "1/9"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              10
+            ],
+            [
+              1,
+              1,
+              10
+            ],
+            [
+              1,
+              1,
+              10
+            ],
+            [
+              1,
+              1,
+              10
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 4,
+            "polar_input_bits": 4,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 4,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/10Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            10,
+            10
+          ],
+          "normalized_vol3": 10,
+          "polar_facet_snf": [
+            1,
+            10,
+            10
+          ],
+          "polar_torsion": [
+            10,
+            10
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            10
+          ],
+          "primal_torsion": [
+            10
+          ],
+          "r": 10,
+          "ridge_colon_snfs": [
+            [
+              1,
+              10
+            ],
+            [
+              1,
+              10
+            ],
+            [
+              1,
+              10
+            ]
+          ],
+          "runtime_us": 277,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              10
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/10",
+            "1/10",
+            "1/10"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              11
+            ],
+            [
+              1,
+              1,
+              11
+            ],
+            [
+              1,
+              1,
+              11
+            ],
+            [
+              1,
+              1,
+              11
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 4,
+            "polar_input_bits": 4,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 4,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/11Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            11,
+            11
+          ],
+          "normalized_vol3": 11,
+          "polar_facet_snf": [
+            1,
+            11,
+            11
+          ],
+          "polar_torsion": [
+            11,
+            11
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            11
+          ],
+          "primal_torsion": [
+            11
+          ],
+          "r": 11,
+          "ridge_colon_snfs": [
+            [
+              1,
+              11
+            ],
+            [
+              1,
+              11
+            ],
+            [
+              1,
+              11
+            ]
+          ],
+          "runtime_us": 295,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              11
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/11",
+            "1/11",
+            "1/11"
+          ]
+        },
+        {
+          "all_4_vertex_cones_snf": [
+            [
+              1,
+              1,
+              12
+            ],
+            [
+              1,
+              1,
+              12
+            ],
+            [
+              1,
+              1,
+              12
+            ],
+            [
+              1,
+              1,
+              12
+            ]
+          ],
+          "bit_metrics": {
+            "peak_bits": 4,
+            "polar_input_bits": 4,
+            "polar_u_bits": 1,
+            "polar_v_bits": 1,
+            "primal_input_bits": 4,
+            "primal_u_bits": 1,
+            "primal_v_bits": 1
+          },
+          "cartier_dc_hull_empty_for_non_cartier_weil": true,
+          "complete_fan_weil_mod_cart": "Z/12Z",
+          "is_empty_lattice_simplex": true,
+          "lattice_point_count": 4,
+          "normal_fan_cone_snf": [
+            1,
+            12,
+            12
+          ],
+          "normalized_vol3": 12,
+          "polar_facet_snf": [
+            1,
+            12,
+            12
+          ],
+          "polar_torsion": [
+            12,
+            12
+          ],
+          "primal_edge_snf": [
+            1,
+            1,
+            12
+          ],
+          "primal_torsion": [
+            12
+          ],
+          "r": 12,
+          "ridge_colon_snfs": [
+            [
+              1,
+              12
+            ],
+            [
+              1,
+              12
+            ],
+            [
+              1,
+              12
+            ]
+          ],
+          "runtime_us": 284,
+          "vertices": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              12
+            ]
+          ],
+          "weil_generator_reeve_wall_jumps": [
+            "1/12",
+            "1/12",
+            "1/12"
+          ]
+        }
+      ],
+      "stage": "stage1_reeve_tetrahedra",
+      "total_runtime_us": 3461,
+      "unimodular_r1_control": {
+        "all_4_vertex_cones_snf": [
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1
+          ]
+        ],
+        "bit_metrics": {
+          "peak_bits": 1,
+          "polar_input_bits": 1,
+          "polar_u_bits": 1,
+          "polar_v_bits": 1,
+          "primal_input_bits": 1,
+          "primal_u_bits": 1,
+          "primal_v_bits": 1
+        },
+        "cartier_dc_hull_empty_for_non_cartier_weil": false,
+        "complete_fan_weil_mod_cart": "0",
+        "is_empty_lattice_simplex": true,
+        "lattice_point_count": 4,
+        "normal_fan_cone_snf": [
+          1,
+          1,
+          1
+        ],
+        "normalized_vol3": 1,
+        "polar_facet_snf": [
+          1,
+          1,
+          1
+        ],
+        "polar_torsion": [],
+        "primal_edge_snf": [
+          1,
+          1,
+          1
+        ],
+        "primal_torsion": [],
+        "r": 1,
+        "ridge_colon_snfs": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "runtime_us": 265,
+        "vertices": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            1
+          ]
+        ],
+        "weil_generator_reeve_wall_jumps": [
+          "1",
+          "1",
+          "1"
+        ]
+      }
+    },
+    "stage2_fans_cg": {
+      "five_ray_higher_cg_sweep": [
+        {
+          "cartier_wf": [
+            0,
+            1,
+            0,
+            1,
+            -3
+          ],
+          "initial_max_denominator": 7,
+          "k": 1,
+          "odd_slope_param": 3,
+          "rays_ccw": [
+            [
+              1,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              -3,
+              1
+            ],
+            [
+              -1,
+              -2
+            ],
+            [
+              0,
+              -1
+            ]
+          ],
+          "rounds_trace": [
+            {
+              "max_denominator": 7,
+              "num_ineqs": 5,
+              "num_vertices": 2,
+              "round": 0,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "6/7",
+                  "1",
+                  "3/7"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 10,
+              "num_vertices": 4,
+              "round": 1,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "3",
+                  "4",
+                  "3"
+                ],
+                [
+                  "3/2",
+                  "3/2",
+                  "1"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 12,
+              "num_vertices": 4,
+              "round": 2,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "2",
+                  "2",
+                  "3/2"
+                ],
+                [
+                  "3",
+                  "4",
+                  "3"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 1,
+              "num_ineqs": 13,
+              "num_vertices": 3,
+              "round": 3,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "3",
+                  "4",
+                  "3"
+                ]
+              ]
+            }
+          ],
+          "runtime_us": 11941,
+          "simultaneous_elementary_cg_rank": 3
+        },
+        {
+          "cartier_wf": [
+            0,
+            1,
+            0,
+            1,
+            -5
+          ],
+          "initial_max_denominator": 11,
+          "k": 2,
+          "odd_slope_param": 5,
+          "rays_ccw": [
+            [
+              1,
+              0
+            ],
+            [
+              5,
+              1
+            ],
+            [
+              -5,
+              1
+            ],
+            [
+              -1,
+              -2
+            ],
+            [
+              0,
+              -1
+            ]
+          ],
+          "rounds_trace": [
+            {
+              "max_denominator": 11,
+              "num_ineqs": 5,
+              "num_vertices": 2,
+              "round": 0,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "10/11",
+                  "1",
+                  "5/11"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 14,
+              "num_vertices": 4,
+              "round": 1,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "3/2",
+                  "3/2",
+                  "1"
+                ],
+                [
+                  "5",
+                  "6",
+                  "5"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 18,
+              "num_vertices": 4,
+              "round": 2,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "2",
+                  "2",
+                  "3/2"
+                ],
+                [
+                  "5",
+                  "6",
+                  "5"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 21,
+              "num_vertices": 4,
+              "round": 3,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "5",
+                  "6",
+                  "5"
+                ],
+                [
+                  "5/2",
+                  "5/2",
+                  "2"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 23,
+              "num_vertices": 4,
+              "round": 4,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "3",
+                  "3",
+                  "5/2"
+                ],
+                [
+                  "5",
+                  "6",
+                  "5"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 1,
+              "num_ineqs": 24,
+              "num_vertices": 3,
+              "round": 5,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "5",
+                  "6",
+                  "5"
+                ]
+              ]
+            }
+          ],
+          "runtime_us": 156583,
+          "simultaneous_elementary_cg_rank": 5
+        },
+        {
+          "cartier_wf": [
+            0,
+            1,
+            0,
+            1,
+            -7
+          ],
+          "initial_max_denominator": 15,
+          "k": 3,
+          "odd_slope_param": 7,
+          "rays_ccw": [
+            [
+              1,
+              0
+            ],
+            [
+              7,
+              1
+            ],
+            [
+              -7,
+              1
+            ],
+            [
+              -1,
+              -2
+            ],
+            [
+              0,
+              -1
+            ]
+          ],
+          "rounds_trace": [
+            {
+              "max_denominator": 15,
+              "num_ineqs": 5,
+              "num_vertices": 2,
+              "round": 0,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "14/15",
+                  "1",
+                  "7/15"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 18,
+              "num_vertices": 4,
+              "round": 1,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "3/2",
+                  "3/2",
+                  "1"
+                ],
+                [
+                  "7",
+                  "8",
+                  "7"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 24,
+              "num_vertices": 4,
+              "round": 2,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "2",
+                  "2",
+                  "3/2"
+                ],
+                [
+                  "7",
+                  "8",
+                  "7"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 29,
+              "num_vertices": 4,
+              "round": 3,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "5/2",
+                  "5/2",
+                  "2"
+                ],
+                [
+                  "7",
+                  "8",
+                  "7"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 33,
+              "num_vertices": 4,
+              "round": 4,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "3",
+                  "3",
+                  "5/2"
+                ],
+                [
+                  "7",
+                  "8",
+                  "7"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 36,
+              "num_vertices": 4,
+              "round": 5,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "7",
+                  "8",
+                  "7"
+                ],
+                [
+                  "7/2",
+                  "7/2",
+                  "3"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 2,
+              "num_ineqs": 38,
+              "num_vertices": 4,
+              "round": 6,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "4",
+                  "4",
+                  "7/2"
+                ],
+                [
+                  "7",
+                  "8",
+                  "7"
+                ]
+              ]
+            },
+            {
+              "max_denominator": 1,
+              "num_ineqs": 39,
+              "num_vertices": 3,
+              "round": 7,
+              "vertices": [
+                [
+                  "1",
+                  "1",
+                  "0"
+                ],
+                [
+                  "2",
+                  "1",
+                  "1"
+                ],
+                [
+                  "7",
+                  "8",
+                  "7"
+                ]
+              ]
+            }
+          ],
+          "runtime_us": 1156241,
+          "simultaneous_elementary_cg_rank": 7
+        }
+      ],
+      "four_ray_sweep_k_1_to_10": [
+        {
+          "cone_determinant": 5,
+          "k": 1,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                2,
+                1
+              ],
+              "w_plus": [
+                1,
+                2,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                2,
+                2
+              ],
+              "w_plus": [
+                4,
+                2,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                3,
+                1
+              ],
+              "w_plus": [
+                0,
+                3,
+                2,
+                5
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "6/5",
+            "2/5"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "6/5",
+            "4/5",
+            "2"
+          ],
+          "max_bits": 3,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              3,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -3
+            ]
+          ],
+          "runtime_us": 165,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "3",
+              "1"
+            ],
+            [
+              "3/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "2",
+              "1"
+            ],
+            [
+              "2",
+              "2"
+            ],
+            [
+              "3",
+              "1"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 2,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 7,
+          "k": 2,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                3,
+                1
+              ],
+              "w_plus": [
+                2,
+                3,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                4,
+                2
+              ],
+              "w_plus": [
+                6,
+                4,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                5,
+                1
+              ],
+              "w_plus": [
+                0,
+                5,
+                2,
+                7
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "10/7",
+            "2/7"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "10/7",
+            "4/7",
+            "2"
+          ],
+          "max_bits": 4,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              5,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -5
+            ]
+          ],
+          "runtime_us": 178,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "5",
+              "1"
+            ],
+            [
+              "5/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "3",
+              "1"
+            ],
+            [
+              "5",
+              "1"
+            ],
+            [
+              "3",
+              "4/3"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 9,
+          "k": 3,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                4,
+                1
+              ],
+              "w_plus": [
+                3,
+                4,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                6,
+                2
+              ],
+              "w_plus": [
+                8,
+                6,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                7,
+                1
+              ],
+              "w_plus": [
+                0,
+                7,
+                2,
+                9
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "14/9",
+            "2/9"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "14/9",
+            "4/9",
+            "2"
+          ],
+          "max_bits": 4,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              7,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -7
+            ]
+          ],
+          "runtime_us": 178,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "7",
+              "1"
+            ],
+            [
+              "7/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "4",
+              "1"
+            ],
+            [
+              "7",
+              "1"
+            ],
+            [
+              "4",
+              "6/5"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 11,
+          "k": 4,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                5,
+                1
+              ],
+              "w_plus": [
+                4,
+                5,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                8,
+                2
+              ],
+              "w_plus": [
+                10,
+                8,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                9,
+                1
+              ],
+              "w_plus": [
+                0,
+                9,
+                2,
+                11
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "18/11",
+            "2/11"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "18/11",
+            "4/11",
+            "2"
+          ],
+          "max_bits": 5,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              9,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -9
+            ]
+          ],
+          "runtime_us": 187,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "9",
+              "1"
+            ],
+            [
+              "9/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "5",
+              "1"
+            ],
+            [
+              "9",
+              "1"
+            ],
+            [
+              "5",
+              "8/7"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 13,
+          "k": 5,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                6,
+                1
+              ],
+              "w_plus": [
+                5,
+                6,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                10,
+                2
+              ],
+              "w_plus": [
+                12,
+                10,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                11,
+                1
+              ],
+              "w_plus": [
+                0,
+                11,
+                2,
+                13
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "22/13",
+            "2/13"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "22/13",
+            "4/13",
+            "2"
+          ],
+          "max_bits": 6,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              11,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -11
+            ]
+          ],
+          "runtime_us": 186,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "11",
+              "1"
+            ],
+            [
+              "11/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "6",
+              "1"
+            ],
+            [
+              "11",
+              "1"
+            ],
+            [
+              "6",
+              "10/9"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 15,
+          "k": 6,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                7,
+                1
+              ],
+              "w_plus": [
+                6,
+                7,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                12,
+                2
+              ],
+              "w_plus": [
+                14,
+                12,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                13,
+                1
+              ],
+              "w_plus": [
+                0,
+                13,
+                2,
+                15
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "26/15",
+            "2/15"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "26/15",
+            "4/15",
+            "2"
+          ],
+          "max_bits": 7,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              13,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -13
+            ]
+          ],
+          "runtime_us": 209,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "13",
+              "1"
+            ],
+            [
+              "13/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "7",
+              "1"
+            ],
+            [
+              "13",
+              "1"
+            ],
+            [
+              "7",
+              "12/11"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 17,
+          "k": 7,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                8,
+                1
+              ],
+              "w_plus": [
+                7,
+                8,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                14,
+                2
+              ],
+              "w_plus": [
+                16,
+                14,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                15,
+                1
+              ],
+              "w_plus": [
+                0,
+                15,
+                2,
+                17
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "30/17",
+            "2/17"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "30/17",
+            "4/17",
+            "2"
+          ],
+          "max_bits": 7,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              15,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -15
+            ]
+          ],
+          "runtime_us": 207,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "15",
+              "1"
+            ],
+            [
+              "15/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "8",
+              "1"
+            ],
+            [
+              "15",
+              "1"
+            ],
+            [
+              "8",
+              "14/13"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 19,
+          "k": 8,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                9,
+                1
+              ],
+              "w_plus": [
+                8,
+                9,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                16,
+                2
+              ],
+              "w_plus": [
+                18,
+                16,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                17,
+                1
+              ],
+              "w_plus": [
+                0,
+                17,
+                2,
+                19
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "34/19",
+            "2/19"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "34/19",
+            "4/19",
+            "2"
+          ],
+          "max_bits": 7,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              17,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -17
+            ]
+          ],
+          "runtime_us": 208,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "17",
+              "1"
+            ],
+            [
+              "17/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "9",
+              "1"
+            ],
+            [
+              "17",
+              "1"
+            ],
+            [
+              "9",
+              "16/15"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 21,
+          "k": 9,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                10,
+                1
+              ],
+              "w_plus": [
+                9,
+                10,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                18,
+                2
+              ],
+              "w_plus": [
+                20,
+                18,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                19,
+                1
+              ],
+              "w_plus": [
+                0,
+                19,
+                2,
+                21
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "38/21",
+            "2/21"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "38/21",
+            "4/21",
+            "2"
+          ],
+          "max_bits": 8,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              19,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -19
+            ]
+          ],
+          "runtime_us": 224,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "19",
+              "1"
+            ],
+            [
+              "19/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "10",
+              "1"
+            ],
+            [
+              "19",
+              "1"
+            ],
+            [
+              "10",
+              "18/17"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        },
+        {
+          "cone_determinant": 23,
+          "k": 10,
+          "klein_sail_integer_vertices": [
+            {
+              "ut": [
+                11,
+                1
+              ],
+              "w_plus": [
+                10,
+                11,
+                2,
+                3
+              ]
+            },
+            {
+              "ut": [
+                20,
+                2
+              ],
+              "w_plus": [
+                22,
+                20,
+                4,
+                2
+              ]
+            },
+            {
+              "ut": [
+                21,
+                1
+              ],
+              "w_plus": [
+                0,
+                21,
+                2,
+                23
+              ]
+            }
+          ],
+          "lp_vertex_ut": [
+            "42/23",
+            "2/23"
+          ],
+          "lp_vertex_w_plus": [
+            "0",
+            "42/23",
+            "4/23",
+            "2"
+          ],
+          "max_bits": 8,
+          "primitive_normals": [
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              21,
+              -1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "rays": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              -1,
+              2
+            ],
+            [
+              -1,
+              -21
+            ]
+          ],
+          "runtime_us": 224,
+          "seq_round1_verts_after_t_ge_1": [
+            [
+              "21",
+              "1"
+            ],
+            [
+              "21/2",
+              "1"
+            ]
+          ],
+          "seq_round2_verts_after_u_ge_kp1": [
+            [
+              "11",
+              "1"
+            ],
+            [
+              "21",
+              "1"
+            ],
+            [
+              "11",
+              "20/19"
+            ]
+          ],
+          "sequential_axis_gomory_rounds": 3,
+          "simultaneous_elementary_cg_rank": 1
+        }
+      ],
+      "stage": "stage2_four_ray_and_five_ray_fans_cg",
+      "total_runtime_us": 1326824
+    },
+    "stage3_airy": {
+      "desargues_prisms": [
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 6,
+              "modulus": 2,
+              "prime": 2,
+              "scale_k": 1,
+              "snf_vp_ge_k_count": 1
+            }
+          ],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2,
+            2,
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [
+            2
+          ],
+          "h2_int_airy_rank": 6,
+          "max_bits": 4,
+          "monodromy_witness": {},
+          "name": "desargues_prism_m1",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            6
+          ],
+          "nodal_eval_torsion": [
+            2,
+            6
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 12,
+          "num_faces": 7,
+          "num_vertices": 6,
+          "runtime_us": 4521,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 6,
+              "modulus": 3,
+              "prime": 3,
+              "scale_k": 1,
+              "snf_vp_ge_k_count": 1
+            }
+          ],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2,
+            2,
+            2,
+            3,
+            3,
+            3
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [
+            3
+          ],
+          "h2_int_airy_rank": 6,
+          "max_bits": 4,
+          "monodromy_witness": {},
+          "name": "desargues_prism_m2",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            6,
+            6,
+            6
+          ],
+          "nodal_eval_torsion": [
+            6,
+            6,
+            6
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 12,
+          "num_faces": 7,
+          "num_vertices": 6,
+          "runtime_us": 4510,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 3,
+              "modulus": 3,
+              "prime": 3,
+              "scale_k": 1,
+              "snf_vp_ge_k_count": 1
+            },
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 6,
+              "modulus": 2,
+              "prime": 2,
+              "scale_k": 1,
+              "snf_vp_ge_k_count": 1
+            },
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 6,
+              "modulus": 4,
+              "prime": 2,
+              "scale_k": 2,
+              "snf_vp_ge_k_count": 1
+            }
+          ],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            3,
+            3,
+            3,
+            4,
+            4,
+            4
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [
+            3
+          ],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [
+            4
+          ],
+          "h2_int_airy_rank": 6,
+          "max_bits": 6,
+          "monodromy_witness": {},
+          "name": "desargues_prism_m3",
+          "nodal_eval_snf": [
+            1,
+            1,
+            3,
+            3,
+            12,
+            12
+          ],
+          "nodal_eval_torsion": [
+            3,
+            3,
+            12,
+            12
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 12,
+          "num_faces": 7,
+          "num_vertices": 6,
+          "runtime_us": 4410,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            4,
+            4,
+            4,
+            5,
+            5,
+            5
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [
+            5
+          ],
+          "h2_int_airy_rank": 6,
+          "max_bits": 8,
+          "monodromy_witness": {},
+          "name": "desargues_prism_m4",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            4,
+            20,
+            60
+          ],
+          "nodal_eval_torsion": [
+            4,
+            20,
+            60
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 12,
+          "num_faces": 7,
+          "num_vertices": 6,
+          "runtime_us": 4434,
+          "saturation_projectors_verified": true
+        }
+      ],
+      "primitive_twisted_spiderwebs": [
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 2,
+          "monodromy_witness": {},
+          "name": "spiderweb_prim_twist_m2",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            2
+          ],
+          "nodal_eval_torsion": [
+            2
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 986,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 4,
+          "monodromy_witness": {},
+          "name": "spiderweb_prim_twist_m3",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            3
+          ],
+          "nodal_eval_torsion": [
+            3
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 998,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 4,
+          "monodromy_witness": {},
+          "name": "spiderweb_prim_twist_m4",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            4
+          ],
+          "nodal_eval_torsion": [
+            4
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 985,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 5,
+          "monodromy_witness": {},
+          "name": "spiderweb_prim_twist_m6",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            6
+          ],
+          "nodal_eval_torsion": [
+            6
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 1018,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 6,
+          "monodromy_witness": {},
+          "name": "spiderweb_prim_twist_m8",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            8
+          ],
+          "nodal_eval_torsion": [
+            8
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 989,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 7,
+          "monodromy_witness": {},
+          "name": "spiderweb_prim_twist_m9",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            9
+          ],
+          "nodal_eval_torsion": [
+            9
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 996,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 7,
+          "monodromy_witness": {},
+          "name": "spiderweb_prim_twist_m12",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            12
+          ],
+          "nodal_eval_torsion": [
+            12
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 982,
+          "saturation_projectors_verified": true
+        }
+      ],
+      "punctured_annuli": [
+        {
+          "aff_monodromy_free_rank_3_bm1": 3,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 6,
+              "modulus": 2,
+              "prime": 2,
+              "scale_k": 1,
+              "snf_vp_ge_k_count": 1
+            }
+          ],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2,
+            2,
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [
+            2
+          ],
+          "h2_int_airy_rank": 6,
+          "max_bits": 4,
+          "monodromy_witness": {
+            "mu_mono_z3_vector": [
+              0,
+              1,
+              0
+            ],
+            "nonzero_monodromy_certified": true,
+            "single_hinge_edge": [
+              0,
+              3
+            ]
+          },
+          "name": "punctured_annulus_b2_s1",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "nodal_eval_torsion": [
+            2,
+            2
+          ],
+          "num_boundary_components": 2,
+          "num_edges": 12,
+          "num_faces": 6,
+          "num_vertices": 6,
+          "runtime_us": 3391,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 3,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 0,
+              "modulus": 2,
+              "prime": 2,
+              "scale_k": 1,
+              "snf_vp_ge_k_count": 1
+            },
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 6,
+              "modulus": 2,
+              "prime": 2,
+              "scale_k": 1,
+              "snf_vp_ge_k_count": 1
+            },
+            {
+              "bockstein_rank_mod_pk": 1,
+              "exact_match": true,
+              "free_h2_rank": 6,
+              "modulus": 4,
+              "prime": 2,
+              "scale_k": 2,
+              "snf_vp_ge_k_count": 1
+            }
+          ],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            4,
+            4,
+            4
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [
+            2
+          ],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [
+            4
+          ],
+          "h2_int_airy_rank": 6,
+          "max_bits": 5,
+          "monodromy_witness": {
+            "mu_mono_z3_vector": [
+              0,
+              1,
+              0
+            ],
+            "nonzero_monodromy_certified": true,
+            "single_hinge_edge": [
+              0,
+              3
+            ]
+          },
+          "name": "punctured_annulus_b2_s2",
+          "nodal_eval_snf": [
+            1,
+            2,
+            2,
+            2,
+            4,
+            4
+          ],
+          "nodal_eval_torsion": [
+            2,
+            2,
+            2,
+            4,
+            4
+          ],
+          "num_boundary_components": 2,
+          "num_edges": 12,
+          "num_faces": 6,
+          "num_vertices": 6,
+          "runtime_us": 3418,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 6,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {},
+          "geom_vs_prim_edge_torsion": [],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 24,
+          "max_bits": 3,
+          "monodromy_witness": {},
+          "name": "double_punctured_b3",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "nodal_eval_torsion": [],
+          "num_boundary_components": 3,
+          "num_edges": 51,
+          "num_faces": 26,
+          "num_vertices": 24,
+          "runtime_us": 55403,
+          "saturation_projectors_verified": true
+        }
+      ],
+      "scaled_spiderwebs": [
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 1,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": true,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 2,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m1",
+          "nodal_eval_snf": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "nodal_eval_torsion": [],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 1017,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 2,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 2,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m2",
+          "nodal_eval_snf": [
+            1,
+            2,
+            2,
+            2
+          ],
+          "nodal_eval_torsion": [
+            2,
+            2,
+            2
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 1001,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 3,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 2,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m3",
+          "nodal_eval_snf": [
+            1,
+            3,
+            3,
+            3
+          ],
+          "nodal_eval_torsion": [
+            3,
+            3,
+            3
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 995,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 4,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 3,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m4",
+          "nodal_eval_snf": [
+            1,
+            4,
+            4,
+            4
+          ],
+          "nodal_eval_torsion": [
+            4,
+            4,
+            4
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 997,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 5,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 3,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m5",
+          "nodal_eval_snf": [
+            1,
+            5,
+            5,
+            5
+          ],
+          "nodal_eval_torsion": [
+            5,
+            5,
+            5
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 1023,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 6,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 3,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m6",
+          "nodal_eval_snf": [
+            1,
+            6,
+            6,
+            6
+          ],
+          "nodal_eval_torsion": [
+            6,
+            6,
+            6
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 1010,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 8,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            8,
+            8,
+            8,
+            8,
+            8,
+            8
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 4,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m8",
+          "nodal_eval_snf": [
+            1,
+            8,
+            8,
+            8
+          ],
+          "nodal_eval_torsion": [
+            8,
+            8,
+            8
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 1004,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 9,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 4,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m9",
+          "nodal_eval_snf": [
+            1,
+            9,
+            9,
+            9
+          ],
+          "nodal_eval_torsion": [
+            9,
+            9,
+            9
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 996,
+          "saturation_projectors_verified": true
+        },
+        {
+          "aff_monodromy_free_rank_3_bm1": 0,
+          "bockstein_checks_passed": true,
+          "bockstein_nontrivial_entries": [],
+          "clamped_rim_check": {
+            "q_denominator_at_z0_eq_1": 12,
+            "z0_eq_1_q_sat": true,
+            "z0_eq_1_z_sat": false,
+            "z0_eq_m_z_sat": true
+          },
+          "geom_vs_prim_edge_torsion": [
+            12,
+            12,
+            12,
+            12,
+            12,
+            12
+          ],
+          "h1_all_free_rank": 0,
+          "h1_all_torsion": [],
+          "h1_int_free_rank": 0,
+          "h1_int_torsion": [],
+          "h2_int_airy_rank": 4,
+          "max_bits": 4,
+          "monodromy_witness": {},
+          "name": "spiderweb_scaled_m12",
+          "nodal_eval_snf": [
+            1,
+            12,
+            12,
+            12
+          ],
+          "nodal_eval_torsion": [
+            12,
+            12,
+            12
+          ],
+          "num_boundary_components": 1,
+          "num_edges": 6,
+          "num_faces": 3,
+          "num_vertices": 4,
+          "runtime_us": 990,
+          "saturation_projectors_verified": true
+        }
+      ],
+      "stage": "stage3_airy_spiderwebs_and_annuli",
+      "total_runtime_us": 96513
+    },
+    "stage4_groups": {
+      "groups": [
+        {
+          "cyclic_1layer_circuit": {
+            "biased_width_2nm2": 4,
+            "exact_z_indicator_verified": true,
+            "grid_snf": [
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "unbiased_width_2nm1": 5
+          },
+          "g_squared": 9,
+          "irrep_e0_q_denominator": 3,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            3
+          ],
+          "irrep_readout_torsion": [
+            3
+          ],
+          "is_abelian": true,
+          "max_bits": 2,
+          "minimal_faithful_perm_degree": 3,
+          "name": "C_3",
+          "num_subgroups": 2,
+          "order": 3,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": false,
+            "perm_degree_m": 3,
+            "reason": "m^2 = 9 == |G|^2 = 9 (no proper faithful permutation compression)",
+            "width_m2": 9
+          },
+          "proper_coset_e0_q_sat": false,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 1,
+          "proper_coset_q_rank": 1,
+          "proper_coset_snf": [
+            1
+          ],
+          "proper_coset_spans_all_outcomes_q": false,
+          "proper_coset_torsion": [],
+          "runtime_us": 324,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 9
+        },
+        {
+          "cyclic_1layer_circuit": null,
+          "g_squared": 16,
+          "irrep_e0_q_denominator": 4,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            2,
+            2,
+            4
+          ],
+          "irrep_readout_torsion": [
+            2,
+            2,
+            4
+          ],
+          "is_abelian": true,
+          "max_bits": 3,
+          "minimal_faithful_perm_degree": 4,
+          "name": "V_4",
+          "num_subgroups": 5,
+          "order": 4,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": false,
+            "perm_degree_m": 4,
+            "reason": "m^2 = 16 == |G|^2 = 16 (no proper faithful permutation compression)",
+            "width_m2": 16
+          },
+          "proper_coset_e0_q_sat": true,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 7,
+          "proper_coset_q_rank": 4,
+          "proper_coset_snf": [
+            1,
+            1,
+            1,
+            2
+          ],
+          "proper_coset_spans_all_outcomes_q": true,
+          "proper_coset_torsion": [
+            2
+          ],
+          "runtime_us": 436,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 16
+        },
+        {
+          "cyclic_1layer_circuit": {
+            "biased_width_2nm2": 6,
+            "exact_z_indicator_verified": true,
+            "grid_snf": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "unbiased_width_2nm1": 7
+          },
+          "g_squared": 16,
+          "irrep_e0_q_denominator": 4,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            2,
+            4
+          ],
+          "irrep_readout_torsion": [
+            2,
+            4
+          ],
+          "is_abelian": true,
+          "max_bits": 3,
+          "minimal_faithful_perm_degree": 4,
+          "name": "C_4",
+          "num_subgroups": 3,
+          "order": 4,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": false,
+            "perm_degree_m": 4,
+            "reason": "m^2 = 16 == |G|^2 = 16 (no proper faithful permutation compression)",
+            "width_m2": 16
+          },
+          "proper_coset_e0_q_sat": false,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 3,
+          "proper_coset_q_rank": 2,
+          "proper_coset_snf": [
+            1,
+            1
+          ],
+          "proper_coset_spans_all_outcomes_q": false,
+          "proper_coset_torsion": [],
+          "runtime_us": 586,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 16
+        },
+        {
+          "cyclic_1layer_circuit": {
+            "biased_width_2nm2": 8,
+            "exact_z_indicator_verified": true,
+            "grid_snf": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "unbiased_width_2nm1": 9
+          },
+          "g_squared": 25,
+          "irrep_e0_q_denominator": 5,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            1,
+            1,
+            5
+          ],
+          "irrep_readout_torsion": [
+            5
+          ],
+          "is_abelian": true,
+          "max_bits": 3,
+          "minimal_faithful_perm_degree": 5,
+          "name": "C_5",
+          "num_subgroups": 2,
+          "order": 5,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": false,
+            "perm_degree_m": 5,
+            "reason": "m^2 = 25 == |G|^2 = 25 (no proper faithful permutation compression)",
+            "width_m2": 25
+          },
+          "proper_coset_e0_q_sat": false,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 1,
+          "proper_coset_q_rank": 1,
+          "proper_coset_snf": [
+            1
+          ],
+          "proper_coset_spans_all_outcomes_q": false,
+          "proper_coset_torsion": [],
+          "runtime_us": 986,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 25
+        },
+        {
+          "cyclic_1layer_circuit": null,
+          "g_squared": 36,
+          "irrep_e0_q_denominator": 6,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            1,
+            3,
+            3,
+            6
+          ],
+          "irrep_readout_torsion": [
+            3,
+            3,
+            6
+          ],
+          "is_abelian": false,
+          "max_bits": 3,
+          "minimal_faithful_perm_degree": 3,
+          "name": "S_3",
+          "num_subgroups": 6,
+          "order": 6,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": true,
+            "compression_ratio_num_den": [
+              9,
+              36
+            ],
+            "min_strict_argmax_margin": 1,
+            "perm_degree_m": 3,
+            "verified_all_g2_pairs": true,
+            "width_m2": 9,
+            "zero_bias_pure_z": true
+          },
+          "proper_coset_e0_q_sat": true,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 12,
+          "proper_coset_q_rank": 6,
+          "proper_coset_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            3
+          ],
+          "proper_coset_spans_all_outcomes_q": true,
+          "proper_coset_torsion": [
+            3
+          ],
+          "runtime_us": 1469,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 36
+        },
+        {
+          "cyclic_1layer_circuit": null,
+          "g_squared": 64,
+          "irrep_e0_q_denominator": 8,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            4,
+            4,
+            8
+          ],
+          "irrep_readout_torsion": [
+            2,
+            2,
+            2,
+            4,
+            4,
+            8
+          ],
+          "is_abelian": false,
+          "max_bits": 4,
+          "minimal_faithful_perm_degree": 4,
+          "name": "D_4",
+          "num_subgroups": 10,
+          "order": 8,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": true,
+            "compression_ratio_num_den": [
+              16,
+              64
+            ],
+            "min_strict_argmax_margin": 2,
+            "perm_degree_m": 4,
+            "verified_all_g2_pairs": true,
+            "width_m2": 16,
+            "zero_bias_pure_z": true
+          },
+          "proper_coset_e0_q_sat": true,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 27,
+          "proper_coset_q_rank": 8,
+          "proper_coset_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+          ],
+          "proper_coset_spans_all_outcomes_q": true,
+          "proper_coset_torsion": [
+            2
+          ],
+          "runtime_us": 3718,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 64
+        },
+        {
+          "cyclic_1layer_circuit": null,
+          "g_squared": 100,
+          "irrep_e0_q_denominator": 10,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            5,
+            10
+          ],
+          "irrep_readout_torsion": [
+            5,
+            5,
+            10
+          ],
+          "is_abelian": false,
+          "max_bits": 6,
+          "minimal_faithful_perm_degree": 5,
+          "name": "D_5",
+          "num_subgroups": 8,
+          "order": 10,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": true,
+            "compression_ratio_num_den": [
+              25,
+              100
+            ],
+            "min_strict_argmax_margin": 5,
+            "perm_degree_m": 5,
+            "verified_all_g2_pairs": true,
+            "width_m2": 25,
+            "zero_bias_pure_z": true
+          },
+          "proper_coset_e0_q_sat": true,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 28,
+          "proper_coset_q_rank": 10,
+          "proper_coset_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5
+          ],
+          "proper_coset_spans_all_outcomes_q": true,
+          "proper_coset_torsion": [
+            5
+          ],
+          "runtime_us": 9322,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 100
+        },
+        {
+          "cyclic_1layer_circuit": null,
+          "g_squared": 144,
+          "irrep_e0_q_denominator": 12,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            4,
+            4,
+            12
+          ],
+          "irrep_readout_torsion": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            4,
+            4,
+            12
+          ],
+          "is_abelian": false,
+          "max_bits": 4,
+          "minimal_faithful_perm_degree": 4,
+          "name": "A_4",
+          "num_subgroups": 10,
+          "order": 12,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": true,
+            "compression_ratio_num_den": [
+              16,
+              144
+            ],
+            "min_strict_argmax_margin": 2,
+            "perm_degree_m": 4,
+            "verified_all_g2_pairs": true,
+            "width_m2": 16,
+            "zero_bias_pure_z": true
+          },
+          "proper_coset_e0_q_sat": true,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 38,
+          "proper_coset_q_rank": 12,
+          "proper_coset_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "proper_coset_spans_all_outcomes_q": true,
+          "proper_coset_torsion": [
+            2,
+            2
+          ],
+          "runtime_us": 13034,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 144
+        },
+        {
+          "cyclic_1layer_circuit": null,
+          "g_squared": 576,
+          "irrep_e0_q_denominator": 24,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            4,
+            4,
+            4,
+            4,
+            4,
+            8,
+            8,
+            24,
+            24,
+            24
+          ],
+          "irrep_readout_torsion": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            4,
+            4,
+            4,
+            4,
+            4,
+            8,
+            8,
+            24,
+            24,
+            24
+          ],
+          "is_abelian": false,
+          "max_bits": 6,
+          "minimal_faithful_perm_degree": 4,
+          "name": "S_4",
+          "num_subgroups": 30,
+          "order": 24,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": true,
+            "compression_ratio_num_den": [
+              16,
+              576
+            ],
+            "min_strict_argmax_margin": 1,
+            "perm_degree_m": 4,
+            "verified_all_g2_pairs": true,
+            "width_m2": 16,
+            "zero_bias_pure_z": true
+          },
+          "proper_coset_e0_q_sat": true,
+          "proper_coset_e0_z_sat": true,
+          "proper_coset_num_cols": 210,
+          "proper_coset_q_rank": 24,
+          "proper_coset_snf": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "proper_coset_spans_all_outcomes_q": true,
+          "proper_coset_torsion": [],
+          "runtime_us": 216915,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 576
+        },
+        {
+          "cyclic_1layer_circuit": null,
+          "g_squared": 64,
+          "irrep_e0_q_denominator": 8,
+          "irrep_e0_q_sat": true,
+          "irrep_e0_z_sat": false,
+          "irrep_feature_snf": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            4,
+            4,
+            8
+          ],
+          "irrep_readout_torsion": [
+            2,
+            4,
+            4,
+            8
+          ],
+          "is_abelian": false,
+          "max_bits": 4,
+          "minimal_faithful_perm_degree": 8,
+          "name": "Q_8",
+          "num_subgroups": 6,
+          "order": 8,
+          "permutation_biequivariant_circuit": {
+            "applicable_strict_compression": false,
+            "perm_degree_m": 8,
+            "reason": "m^2 = 64 == |G|^2 = 64 (no proper faithful permutation compression)",
+            "width_m2": 64
+          },
+          "proper_coset_e0_q_sat": false,
+          "proper_coset_e0_z_sat": false,
+          "proper_coset_num_cols": 11,
+          "proper_coset_q_rank": 4,
+          "proper_coset_snf": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "proper_coset_spans_all_outcomes_q": false,
+          "proper_coset_torsion": [],
+          "runtime_us": 2636,
+          "trap5_guard_verified": true,
+          "trap5_trivial_width": 64
+        }
+      ],
+      "stage": "stage4_finite_groups",
+      "total_runtime_us": 254089
+    }
+  },
+  "total_runtime_us": 1759980
+}

@@ -1,0 +1,82 @@
+{
+  "cycle": "3B",
+  "agent": "inquisitor",
+  "overall_status": "PASS",
+  "total_elapsed_ms": 13355,
+  "stage1_ast_and_json_firewall": {
+    "status": "PASS",
+    "self_tests": 13,
+    "scanned_python_files": 32,
+    "total_violations": 0,
+    "total_advisories": 0,
+    "violations": [],
+    "advisories": [],
+    "stage": "stage1_workspace_ast_and_json_firewall",
+    "elapsed_ms": 326
+  },
+  "stage2_tmp_cleanroom_gate": {
+    "status": "PASS",
+    "copied_source_files": 36,
+    "isolated_python_cmd": "/usr/bin/python3 -I verify_all.py",
+    "exit_code": 0,
+    "verify_all_elapsed_ms": 12682,
+    "within_30s_budget": true,
+    "fresh_ledger_generated": true,
+    "ledger_claim_count": 21,
+    "ledger_certified_entries": 21,
+    "tmp_directory_cleaned_up": true,
+    "stdout_tail": [
+      "=== [verify_all.py PASS] Total clean-room runtime: 12543 ms (< 30000 ms budget) ===",
+      "[PASS] gate0_wave1_sanity_traps (712 ms)",
+      "[PASS] architect_track_a (149 ms)",
+      "[PASS] architect_track_b (1292 ms)",
+      "[PASS] architect_track_c (125 ms)",
+      "[PASS] architect_track_d (170 ms)",
+      "[PASS] architect_track_e (5 ms)",
+      "[PASS] theorem_ledger_100pct_certificate_build (196 ms)",
+      "[PASS] simulator_cycle3_family_sweeps (2026 ms)",
+      "[PASS] formalist_proof_pack_v1 (7110 ms)",
+      "[PASS] inquisitor_ast_and_adversarial_audit (711 ms)",
+      "[LEDGER] 21 claims (100% certificate coverage) -> artifacts/theorem_ledger_v1.json: {'CERTIFIED_EXACT': 19, 'FALSIFIED_COUNTEREXAMPLE': 1, 'OPEN_BUDGET_EXCEEDED': 1}"
+    ],
+    "findings": [],
+    "stage": "stage2_tmp_cleanroom_isolated_verify_all",
+    "elapsed_ms": 13027
+  },
+  "stage3_dossier_and_ledger": {
+    "status": "PASS",
+    "documents": {
+      "proof_dossier": {
+        "path": "PROOF_DOSSIER_v1.md",
+        "present": true,
+        "size_bytes": 43352,
+        "missing_markers": []
+      },
+      "failure_log": {
+        "path": "failure_log_v1.md",
+        "present": true,
+        "size_bytes": 17951
+      },
+      "simulator_benchmarks": {
+        "path": "simulator/cycle_benchmarks.md",
+        "present": true,
+        "size_bytes": 22031
+      }
+    },
+    "workspace_theorem_ledger": {
+      "status": "PASS",
+      "claim_count": 21,
+      "certified_entries": 21,
+      "missing_certificate_ids": [],
+      "tag_counts": {
+        "CERTIFIED_EXACT": 19,
+        "FALSIFIED_COUNTEREXAMPLE": 1,
+        "OPEN_BUDGET_EXCEEDED": 1
+      },
+      "findings": []
+    },
+    "findings": [],
+    "stage": "stage3_dossier_and_ledger_completeness",
+    "elapsed_ms": 2
+  }
+}

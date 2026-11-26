@@ -1,0 +1,1064 @@
+{
+  "cycle": 2,
+  "owner": "formalist",
+  "all_passed": true,
+  "stages_passed": 7,
+  "total_stages": 7,
+  "total_elapsed_ms": 1568,
+  "epistemic_summary": {
+    "B1": "CERTIFIED_EXACT",
+    "B2": "CERTIFIED_EXACT",
+    "C1": "CERTIFIED_EXACT",
+    "C2": "CERTIFIED_EXACT",
+    "E0": "FALSIFIED_COUNTEREXAMPLE",
+    "E1": "CERTIFIED_EXACT",
+    "E2": "CERTIFIED_EXACT",
+    "A1": "CERTIFIED_EXACT",
+    "A2_MAX6_Z_SIXTH": "CERTIFIED_EXACT",
+    "A2_MAX6_Z_HALF_FRONTIER": "OPEN_BUDGET_EXCEEDED",
+    "A3": "CERTIFIED_EXACT",
+    "D1": "CERTIFIED_EXACT",
+    "D2": "CERTIFIED_EXACT",
+    "D3": "CERTIFIED_EXACT"
+  },
+  "stages": [
+    {
+      "stage": "track_b_theorem_b1",
+      "status": "PASS",
+      "elapsed_us": 5162,
+      "elapsed_ms": 5,
+      "details": {
+        "theorem": "B1",
+        "status": "CERTIFIED_EXACT",
+        "three_ray_2d_fans": [
+          {
+            "fan": "P2_smooth",
+            "dim_B": 1,
+            "positive_circuit_generator": [
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "fan": "A1_P112",
+            "dim_B": 1,
+            "positive_circuit_generator": [
+              1,
+              1,
+              2
+            ]
+          },
+          {
+            "fan": "P113",
+            "dim_B": 1,
+            "positive_circuit_generator": [
+              1,
+              1,
+              3
+            ]
+          },
+          {
+            "fan": "P123",
+            "dim_B": 1,
+            "positive_circuit_generator": [
+              2,
+              1,
+              3
+            ]
+          }
+        ],
+        "reeve_r_2_to_12_count": 11,
+        "reeve_summary_endpoints": [
+          {
+            "r": 2,
+            "primal_snf": [
+              1,
+              1,
+              2
+            ],
+            "polar_snf": [
+              1,
+              2,
+              2
+            ],
+            "ridge_colon_snfs": [
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                2
+              ]
+            ]
+          },
+          {
+            "r": 12,
+            "primal_snf": [
+              1,
+              1,
+              12
+            ],
+            "polar_snf": [
+              1,
+              12,
+              12
+            ],
+            "ridge_colon_snfs": [
+              [
+                1,
+                12
+              ],
+              [
+                1,
+                12
+              ],
+              [
+                1,
+                12
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "stage": "track_b_theorem_b2",
+      "status": "PASS",
+      "elapsed_us": 2099,
+      "elapsed_ms": 2,
+      "details": {
+        "theorem": "B2",
+        "status": "CERTIFIED_EXACT",
+        "four_ray_family_k_1_to_10": [
+          {
+            "k": 1,
+            "lp_denom": 5,
+            "lp_vertex": [
+              "6/5",
+              "2/5"
+            ],
+            "klein_sail_vertices": [
+              [
+                3,
+                1
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 2,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 2,
+            "lp_denom": 7,
+            "lp_vertex": [
+              "10/7",
+              "2/7"
+            ],
+            "klein_sail_vertices": [
+              [
+                5,
+                1
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 3,
+            "lp_denom": 9,
+            "lp_vertex": [
+              "14/9",
+              "2/9"
+            ],
+            "klein_sail_vertices": [
+              [
+                7,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 4,
+            "lp_denom": 11,
+            "lp_vertex": [
+              "18/11",
+              "2/11"
+            ],
+            "klein_sail_vertices": [
+              [
+                9,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 5,
+            "lp_denom": 13,
+            "lp_vertex": [
+              "22/13",
+              "2/13"
+            ],
+            "klein_sail_vertices": [
+              [
+                11,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                10,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 6,
+            "lp_denom": 15,
+            "lp_vertex": [
+              "26/15",
+              "2/15"
+            ],
+            "klein_sail_vertices": [
+              [
+                13,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                12,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 7,
+            "lp_denom": 17,
+            "lp_vertex": [
+              "30/17",
+              "2/17"
+            ],
+            "klein_sail_vertices": [
+              [
+                15,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                14,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 8,
+            "lp_denom": 19,
+            "lp_vertex": [
+              "34/19",
+              "2/19"
+            ],
+            "klein_sail_vertices": [
+              [
+                17,
+                1
+              ],
+              [
+                9,
+                1
+              ],
+              [
+                16,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 9,
+            "lp_denom": 21,
+            "lp_vertex": [
+              "38/21",
+              "2/21"
+            ],
+            "klein_sail_vertices": [
+              [
+                19,
+                1
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          },
+          {
+            "k": 10,
+            "lp_denom": 23,
+            "lp_vertex": [
+              "42/23",
+              "2/23"
+            ],
+            "klein_sail_vertices": [
+              [
+                21,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                20,
+                2
+              ]
+            ],
+            "simultaneous_chvatal_rank": 1,
+            "sequential_axis_gomory_rank": 3,
+            "round1_cuts_verified": [
+              true,
+              true
+            ]
+          }
+        ],
+        "five_ray_family_dim_B_3": [
+          {
+            "k": 1,
+            "rays": 5,
+            "dim_B": 3,
+            "bal_snf": [
+              1,
+              1
+            ]
+          },
+          {
+            "k": 2,
+            "rays": 5,
+            "dim_B": 3,
+            "bal_snf": [
+              1,
+              1
+            ]
+          },
+          {
+            "k": 3,
+            "rays": 5,
+            "dim_B": 3,
+            "bal_snf": [
+              1,
+              1
+            ]
+          },
+          {
+            "k": 4,
+            "rays": 5,
+            "dim_B": 3,
+            "bal_snf": [
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "stage": "track_c_theorems_c1_c2",
+      "status": "PASS",
+      "elapsed_us": 529825,
+      "elapsed_ms": 529,
+      "details": {
+        "theorems": [
+          "C1",
+          "C2"
+        ],
+        "status": "CERTIFIED_EXACT",
+        "stalk_prim_vs_geom_torsion": [
+          {
+            "g_e": 2,
+            "prim_snf": [
+              1
+            ],
+            "geom_snf": [
+              2
+            ]
+          },
+          {
+            "g_e": 3,
+            "prim_snf": [
+              1
+            ],
+            "geom_snf": [
+              3
+            ]
+          },
+          {
+            "g_e": 4,
+            "prim_snf": [
+              1
+            ],
+            "geom_snf": [
+              4
+            ]
+          },
+          {
+            "g_e": 6,
+            "prim_snf": [
+              1
+            ],
+            "geom_snf": [
+              6
+            ]
+          }
+        ],
+        "spiderwebs_m_2_3_4_6": [
+          {
+            "m": 2,
+            "unclamped_nodal_snf": [
+              1,
+              2,
+              2,
+              2
+            ],
+            "twisted_wheel_ev_snf": [
+              1,
+              1,
+              1,
+              2
+            ],
+            "aff_monodromy_rank": 0,
+            "bockstein_p2": [
+              {
+                "p": 2,
+                "k": 1,
+                "bockstein_rank": 1,
+                "snf_vp_ge_k_count": 1
+              },
+              {
+                "p": 2,
+                "k": 2,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 2,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ],
+            "bockstein_p3": [
+              {
+                "p": 3,
+                "k": 1,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 3,
+                "k": 2,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 3,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ]
+          },
+          {
+            "m": 3,
+            "unclamped_nodal_snf": [
+              1,
+              3,
+              3,
+              3
+            ],
+            "twisted_wheel_ev_snf": [
+              1,
+              1,
+              1,
+              3
+            ],
+            "aff_monodromy_rank": 0,
+            "bockstein_p2": [
+              {
+                "p": 2,
+                "k": 1,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 2,
+                "k": 2,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 2,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ],
+            "bockstein_p3": [
+              {
+                "p": 3,
+                "k": 1,
+                "bockstein_rank": 1,
+                "snf_vp_ge_k_count": 1
+              },
+              {
+                "p": 3,
+                "k": 2,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 3,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ]
+          },
+          {
+            "m": 4,
+            "unclamped_nodal_snf": [
+              1,
+              4,
+              4,
+              4
+            ],
+            "twisted_wheel_ev_snf": [
+              1,
+              1,
+              1,
+              4
+            ],
+            "aff_monodromy_rank": 0,
+            "bockstein_p2": [
+              {
+                "p": 2,
+                "k": 1,
+                "bockstein_rank": 1,
+                "snf_vp_ge_k_count": 1
+              },
+              {
+                "p": 2,
+                "k": 2,
+                "bockstein_rank": 1,
+                "snf_vp_ge_k_count": 1
+              },
+              {
+                "p": 2,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ],
+            "bockstein_p3": [
+              {
+                "p": 3,
+                "k": 1,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 3,
+                "k": 2,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 3,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ]
+          },
+          {
+            "m": 6,
+            "unclamped_nodal_snf": [
+              1,
+              6,
+              6,
+              6
+            ],
+            "twisted_wheel_ev_snf": [
+              1,
+              1,
+              1,
+              6
+            ],
+            "aff_monodromy_rank": 0,
+            "bockstein_p2": [
+              {
+                "p": 2,
+                "k": 1,
+                "bockstein_rank": 1,
+                "snf_vp_ge_k_count": 1
+              },
+              {
+                "p": 2,
+                "k": 2,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 2,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ],
+            "bockstein_p3": [
+              {
+                "p": 3,
+                "k": 1,
+                "bockstein_rank": 1,
+                "snf_vp_ge_k_count": 1
+              },
+              {
+                "p": 3,
+                "k": 2,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              },
+              {
+                "p": 3,
+                "k": 3,
+                "bockstein_rank": 0,
+                "snf_vp_ge_k_count": 0
+              }
+            ]
+          }
+        ],
+        "desargues_prism": {
+          "h1_torsion": [
+            4
+          ],
+          "bockstein_p2": [
+            {
+              "p": 2,
+              "k": 1,
+              "bockstein_rank": 1,
+              "snf_vp_ge_k_count": 1
+            },
+            {
+              "p": 2,
+              "k": 2,
+              "bockstein_rank": 1,
+              "snf_vp_ge_k_count": 1
+            },
+            {
+              "p": 2,
+              "k": 3,
+              "bockstein_rank": 0,
+              "snf_vp_ge_k_count": 0
+            }
+          ],
+          "bockstein_p3": [
+            {
+              "p": 3,
+              "k": 1,
+              "bockstein_rank": 0,
+              "snf_vp_ge_k_count": 0
+            },
+            {
+              "p": 3,
+              "k": 2,
+              "bockstein_rank": 0,
+              "snf_vp_ge_k_count": 0
+            },
+            {
+              "p": 3,
+              "k": 3,
+              "bockstein_rank": 0,
+              "snf_vp_ge_k_count": 0
+            }
+          ]
+        },
+        "punctured_monodromy": {
+          "b2_annulus": {
+            "euler_chi": 0,
+            "free_monodromy_rank": 3,
+            "h1_torsion": [],
+            "projectors_verified": true
+          },
+          "b3_two_hole_complex": {
+            "euler_chi": -1,
+            "free_monodromy_rank": 6,
+            "h1_torsion": [],
+            "projectors_verified": true
+          }
+        }
+      }
+    },
+    {
+      "stage": "track_e_e0_e1_e2",
+      "status": "PASS",
+      "elapsed_us": 3219,
+      "elapsed_ms": 3,
+      "details": {
+        "E0": {
+          "id": "E0",
+          "epistemic_tag": "FALSIFIED_COUNTEREXAMPLE",
+          "cohomology_period": -16,
+          "worst_cell_and_filippov_derivative": -15,
+          "initial_point": [
+            "1",
+            "0"
+          ],
+          "one_lap_return_point": [
+            "83521/50625",
+            "0"
+          ],
+          "expansion_ratio": "83521/50625"
+        },
+        "E1": {
+          "id": "E1",
+          "epistemic_tag": "CERTIFIED_EXACT",
+          "limit_cycle_inf_norm": "3/2",
+          "worst_torsor_derivative": -1,
+          "global_1lap_lipschitz_bound": "1/625",
+          "sample_trajectories": [
+            {
+              "r_in": "1",
+              "r_after_1lap": "2401/1601"
+            },
+            {
+              "r_in": "5/4",
+              "r_after_1lap": "12005/8004"
+            },
+            {
+              "r_in": "7/5",
+              "r_after_1lap": "16807/11205"
+            },
+            {
+              "r_in": "8/5",
+              "r_after_1lap": "19208/12805"
+            },
+            {
+              "r_in": "7/4",
+              "r_after_1lap": "16807/11204"
+            },
+            {
+              "r_in": "2",
+              "r_after_1lap": "4802/3201"
+            }
+          ]
+        },
+        "E2": {
+          "id": "E2",
+          "epistemic_tag": "CERTIFIED_EXACT",
+          "topology": {
+            "V": 6,
+            "E": 12,
+            "F": 6,
+            "euler_chi": 0,
+            "boundary_components": 1
+          },
+          "snf_delta0": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+          ],
+          "h1_z_torsion": [
+            2
+          ],
+          "h1_q_dim": 0,
+          "odd_seam_cocycle_witness": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            -1,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    },
+    {
+      "stage": "track_a_a1_max6_syl2_a3",
+      "status": "PASS",
+      "elapsed_us": 289753,
+      "elapsed_ms": 289,
+      "details": {
+        "A1": {
+          "status": "CERTIFIED_EXACT",
+          "annihilator_n4": 1,
+          "annihilator_n5": 2,
+          "vol5_delta2_x_delta3": 10,
+          "vol5_mod3": 1,
+          "d9_prime_power_mod3_restored": true
+        },
+        "MAX_6_and_Syl2": {
+          "max6_z_sixth_status": "CERTIFIED_EXACT",
+          "max6_z_half_frontier_status": "OPEN_BUDGET_EXCEEDED",
+          "d6_unique_1l_gates": 6,
+          "d6_unique_m2_gates": 99,
+          "d6_chamber_orbits": 60,
+          "universal_r6_subcones_verified": 758,
+          "off_braid_splits_resolved": 698,
+          "syl2_order": 16,
+          "syl2_braid_orbits": 45
+        },
+        "A3": {
+          "status": "CERTIFIED_EXACT",
+          "vrc_2_z_delta4": "+infinity",
+          "vrc_2_z_half_delta4_upper_bound": 9,
+          "r4_all_subcones_verified": 480
+        }
+      }
+    },
+    {
+      "stage": "track_d_d1_d2_d3",
+      "status": "PASS",
+      "elapsed_us": 664520,
+      "elapsed_ms": 664,
+      "details": {
+        "D1": {
+          "status": "CERTIFIED_EXACT",
+          "cyclic_1layer_z": {
+            "C_3": {
+              "biased_width": 4,
+              "unbiased_width": 5
+            },
+            "C_4": {
+              "biased_width": 6,
+              "unbiased_width": 7
+            },
+            "C_5": {
+              "biased_width": 8,
+              "unbiased_width": 9
+            },
+            "C_6": {
+              "biased_width": 10,
+              "unbiased_width": 11
+            }
+          },
+          "zero_bias_perm_circuits": {
+            "S_3": {
+              "group_order": 6,
+              "m_deg": 3,
+              "width": 9,
+              "ratio": "9/36"
+            },
+            "D_4": {
+              "group_order": 8,
+              "m_deg": 4,
+              "width": 16,
+              "ratio": "16/64"
+            },
+            "D_5": {
+              "group_order": 10,
+              "m_deg": 5,
+              "width": 25,
+              "ratio": "25/100"
+            },
+            "A_4": {
+              "group_order": 12,
+              "m_deg": 4,
+              "width": 16,
+              "ratio": "16/144"
+            },
+            "S_4": {
+              "group_order": 24,
+              "m_deg": 4,
+              "width": 16,
+              "ratio": "16/576"
+            }
+          },
+          "q8_w64_guard_verified": true
+        },
+        "D2": {
+          "status": "CERTIFIED_EXACT",
+          "v4_hadamard_snf": [
+            1,
+            2,
+            2,
+            4
+          ],
+          "coset_torsion": {
+            "V_4": [
+              2
+            ],
+            "S_3": [
+              3
+            ],
+            "D_4": [
+              2
+            ],
+            "Q_8_rank": 4,
+            "S_4_torsion": []
+          }
+        },
+        "D3": {
+          "status": "CERTIFIED_EXACT",
+          "c5_equivariant_min_width_R": 25,
+          "additive_subspace_farkas": {
+            "verified": true,
+            "num_constraints": 50,
+            "num_vars": 10,
+            "support_size": 4,
+            "yt_b": -1,
+            "equality_rows": 25
+          },
+          "phi5_shifted_eisenstein_p5": [
+            5,
+            10,
+            10,
+            5,
+            1
+          ],
+          "d_emb_R": 2,
+          "d_emb_Q": 4,
+          "d_emb_Z": 4
+        }
+      }
+    },
+    {
+      "stage": "architect_cycle2_cross_check",
+      "status": "PASS",
+      "elapsed_us": 73608,
+      "elapsed_ms": 73,
+      "details": {
+        "tracks_present": {
+          "track_a": true,
+          "track_b": true,
+          "track_c": true,
+          "track_d": true,
+          "track_e": true
+        },
+        "verified_cross_checks": {
+          "track_a_runner_callable": true,
+          "track_a_eval_6max6_hexagon": "MATCHED_720_COLLISION_FREE",
+          "track_b_runner_callable": true,
+          "track_c_runner_callable": true,
+          "track_d_runner_callable": true,
+          "track_d_width_guards": "VERIFIED",
+          "track_e_runner_callable": true,
+          "theorem_ledger_tag_counts": {
+            "CERTIFIED_EXACT": 19,
+            "OPEN_BUDGET_EXCEEDED": 1,
+            "FALSIFIED_COUNTEREXAMPLE": 1
+          },
+          "theorem_ledger_embedded_certs_verified": [
+            "C2:saturation_projector",
+            "E2:snf_unimodular",
+            "A2_MAX6_Z_HALF_FRONTIER:padic_obstruction"
+          ]
+        },
+        "theorem_ledger_present": true
+      }
+    }
+  ]
+}

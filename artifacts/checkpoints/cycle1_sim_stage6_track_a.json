@@ -1,0 +1,403 @@
+{
+  "max6_and_syl2_benchmarks": {
+    "d6_hexagon_formula": {
+      "active_layer1_gates": 6,
+      "active_layer2_m2_gates": 99,
+      "chamber_points_verified": 2160,
+      "epistemic_tag": "CERTIFIED_EXACT",
+      "layer1_pairwise_orbits": {
+        "edges": 6,
+        "long_diagonals": 3,
+        "short_diagonals": 6,
+        "total": 15
+      },
+      "off_braid_2nd_diff_probes_passed": 3,
+      "runtime_us": 86275,
+      "weight_values_set": [
+        -2,
+        -1,
+        1
+      ]
+    },
+    "syl2_s6_z_half_engine": {
+      "braid_chamber_orbit_count": 45,
+      "compressed_matrix_max_bits": 11,
+      "compressed_matrix_shape": [
+        92,
+        11
+      ],
+      "one_max6_fixed_dict_obstruction_prime": 3,
+      "one_max6_fixed_dict_status": "UNSAT_MOD3_PRESCREEN",
+      "six_max6_c_den": 1,
+      "six_max6_c_num_max_bits": 2,
+      "six_max6_z_half_status": "CERTIFIED_EXACT",
+      "solve_only_runtime_us": 8486,
+      "syl2_order": 16,
+      "total_syl2_engine_runtime_us": 12666,
+      "unconstrained_max6_z_half_epistemic_tag": "OPEN_BUDGET_EXCEEDED",
+      "under_200ms_budget": true
+    }
+  },
+  "minkowski_product_volumes_d2_to_10": [
+    {
+      "d": 2,
+      "is_prime_power": true,
+      "mod2_additive_on_products": true,
+      "mod3_additive_on_products": false,
+      "n_inputs_max_n": 3,
+      "prime_power_str": "2^1",
+      "product_volume_gcd": 2,
+      "runtime_us": 16,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": true,
+          "split": [
+            1,
+            1
+          ],
+          "vol_d": 2,
+          "vol_mod_2": 0,
+          "vol_mod_3": 2
+        }
+      ]
+    },
+    {
+      "d": 3,
+      "is_prime_power": true,
+      "mod2_additive_on_products": false,
+      "mod3_additive_on_products": true,
+      "n_inputs_max_n": 4,
+      "prime_power_str": "3^1",
+      "product_volume_gcd": 3,
+      "runtime_us": 13,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": true,
+          "split": [
+            1,
+            2
+          ],
+          "vol_d": 3,
+          "vol_mod_2": 1,
+          "vol_mod_3": 0
+        }
+      ]
+    },
+    {
+      "d": 4,
+      "is_prime_power": true,
+      "mod2_additive_on_products": true,
+      "mod3_additive_on_products": false,
+      "n_inputs_max_n": 5,
+      "prime_power_str": "2^2",
+      "product_volume_gcd": 2,
+      "runtime_us": 53,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": true,
+          "split": [
+            1,
+            3
+          ],
+          "vol_d": 4,
+          "vol_mod_2": 0,
+          "vol_mod_3": 1
+        },
+        {
+          "both_factors_in_relu_2_z": true,
+          "split": [
+            2,
+            2
+          ],
+          "vol_d": 6,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        }
+      ]
+    },
+    {
+      "d": 5,
+      "is_prime_power": true,
+      "mod2_additive_on_products": false,
+      "mod3_additive_on_products": false,
+      "n_inputs_max_n": 6,
+      "prime_power_str": "5^1",
+      "product_volume_gcd": 5,
+      "runtime_us": 114,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            1,
+            4
+          ],
+          "vol_d": 5,
+          "vol_mod_2": 1,
+          "vol_mod_3": 2
+        },
+        {
+          "both_factors_in_relu_2_z": true,
+          "split": [
+            2,
+            3
+          ],
+          "vol_d": 10,
+          "vol_mod_2": 0,
+          "vol_mod_3": 1
+        }
+      ]
+    },
+    {
+      "d": 6,
+      "is_prime_power": false,
+      "mod2_additive_on_products": false,
+      "mod3_additive_on_products": false,
+      "n_inputs_max_n": 7,
+      "prime_power_str": "composite",
+      "product_volume_gcd": 1,
+      "runtime_us": 440,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            1,
+            5
+          ],
+          "vol_d": 6,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            2,
+            4
+          ],
+          "vol_d": 15,
+          "vol_mod_2": 1,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": true,
+          "split": [
+            3,
+            3
+          ],
+          "vol_d": 20,
+          "vol_mod_2": 0,
+          "vol_mod_3": 2
+        }
+      ]
+    },
+    {
+      "d": 7,
+      "is_prime_power": true,
+      "mod2_additive_on_products": false,
+      "mod3_additive_on_products": false,
+      "n_inputs_max_n": 8,
+      "prime_power_str": "7^1",
+      "product_volume_gcd": 7,
+      "runtime_us": 935,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            1,
+            6
+          ],
+          "vol_d": 7,
+          "vol_mod_2": 1,
+          "vol_mod_3": 1
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            2,
+            5
+          ],
+          "vol_d": 21,
+          "vol_mod_2": 1,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            3,
+            4
+          ],
+          "vol_d": 35,
+          "vol_mod_2": 1,
+          "vol_mod_3": 2
+        }
+      ]
+    },
+    {
+      "d": 8,
+      "is_prime_power": true,
+      "mod2_additive_on_products": true,
+      "mod3_additive_on_products": false,
+      "n_inputs_max_n": 9,
+      "prime_power_str": "2^3",
+      "product_volume_gcd": 2,
+      "runtime_us": 3270,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            1,
+            7
+          ],
+          "vol_d": 8,
+          "vol_mod_2": 0,
+          "vol_mod_3": 2
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            2,
+            6
+          ],
+          "vol_d": 28,
+          "vol_mod_2": 0,
+          "vol_mod_3": 1
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            3,
+            5
+          ],
+          "vol_d": 56,
+          "vol_mod_2": 0,
+          "vol_mod_3": 2
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            4,
+            4
+          ],
+          "vol_d": 70,
+          "vol_mod_2": 0,
+          "vol_mod_3": 1
+        }
+      ]
+    },
+    {
+      "d": 9,
+      "is_prime_power": true,
+      "mod2_additive_on_products": false,
+      "mod3_additive_on_products": true,
+      "n_inputs_max_n": 10,
+      "prime_power_str": "3^2",
+      "product_volume_gcd": 3,
+      "runtime_us": 6751,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            1,
+            8
+          ],
+          "vol_d": 9,
+          "vol_mod_2": 1,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            2,
+            7
+          ],
+          "vol_d": 36,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            3,
+            6
+          ],
+          "vol_d": 84,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            4,
+            5
+          ],
+          "vol_d": 126,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        }
+      ]
+    },
+    {
+      "d": 10,
+      "is_prime_power": false,
+      "mod2_additive_on_products": false,
+      "mod3_additive_on_products": false,
+      "n_inputs_max_n": 11,
+      "prime_power_str": "composite",
+      "product_volume_gcd": 1,
+      "runtime_us": 22159,
+      "splits": [
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            1,
+            9
+          ],
+          "vol_d": 10,
+          "vol_mod_2": 0,
+          "vol_mod_3": 1
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            2,
+            8
+          ],
+          "vol_d": 45,
+          "vol_mod_2": 1,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            3,
+            7
+          ],
+          "vol_d": 120,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            4,
+            6
+          ],
+          "vol_d": 210,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        },
+        {
+          "both_factors_in_relu_2_z": false,
+          "split": [
+            5,
+            5
+          ],
+          "vol_d": 252,
+          "vol_mod_2": 0,
+          "vol_mod_3": 0
+        }
+      ]
+    }
+  ],
+  "stage": "cycle2_track_a_max6_and_volumes",
+  "total_runtime_us": 132893
+}

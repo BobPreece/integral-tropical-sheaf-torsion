@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="660" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="656" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="682" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="510" y="104" width="160" height="24" rx="6" fill="#EDE9FE" stroke="none" data-role="badge-bg" />
+  <rect id="rect_13" x="46" y="152" width="616" height="42" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_18" x="46" y="210" width="616" height="28" rx="4" fill="#DBEAFE" stroke="none" data-role="panel" />
+  <rect id="rect_21" x="335" y="249" width="200" height="18" rx="9" fill="#2563EB" stroke="none" data-role="shape" />
+  <rect id="rect_23" x="335" y="281" width="200" height="18" rx="9" fill="#2563EB" stroke="none" data-role="shape" />
+  <rect id="rect_25" x="335" y="313" width="90" height="18" rx="9" fill="#7C3AED" stroke="none" data-role="shape" />
+  <rect id="rect_26" x="46" y="352" width="616" height="28" rx="4" fill="#DBEAFE" stroke="none" data-role="panel" />
+  <rect id="rect_29" x="335" y="391" width="200" height="18" rx="9" fill="#2563EB" stroke="none" data-role="shape" />
+  <rect id="rect_31" x="335" y="423" width="90" height="18" rx="9" fill="#7C3AED" stroke="none" data-role="shape" />
+  <rect id="rect_32" x="46" y="462" width="616" height="28" rx="4" fill="#DBEAFE" stroke="none" data-role="panel" />
+  <rect id="rect_35" x="335" y="501" width="310" height="18" rx="9" fill="#0F766E" stroke="none" data-role="shape" />
+  <rect id="rect_37" x="335" y="533" width="200" height="18" rx="9" fill="#DC2626" stroke="none" data-role="shape" />
+  <rect id="rect_39" x="335" y="565" width="90" height="18" rx="9" fill="#D97706" stroke="none" data-role="shape" />
+  <rect id="rect_40" x="46" y="624" width="616" height="196" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_47" x="704" y="96" width="672" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_48" x="706" y="98" width="668" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_49" x1="706" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_51" x="1223" y="104" width="139" height="24" rx="6" fill="#D1FAE5" stroke="none" data-role="badge-bg" />
+  <rect id="rect_53" x="864" y="158" width="352" height="50" rx="6" fill="#DBEAFE" stroke="#1E3A8A" stroke-width="1" data-role="badge-bg" />
+  <line id="line_55" x1="960" y1="212" x2="860" y2="276" stroke="#059669" stroke-width="3" />
+  <polygon id="poly_56" points="860,276 865,268 871,276" fill="#059669" stroke="none" />
+  <line id="line_57" x1="1120" y1="212" x2="1220" y2="276" stroke="#2563EB" stroke-width="3" />
+  <polygon id="poly_58" points="1220,276 1210,275 1216,269" fill="#2563EB" stroke="none" />
+  <rect id="rect_61" x="726" y="284" width="304" height="214" rx="8" fill="#D1FAE5" stroke="#059669" stroke-width="1" data-role="panel" />
+  <rect id="rect_69" x="1050" y="284" width="304" height="214" rx="8" fill="#EFF6FF" stroke="#2563EB" stroke-width="1" data-role="panel" />
+  <rect id="rect_78" x="726" y="520" width="628" height="300" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 07 — Track C2: 2D Precision-Bockstein p-Adic Barcodes &amp; (P_sat, Q_free) Projectors</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track C (Theorem C2) | rank(beta_k^(2)) == #{i : v_p(d_i) &gt;= k} &amp; Ghrist-Ding Integral Saturation Splitting</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact | 100% Digit-SNF Barcode Match across p in {2,3}, k in {1,2,3} | P_sat^2 = P_sat, P_sat + Q_free = I</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. Precision-Bockstein beta_k^(2) Barcodes</text>
+  <text id="txt_12" x="590" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#7C3AED">DIGIT-SNF DICTIONARY</text>
+  <text id="txt_14" x="62" y="178" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#0F172A">Complex / Torsion Factor d_i</text>
+  <text id="txt_15" x="380" y="178" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">k=1 (mod p)</text>
+  <text id="txt_16" x="490" y="178" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">k=2 (mod p^2)</text>
+  <text id="txt_17" x="600" y="178" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">k=3 (mod p^3)</text>
+  <text id="txt_19" x="58" y="229" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">Desargues Prism m=3 (ev SNF [1,1,3,3,12,12])</text>
+  <text id="txt_20" x="58" y="263" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">p=2: d_5=12 (v_2=2)</text>
+  <text id="txt_22" x="58" y="295" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">p=2: d_6=12 (v_2=2)</text>
+  <text id="txt_24" x="58" y="327" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">p=3: d_3..6 in {3,12} (x4, v_3=1)</text>
+  <text id="txt_27" x="58" y="371" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">Desargues Prism m=4 (ev SNF [1,1,1,4,20,60])</text>
+  <text id="txt_28" x="58" y="405" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">p=2: d_4..6 in {4,20,60} (x3, v_2=2)</text>
+  <text id="txt_30" x="58" y="437" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">p=3: d_6=60 (v_3=1)</text>
+  <text id="txt_33" x="58" y="481" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">ScaledSpiderweb m=8 &amp; Annulus b=2, s=2</text>
+  <text id="txt_34" x="58" y="515" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Spiderweb m=8: d=8 (x3, v_2=3)</text>
+  <text id="txt_36" x="58" y="547" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Annulus s=2 H_1^int: d=4 (v_2=2)</text>
+  <text id="txt_38" x="58" y="579" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Annulus s=2 H_1^all: d=2 (v_2=1)</text>
+  <text id="txt_41" x="60" y="646" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#7C3AED">Exact Bockstein Connecting Homomorphism Dictionary</text>
+  <text id="txt_42" x="60" y="666" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">beta_k^(2) : H_2(A_{Z/p^k Z}) ---&gt; H_1(A_Z)[p^k]</text>
+  <text id="txt_43" x="60" y="693" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">1. Spurious mod-p^k Airy 2-cycles arise iff a Z-torsion invariant factor d_i</text>
+  <text id="txt_44" x="60" y="720" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   satisfies p | d_i; its persistence dies precisely at precision k &gt; v_p(d_i)!</text>
+  <text id="txt_45" x="60" y="747" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">2. Certified 100% match: rank_{Z/pZ}(im beta_k^(2)) == #{i : v_p(d_i) &gt;= k}</text>
+  <text id="txt_46" x="60" y="774" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   across all 23 spiderweb, twisted-wheel, Desargues &amp; annular complexes.</text>
+  <text id="txt_50" x="720" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. Global Z-Saturation Idempotents (P_sat, Q_free)</text>
+  <text id="txt_52" x="1292" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#059669">EXACT Z-SPLITTING</text>
+  <text id="txt_54" x="1040" y="187" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#1E3A8A">1-Cycle Lattice Z_1(A_Z) = ker(d_1^A)</text>
+  <text id="txt_59" x="876" y="246" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="end" fill="#059669">P_sat</text>
+  <text id="txt_60" x="1204" y="246" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="start" fill="#2563EB">Q_free = I - P_sat</text>
+  <text id="txt_62" x="740" y="306" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">Saturated Boundary Lattice</text>
+  <text id="txt_63" x="740" y="326" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">sat_Z(im d_2^A) = im_Q n Z^m</text>
+  <text id="txt_64" x="740" y="352" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Formula: U_inv[:, :r] @ U[:r, :]</text>
+  <text id="txt_65" x="740" y="378" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Contains:</text>
+  <text id="txt_66" x="740" y="404" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Exact Z-Airy boundaries im(d_2)</text>
+  <text id="txt_67" x="740" y="430" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Finite torsion oplus Z/d_i Z</text>
+  <text id="txt_68" x="740" y="456" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   (detected by beta_k^(2)!)</text>
+  <text id="txt_70" x="1064" y="306" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">Free Monodromy Complement</text>
+  <text id="txt_71" x="1064" y="326" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">im(Q_free) ~= Z^{3(b - 1)}</text>
+  <text id="txt_72" x="1064" y="350" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Formula: U_inv[:, r:] @ U[r:, :]</text>
+  <text id="txt_73" x="1064" y="374" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Satisfies Q_free @ d_2^A == 0!</text>
+  <text id="txt_74" x="1064" y="398" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Captures topological holes:</text>
+  <text id="txt_75" x="1064" y="422" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * b=1 disk:    rank 0</text>
+  <text id="txt_76" x="1064" y="446" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * b=2 annulus: rank 3</text>
+  <text id="txt_77" x="1064" y="470" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * b=3 2-hole:  rank 6</text>
+  <text id="txt_79" x="740" y="542" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#0F172A">Machine-Checked Unimodular Projector Identities (Zero Rational Division!)</text>
+  <text id="txt_80" x="740" y="562" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Given unimodular SNF  U @ d_2_tilde @ V = diag(d_1, ..., d_r, 0)  with U in GL_m(Z):</text>
+  <text id="txt_81" x="740" y="595" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  [Idempotency]    P_sat @ P_sat == P_sat     and   Q_free @ Q_free == Q_free</text>
+  <text id="txt_82" x="740" y="628" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  [Orthogonality]  P_sat @ Q_free == 0        and   Q_free @ P_sat == 0</text>
+  <text id="txt_83" x="740" y="661" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  [Completeness]   P_sat + Q_free == I_m      and   trace(P_sat) == r</text>
+  <text id="txt_84" x="740" y="694" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  [Boundary]       P_sat @ d_2_tilde == d_2_tilde,  Q_free @ d_2_tilde == 0</text>
+  <text id="txt_85" x="740" y="727" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"></text>
+  <text id="txt_86" x="740" y="760" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Certified on Subdivided Annulus (b=2): dim Z_1 = 9 -&gt; r = 6 (P_sat) (+) corank = 3 (Q_free).</text>
+  </g>
+</svg>

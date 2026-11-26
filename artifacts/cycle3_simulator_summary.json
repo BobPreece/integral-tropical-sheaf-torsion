@@ -1,0 +1,148 @@
+{
+  "agent": "simulator",
+  "ast_self_audit": {
+    "passed": true,
+    "scanned_files": [
+      "__init__.py",
+      "run_cycle1_sweeps.py",
+      "run_cycle2_sweeps.py",
+      "run_cycle3_summary.py",
+      "sim_exact_la.py",
+      "svg_atlas.py",
+      "sweep_airy_spiderwebs.py",
+      "sweep_finite_groups.py",
+      "sweep_reeve_fans.py",
+      "sweep_track_a_max6.py",
+      "sweep_track_e_torsors.py",
+      "wave2_sweeps.py"
+    ],
+    "violations": []
+  },
+  "combined_runtime_ms": 2145,
+  "combined_runtime_us": 2145687,
+  "cycle": 3,
+  "cycle1_runtime_us": 1759980,
+  "cycle2_runtime_us": 242611,
+  "path_portability_audit": {
+    "passed": true,
+    "scanned_files": [
+      "__init__.py",
+      "run_cycle1_sweeps.py",
+      "run_cycle2_sweeps.py",
+      "run_cycle3_summary.py",
+      "sim_exact_la.py",
+      "svg_atlas.py",
+      "sweep_airy_spiderwebs.py",
+      "sweep_finite_groups.py",
+      "sweep_reeve_fans.py",
+      "sweep_track_a_max6.py",
+      "sweep_track_e_torsors.py",
+      "wave2_sweeps.py"
+    ],
+    "violations": []
+  },
+  "status": "PASS",
+  "total_instances_swept": 92,
+  "wave1_stage_table": [
+    {
+      "instances": 13,
+      "key_result": "Primal `[1,1,r]`, Polar `[1,r,r]`, Ridges `[1,r]`, `Weil/Cart ~ Z/rZ`",
+      "peak_bits": 4,
+      "runtime_us": 3461,
+      "scope": "2D `A_1` + 3D Reeve Tetrahedra `T_r` (`r=1..12`)",
+      "stage_id": "Stage 1 (B1/Trap 4)"
+    },
+    {
+      "instances": 13,
+      "key_result": "4-ray Sim. CG `= 1` vs Seq. `2..3`; 5-ray Sim. CG `= 2k+1` (`3, 5, 7`)",
+      "peak_bits": 8,
+      "runtime_us": 1326824,
+      "scope": "4-Ray `v_4^(k)` (`k=1..10`) & 5-Ray `Sigma_5^(k)` (`k=1..3`)",
+      "stage_id": "Stage 2 (B2)"
+    },
+    {
+      "instances": 23,
+      "key_result": "`ev_V = [1,m,m,m]`, `Z^{3(b-1)}` monodromy (`3, 6`), `100%` Bockstein match",
+      "peak_bits": 8,
+      "runtime_us": 96513,
+      "scope": "Spiderwebs (`m=1..12`), Desargues Prisms & Annuli (`b=2,3`)",
+      "stage_id": "Stage 3 (C1/C2/Trap 6)"
+    },
+    {
+      "instances": 10,
+      "key_result": "`C_n: 2n-2/2n-1`, `W=m^2`, `Q_8` `m=8` block, 3-regime coset trichotomy (`S_4` Bezout `[1]^24`)",
+      "peak_bits": 6,
+      "runtime_us": 254089,
+      "scope": "10 Finite Groups (`C_3,V_4,C_4,C_5,S_3,D_4,D_5,A_4,S_4,Q_8`)",
+      "stage_id": "Stage 4 (D1/D2/Trap 5)"
+    },
+    {
+      "instances": 22,
+      "key_result": "`E0` `((1+d)/(1-d))^4 > 1` (`FALSIFIED`), `E1` `((1-3d)/(1+3d))^4 < 1`, `M_N` `Z/2Z`",
+      "peak_bits": 71,
+      "runtime_us": 33030,
+      "scope": "Escher `E0` (`6` params), Pinned `E1` (`6` params), Mobius `M_N` (`N=3..12`)",
+      "stage_id": "Stage 5 (E0/E1/E2)"
+    },
+    {
+      "instances": 11,
+      "key_result": "Kummer prime-power `gcd`, `Vol_5=10==1 mod 3`, `Syl_2` `<15ms` (`OPEN_BUDGET_EXCEEDED` on `Z[1/2]`)",
+      "peak_bits": 11,
+      "runtime_us": 132893,
+      "scope": "`Vol_d(Delta_a x Delta_b)` (`d=2..10`), `6*MAX_6` & `Syl_2(S_6)` (`45` orbits)",
+      "stage_id": "Stage 6 (A1/A2)"
+    }
+  ],
+  "wave2_scaling_projections": [
+    {
+      "entry_Reduction_factor": "256x matrix entries vs unreduced S_6",
+      "problem_shape_projected": "360 x 500..2500 (multi-profile + off-braid 2nd-diff rows)",
+      "projected_peak_bits": 16,
+      "projected_runtime_ms_range": "25..450",
+      "solver_entrypoint": "architect.core.padic_local_global.solve_z_half",
+      "symmetry_reduction": "Syl_2(S_6) (|G|=16, 45 chamber orbits vs 720)",
+      "track": "A",
+      "wave2_target": "MAX_6 Z[1/2] Off-Braid Dictionary Sprint"
+    },
+    {
+      "entry_Reduction_factor": "256x (2-adic) / 81x (3-adic)",
+      "problem_shape_projected": "945 x 1200 (Syl_2) / 1680 x 1200 (Syl_3)",
+      "projected_peak_bits": 20,
+      "projected_runtime_ms_range": "120..1800",
+      "solver_entrypoint": "architect.core.padic_local_global.solve_s_integral",
+      "symmetry_reduction": "Syl_2(S_7): 315 orbits (|G|=16); Syl_3(S_7): 560 orbits (|G|=9)",
+      "track": "A",
+      "wave2_target": "MAX_7 2-adic & 3-adic Local-Global Frontier"
+    },
+    {
+      "entry_Reduction_factor": "|det(B)| vs D^d parallelepiped enumeration",
+      "problem_shape_projected": "r <= 100 (SNF); dim B = 4, CG rank <= 15",
+      "projected_peak_bits": 12,
+      "projected_runtime_ms_range": "10..900",
+      "solver_entrypoint": "simulator.sim_exact_la.cg_round_3d_exact",
+      "symmetry_reduction": "DHSW +-1 unit-pivot peeling + SNF Hilbert-parallelepiped vertex cutoff",
+      "track": "B",
+      "wave2_target": "3D Reeve T_r (r=13..100) & 3D/6-Ray Chvatal-Gomory Cones"
+    },
+    {
+      "entry_Reduction_factor": "O(nnz) DHSW unit-pivot elimination (max_bits <= 8)",
+      "problem_shape_projected": "b = 4..10 holes (Z^{3(b-1)} = Z^9..Z^27 monodromy); N <= 50 panels",
+      "projected_peak_bits": 8,
+      "projected_runtime_ms_range": "15..250",
+      "solver_entrypoint": "simulator.sweep_airy_spiderwebs.build_airy_operators",
+      "symmetry_reduction": "Saturated Z_1 via V_1 + modulo-p^k Precision-Bockstein",
+      "track": "C & E",
+      "wave2_target": "Multi-Hole 2D/3D Maxwell-Cremona Airy & RP^2 / Klein Twisted Sheaves"
+    },
+    {
+      "entry_Reduction_factor": "144x..576x neuron compression",
+      "problem_shape_projected": "|G|^2 up to 28224, outcome irrep/coset SNF |G| <= 168",
+      "projected_peak_bits": 14,
+      "projected_runtime_ms_range": "30..600",
+      "solver_entrypoint": "simulator.sweep_finite_groups.analyze_finite_group",
+      "symmetry_reduction": "A_5: W=25 << 3600 (144x); PSL(2,7): W=49 << 28224 (576x); SL(2,3): Z={+-I} obstruction",
+      "track": "D",
+      "wave2_target": "Non-Soluble & Quasisimple Group Circuits (A_5, PSL(2,7), SL(2,3))"
+    }
+  ]
+}

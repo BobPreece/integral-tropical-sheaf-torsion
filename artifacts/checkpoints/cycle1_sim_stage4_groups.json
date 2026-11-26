@@ -1,0 +1,633 @@
+{
+  "groups": [
+    {
+      "cyclic_1layer_circuit": {
+        "biased_width_2nm2": 4,
+        "exact_z_indicator_verified": true,
+        "grid_snf": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unbiased_width_2nm1": 5
+      },
+      "g_squared": 9,
+      "irrep_e0_q_denominator": 3,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        3
+      ],
+      "irrep_readout_torsion": [
+        3
+      ],
+      "is_abelian": true,
+      "max_bits": 2,
+      "minimal_faithful_perm_degree": 3,
+      "name": "C_3",
+      "num_subgroups": 2,
+      "order": 3,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": false,
+        "perm_degree_m": 3,
+        "reason": "m^2 = 9 == |G|^2 = 9 (no proper faithful permutation compression)",
+        "width_m2": 9
+      },
+      "proper_coset_e0_q_sat": false,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 1,
+      "proper_coset_q_rank": 1,
+      "proper_coset_snf": [
+        1
+      ],
+      "proper_coset_spans_all_outcomes_q": false,
+      "proper_coset_torsion": [],
+      "runtime_us": 324,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 9
+    },
+    {
+      "cyclic_1layer_circuit": null,
+      "g_squared": 16,
+      "irrep_e0_q_denominator": 4,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        2,
+        2,
+        4
+      ],
+      "irrep_readout_torsion": [
+        2,
+        2,
+        4
+      ],
+      "is_abelian": true,
+      "max_bits": 3,
+      "minimal_faithful_perm_degree": 4,
+      "name": "V_4",
+      "num_subgroups": 5,
+      "order": 4,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": false,
+        "perm_degree_m": 4,
+        "reason": "m^2 = 16 == |G|^2 = 16 (no proper faithful permutation compression)",
+        "width_m2": 16
+      },
+      "proper_coset_e0_q_sat": true,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 7,
+      "proper_coset_q_rank": 4,
+      "proper_coset_snf": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "proper_coset_spans_all_outcomes_q": true,
+      "proper_coset_torsion": [
+        2
+      ],
+      "runtime_us": 436,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 16
+    },
+    {
+      "cyclic_1layer_circuit": {
+        "biased_width_2nm2": 6,
+        "exact_z_indicator_verified": true,
+        "grid_snf": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unbiased_width_2nm1": 7
+      },
+      "g_squared": 16,
+      "irrep_e0_q_denominator": 4,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        2,
+        4
+      ],
+      "irrep_readout_torsion": [
+        2,
+        4
+      ],
+      "is_abelian": true,
+      "max_bits": 3,
+      "minimal_faithful_perm_degree": 4,
+      "name": "C_4",
+      "num_subgroups": 3,
+      "order": 4,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": false,
+        "perm_degree_m": 4,
+        "reason": "m^2 = 16 == |G|^2 = 16 (no proper faithful permutation compression)",
+        "width_m2": 16
+      },
+      "proper_coset_e0_q_sat": false,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 3,
+      "proper_coset_q_rank": 2,
+      "proper_coset_snf": [
+        1,
+        1
+      ],
+      "proper_coset_spans_all_outcomes_q": false,
+      "proper_coset_torsion": [],
+      "runtime_us": 586,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 16
+    },
+    {
+      "cyclic_1layer_circuit": {
+        "biased_width_2nm2": 8,
+        "exact_z_indicator_verified": true,
+        "grid_snf": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "unbiased_width_2nm1": 9
+      },
+      "g_squared": 25,
+      "irrep_e0_q_denominator": 5,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "irrep_readout_torsion": [
+        5
+      ],
+      "is_abelian": true,
+      "max_bits": 3,
+      "minimal_faithful_perm_degree": 5,
+      "name": "C_5",
+      "num_subgroups": 2,
+      "order": 5,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": false,
+        "perm_degree_m": 5,
+        "reason": "m^2 = 25 == |G|^2 = 25 (no proper faithful permutation compression)",
+        "width_m2": 25
+      },
+      "proper_coset_e0_q_sat": false,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 1,
+      "proper_coset_q_rank": 1,
+      "proper_coset_snf": [
+        1
+      ],
+      "proper_coset_spans_all_outcomes_q": false,
+      "proper_coset_torsion": [],
+      "runtime_us": 986,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 25
+    },
+    {
+      "cyclic_1layer_circuit": null,
+      "g_squared": 36,
+      "irrep_e0_q_denominator": 6,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        1,
+        3,
+        3,
+        6
+      ],
+      "irrep_readout_torsion": [
+        3,
+        3,
+        6
+      ],
+      "is_abelian": false,
+      "max_bits": 3,
+      "minimal_faithful_perm_degree": 3,
+      "name": "S_3",
+      "num_subgroups": 6,
+      "order": 6,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": true,
+        "compression_ratio_num_den": [
+          9,
+          36
+        ],
+        "min_strict_argmax_margin": 1,
+        "perm_degree_m": 3,
+        "verified_all_g2_pairs": true,
+        "width_m2": 9,
+        "zero_bias_pure_z": true
+      },
+      "proper_coset_e0_q_sat": true,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 12,
+      "proper_coset_q_rank": 6,
+      "proper_coset_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "proper_coset_spans_all_outcomes_q": true,
+      "proper_coset_torsion": [
+        3
+      ],
+      "runtime_us": 1469,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 36
+    },
+    {
+      "cyclic_1layer_circuit": null,
+      "g_squared": 64,
+      "irrep_e0_q_denominator": 8,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        4,
+        4,
+        8
+      ],
+      "irrep_readout_torsion": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        8
+      ],
+      "is_abelian": false,
+      "max_bits": 4,
+      "minimal_faithful_perm_degree": 4,
+      "name": "D_4",
+      "num_subgroups": 10,
+      "order": 8,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": true,
+        "compression_ratio_num_den": [
+          16,
+          64
+        ],
+        "min_strict_argmax_margin": 2,
+        "perm_degree_m": 4,
+        "verified_all_g2_pairs": true,
+        "width_m2": 16,
+        "zero_bias_pure_z": true
+      },
+      "proper_coset_e0_q_sat": true,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 27,
+      "proper_coset_q_rank": 8,
+      "proper_coset_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "proper_coset_spans_all_outcomes_q": true,
+      "proper_coset_torsion": [
+        2
+      ],
+      "runtime_us": 3718,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 64
+    },
+    {
+      "cyclic_1layer_circuit": null,
+      "g_squared": 100,
+      "irrep_e0_q_denominator": 10,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5,
+        5,
+        10
+      ],
+      "irrep_readout_torsion": [
+        5,
+        5,
+        10
+      ],
+      "is_abelian": false,
+      "max_bits": 6,
+      "minimal_faithful_perm_degree": 5,
+      "name": "D_5",
+      "num_subgroups": 8,
+      "order": 10,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": true,
+        "compression_ratio_num_den": [
+          25,
+          100
+        ],
+        "min_strict_argmax_margin": 5,
+        "perm_degree_m": 5,
+        "verified_all_g2_pairs": true,
+        "width_m2": 25,
+        "zero_bias_pure_z": true
+      },
+      "proper_coset_e0_q_sat": true,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 28,
+      "proper_coset_q_rank": 10,
+      "proper_coset_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5
+      ],
+      "proper_coset_spans_all_outcomes_q": true,
+      "proper_coset_torsion": [
+        5
+      ],
+      "runtime_us": 9322,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 100
+    },
+    {
+      "cyclic_1layer_circuit": null,
+      "g_squared": 144,
+      "irrep_e0_q_denominator": 12,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        12
+      ],
+      "irrep_readout_torsion": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        12
+      ],
+      "is_abelian": false,
+      "max_bits": 4,
+      "minimal_faithful_perm_degree": 4,
+      "name": "A_4",
+      "num_subgroups": 10,
+      "order": 12,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": true,
+        "compression_ratio_num_den": [
+          16,
+          144
+        ],
+        "min_strict_argmax_margin": 2,
+        "perm_degree_m": 4,
+        "verified_all_g2_pairs": true,
+        "width_m2": 16,
+        "zero_bias_pure_z": true
+      },
+      "proper_coset_e0_q_sat": true,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 38,
+      "proper_coset_q_rank": 12,
+      "proper_coset_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "proper_coset_spans_all_outcomes_q": true,
+      "proper_coset_torsion": [
+        2,
+        2
+      ],
+      "runtime_us": 13034,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 144
+    },
+    {
+      "cyclic_1layer_circuit": null,
+      "g_squared": 576,
+      "irrep_e0_q_denominator": 24,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8,
+        8,
+        24,
+        24,
+        24
+      ],
+      "irrep_readout_torsion": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8,
+        8,
+        24,
+        24,
+        24
+      ],
+      "is_abelian": false,
+      "max_bits": 6,
+      "minimal_faithful_perm_degree": 4,
+      "name": "S_4",
+      "num_subgroups": 30,
+      "order": 24,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": true,
+        "compression_ratio_num_den": [
+          16,
+          576
+        ],
+        "min_strict_argmax_margin": 1,
+        "perm_degree_m": 4,
+        "verified_all_g2_pairs": true,
+        "width_m2": 16,
+        "zero_bias_pure_z": true
+      },
+      "proper_coset_e0_q_sat": true,
+      "proper_coset_e0_z_sat": true,
+      "proper_coset_num_cols": 210,
+      "proper_coset_q_rank": 24,
+      "proper_coset_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "proper_coset_spans_all_outcomes_q": true,
+      "proper_coset_torsion": [],
+      "runtime_us": 216915,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 576
+    },
+    {
+      "cyclic_1layer_circuit": null,
+      "g_squared": 64,
+      "irrep_e0_q_denominator": 8,
+      "irrep_e0_q_sat": true,
+      "irrep_e0_z_sat": false,
+      "irrep_feature_snf": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        4,
+        4,
+        8
+      ],
+      "irrep_readout_torsion": [
+        2,
+        4,
+        4,
+        8
+      ],
+      "is_abelian": false,
+      "max_bits": 4,
+      "minimal_faithful_perm_degree": 8,
+      "name": "Q_8",
+      "num_subgroups": 6,
+      "order": 8,
+      "permutation_biequivariant_circuit": {
+        "applicable_strict_compression": false,
+        "perm_degree_m": 8,
+        "reason": "m^2 = 64 == |G|^2 = 64 (no proper faithful permutation compression)",
+        "width_m2": 64
+      },
+      "proper_coset_e0_q_sat": false,
+      "proper_coset_e0_z_sat": false,
+      "proper_coset_num_cols": 11,
+      "proper_coset_q_rank": 4,
+      "proper_coset_snf": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "proper_coset_spans_all_outcomes_q": false,
+      "proper_coset_torsion": [],
+      "runtime_us": 2636,
+      "trap5_guard_verified": true,
+      "trap5_trivial_width": 64
+    }
+  ],
+  "stage": "stage4_finite_groups",
+  "total_runtime_us": 254089
+}

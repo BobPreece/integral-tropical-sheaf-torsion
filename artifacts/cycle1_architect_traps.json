@@ -1,0 +1,413 @@
+{
+  "all_passed": true,
+  "completed_stages": 7,
+  "cycle": 1,
+  "gate": "Gate 0: Repaired Wave-1 Adversarial Sanity Traps",
+  "owner": "architect",
+  "total_elapsed_ms": 699,
+  "total_stages": 7,
+  "traps": {
+    "trap_1_max4_z_vs_max5_z_and_z_half": {
+      "bakaev_s5_chambers_verified": 120,
+      "bakaev_terms_count": 9,
+      "elapsed_us": 12290,
+      "max4_chambers_verified": 24,
+      "max4_neurons": [
+        6,
+        3
+      ],
+      "stage": "trap_1_max4_z_vs_max5_z_and_z_half",
+      "status": "CERTIFIED_EXACT",
+      "vol4_delta4": 1,
+      "z_2layer_vol4_modulus": 2
+    },
+    "trap_2_unrestricted_rational_biases_refuter": {
+      "candidate_1_refutation": {
+        "MAX5_at_x_star": "3",
+        "MAX5_d": "1",
+        "N_at_x_star": "-1/6",
+        "N_rec_d": "0",
+        "asymptotic_threshold_T0": 3,
+        "odd_clearing_factor_M": 27,
+        "recession_ray_d": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "scaled_delta4_vol_mod2": 1,
+        "witness_x_star": [
+          "0",
+          "0",
+          "0",
+          "3",
+          "0"
+        ]
+      },
+      "candidate_2_refutation": {
+        "MAX5_at_x_star": "2",
+        "MAX5_d": "1",
+        "N_at_x_star": "61/18",
+        "N_rec_d": "2",
+        "asymptotic_threshold_T0": 2,
+        "odd_clearing_factor_M": 27,
+        "recession_ray_d": [
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        "scaled_delta4_vol_mod2": 1,
+        "witness_x_star": [
+          "0",
+          "0",
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      "elapsed_us": 206,
+      "stage": "trap_2_unrestricted_rational_biases_refuter",
+      "status": "CERTIFIED_EXACT"
+    },
+    "trap_3_mandatory_off_braid_spurious_hinges": {
+      "b5_conforming_gate_count": 141,
+      "b5_unsat_over_q": true,
+      "elapsed_us": 611862,
+      "farkas_rhs_dot": -1,
+      "farkas_witness_cube32": [
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        1,
+        1,
+        -1,
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        1,
+        1,
+        -1,
+        1,
+        -1,
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        1,
+        1,
+        -1
+      ],
+      "off_braid_facets_verified": {
+        "2x5 - x1 - x2 = 0": {
+          "active_piece_jumps": {
+            "P2": 1,
+            "P3": 1,
+            "P4": 1,
+            "Q": 1,
+            "R13": 1,
+            "R14": 1,
+            "R23": 1,
+            "R24": 1
+          },
+          "eta_prim": [
+            -1,
+            -1,
+            0,
+            0,
+            2
+          ],
+          "net_2max5_wall_jump": 0
+        },
+        "2x5 - x1 - x3 = 0": {
+          "active_piece_jumps": {
+            "P3": 1,
+            "R13": 1
+          },
+          "eta_prim": [
+            -1,
+            0,
+            -1,
+            0,
+            2
+          ],
+          "net_2max5_wall_jump": 0
+        },
+        "2x5 - x1 - x4 = 0": {
+          "active_piece_jumps": {
+            "P4": 1,
+            "R14": 1
+          },
+          "eta_prim": [
+            -1,
+            0,
+            0,
+            -1,
+            2
+          ],
+          "net_2max5_wall_jump": 0
+        },
+        "2x5 - x2 - x3 = 0": {
+          "active_piece_jumps": {
+            "P3": 1,
+            "R23": 1
+          },
+          "eta_prim": [
+            0,
+            -1,
+            -1,
+            0,
+            2
+          ],
+          "net_2max5_wall_jump": 0
+        },
+        "2x5 - x2 - x4 = 0": {
+          "active_piece_jumps": {
+            "P4": 1,
+            "R24": 1
+          },
+          "eta_prim": [
+            0,
+            -1,
+            0,
+            -1,
+            2
+          ],
+          "net_2max5_wall_jump": 0
+        },
+        "2x5 - x3 - x4 = 0": {
+          "active_piece_jumps": {
+            "P1": 1,
+            "P2": 1,
+            "P4": 1,
+            "Q": 1,
+            "R13": 1,
+            "R14": 1,
+            "R23": 1,
+            "R24": 1
+          },
+          "eta_prim": [
+            0,
+            0,
+            -1,
+            -1,
+            2
+          ],
+          "net_2max5_wall_jump": 0
+        },
+        "x1 + x2 - x3 - x4 = 0": {
+          "active_piece_jumps": {
+            "P2": 1,
+            "Q": 1,
+            "R23": 1,
+            "R24": 1
+          },
+          "eta_prim": [
+            1,
+            1,
+            -1,
+            -1,
+            0
+          ],
+          "net_2max5_wall_jump": 0
+        }
+      },
+      "stage": "trap_3_mandatory_off_braid_spurious_hinges",
+      "status": "CERTIFIED_EXACT",
+      "z_half_augmented_den": 2
+    },
+    "trap_4_primitive_normals_weil_cartier": {
+      "a1_2d_fan": {
+        "cartier_balanced_generator": [
+          1,
+          1,
+          2
+        ],
+        "eta_prim": [
+          [
+            0,
+            1
+          ],
+          [
+            -2,
+            -1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        "weil_generator_c": [
+          0,
+          1,
+          0
+        ],
+        "weil_generator_w_prim": [
+          "1/2",
+          "1/2",
+          "1"
+        ],
+        "weil_over_cartier_torsion": [
+          2
+        ]
+      },
+      "elapsed_us": 622,
+      "reeve_tetrahedra": {
+        "T_2": {
+          "polar_snf": [
+            1,
+            2,
+            2
+          ],
+          "primal_snf": [
+            1,
+            1,
+            2
+          ],
+          "r": 2,
+          "torsion_witness_y": [
+            -1,
+            -1,
+            1
+          ],
+          "vol3_T_r": 2,
+          "weil_over_cartier_torsion": [
+            2
+          ]
+        },
+        "T_3": {
+          "polar_snf": [
+            1,
+            3,
+            3
+          ],
+          "primal_snf": [
+            1,
+            1,
+            3
+          ],
+          "r": 3,
+          "torsion_witness_y": [
+            -1,
+            -1,
+            1
+          ],
+          "vol3_T_r": 3,
+          "weil_over_cartier_torsion": [
+            3
+          ]
+        },
+        "T_5": {
+          "polar_snf": [
+            1,
+            5,
+            5
+          ],
+          "primal_snf": [
+            1,
+            1,
+            5
+          ],
+          "r": 5,
+          "torsion_witness_y": [
+            -1,
+            -1,
+            1
+          ],
+          "vol3_T_r": 5,
+          "weil_over_cartier_torsion": [
+            5
+          ]
+        }
+      },
+      "stage": "trap_4_primitive_normals_weil_cartier",
+      "status": "CERTIFIED_EXACT"
+    },
+    "trap_5_trivial_w_g2_group_circuit_guard": {
+      "C_5_trivial_realization": {
+        "group_order": 5,
+        "input_pairs_verified": 25,
+        "trivial_width": 25
+      },
+      "S_3_trivial_realization": {
+        "group_order": 6,
+        "input_pairs_verified": 36,
+        "trivial_width": 36
+      },
+      "elapsed_us": 526,
+      "guard_rejections_verified": [
+        "|G|=6,W=36->ValueError",
+        "|G|=6,W=40->ValueError",
+        "|G|=5,W=25->ValueError",
+        "|G|=5,W=26->ValueError"
+      ],
+      "stage": "trap_5_trivial_w_g2_group_circuit_guard",
+      "status": "CERTIFIED_EXACT"
+    },
+    "trap_6_spiderweb_torsion_and_annular_monodromy": {
+      "annulus_boundary_components_b": 2,
+      "annulus_free_monodromy_rank": 3,
+      "annulus_monodromy_matrix_snf": [
+        1,
+        1,
+        2
+      ],
+      "annulus_partial2_snf": [
+        1,
+        1,
+        1
+      ],
+      "elapsed_us": 1528,
+      "sample_monodromy_mu_Z": [
+        -2,
+        -1,
+        2
+      ],
+      "stage": "trap_6_spiderweb_torsion_and_annular_monodromy",
+      "status": "CERTIFIED_EXACT",
+      "wheel_parity_table": {
+        "-1": "UNSAT_Z_TORSION",
+        "-2": "CERTIFIED_EXACT",
+        "-3": "UNSAT_Z_TORSION",
+        "-4": "CERTIFIED_EXACT",
+        "0": "CERTIFIED_EXACT",
+        "1": "UNSAT_Z_TORSION",
+        "2": "CERTIFIED_EXACT",
+        "3": "UNSAT_Z_TORSION",
+        "4": "CERTIFIED_EXACT"
+      },
+      "wheel_unclamped_nodal_snf": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "wheel_z0_1_status": "UNSAT_Z_TORSION",
+      "wheel_z0_1_torsion_mod": 2
+    },
+    "trap_7_annular_cpa_torsor_vs_global_lp": {
+      "elapsed_us": 70547,
+      "farkas_cycle_witness_nnz": 16,
+      "farkas_rhs_dot": -1296,
+      "global_vertex_lp_status": "INFEASIBLE",
+      "inner_equals_outer_period": true,
+      "stage": "trap_7_annular_cpa_torsor_vs_global_lp",
+      "status": "CERTIFIED_EXACT",
+      "torsor_cocycle_status": "LOCAL_SAT",
+      "torsor_period_H1_Q": "-64/5"
+    }
+  }
+}

@@ -1,0 +1,1036 @@
+{
+  "desargues_prisms": [
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 6,
+          "modulus": 2,
+          "prime": 2,
+          "scale_k": 1,
+          "snf_vp_ge_k_count": 1
+        }
+      ],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2,
+        2,
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [
+        2
+      ],
+      "h2_int_airy_rank": 6,
+      "max_bits": 4,
+      "monodromy_witness": {},
+      "name": "desargues_prism_m1",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        6
+      ],
+      "nodal_eval_torsion": [
+        2,
+        6
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 12,
+      "num_faces": 7,
+      "num_vertices": 6,
+      "runtime_us": 4521,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 6,
+          "modulus": 3,
+          "prime": 3,
+          "scale_k": 1,
+          "snf_vp_ge_k_count": 1
+        }
+      ],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [
+        3
+      ],
+      "h2_int_airy_rank": 6,
+      "max_bits": 4,
+      "monodromy_witness": {},
+      "name": "desargues_prism_m2",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        6,
+        6,
+        6
+      ],
+      "nodal_eval_torsion": [
+        6,
+        6,
+        6
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 12,
+      "num_faces": 7,
+      "num_vertices": 6,
+      "runtime_us": 4510,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 3,
+          "modulus": 3,
+          "prime": 3,
+          "scale_k": 1,
+          "snf_vp_ge_k_count": 1
+        },
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 6,
+          "modulus": 2,
+          "prime": 2,
+          "scale_k": 1,
+          "snf_vp_ge_k_count": 1
+        },
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 6,
+          "modulus": 4,
+          "prime": 2,
+          "scale_k": 2,
+          "snf_vp_ge_k_count": 1
+        }
+      ],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [
+        3
+      ],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [
+        4
+      ],
+      "h2_int_airy_rank": 6,
+      "max_bits": 6,
+      "monodromy_witness": {},
+      "name": "desargues_prism_m3",
+      "nodal_eval_snf": [
+        1,
+        1,
+        3,
+        3,
+        12,
+        12
+      ],
+      "nodal_eval_torsion": [
+        3,
+        3,
+        12,
+        12
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 12,
+      "num_faces": 7,
+      "num_vertices": 6,
+      "runtime_us": 4410,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [
+        5
+      ],
+      "h2_int_airy_rank": 6,
+      "max_bits": 8,
+      "monodromy_witness": {},
+      "name": "desargues_prism_m4",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        4,
+        20,
+        60
+      ],
+      "nodal_eval_torsion": [
+        4,
+        20,
+        60
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 12,
+      "num_faces": 7,
+      "num_vertices": 6,
+      "runtime_us": 4434,
+      "saturation_projectors_verified": true
+    }
+  ],
+  "primitive_twisted_spiderwebs": [
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 2,
+      "monodromy_witness": {},
+      "name": "spiderweb_prim_twist_m2",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "nodal_eval_torsion": [
+        2
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 986,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 4,
+      "monodromy_witness": {},
+      "name": "spiderweb_prim_twist_m3",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        3
+      ],
+      "nodal_eval_torsion": [
+        3
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 998,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 4,
+      "monodromy_witness": {},
+      "name": "spiderweb_prim_twist_m4",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        4
+      ],
+      "nodal_eval_torsion": [
+        4
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 985,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 5,
+      "monodromy_witness": {},
+      "name": "spiderweb_prim_twist_m6",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        6
+      ],
+      "nodal_eval_torsion": [
+        6
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 1018,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 6,
+      "monodromy_witness": {},
+      "name": "spiderweb_prim_twist_m8",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        8
+      ],
+      "nodal_eval_torsion": [
+        8
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 989,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 7,
+      "monodromy_witness": {},
+      "name": "spiderweb_prim_twist_m9",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        9
+      ],
+      "nodal_eval_torsion": [
+        9
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 996,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 7,
+      "monodromy_witness": {},
+      "name": "spiderweb_prim_twist_m12",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        12
+      ],
+      "nodal_eval_torsion": [
+        12
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 982,
+      "saturation_projectors_verified": true
+    }
+  ],
+  "punctured_annuli": [
+    {
+      "aff_monodromy_free_rank_3_bm1": 3,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 6,
+          "modulus": 2,
+          "prime": 2,
+          "scale_k": 1,
+          "snf_vp_ge_k_count": 1
+        }
+      ],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2,
+        2,
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [
+        2
+      ],
+      "h2_int_airy_rank": 6,
+      "max_bits": 4,
+      "monodromy_witness": {
+        "mu_mono_z3_vector": [
+          0,
+          1,
+          0
+        ],
+        "nonzero_monodromy_certified": true,
+        "single_hinge_edge": [
+          0,
+          3
+        ]
+      },
+      "name": "punctured_annulus_b2_s1",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "nodal_eval_torsion": [
+        2,
+        2
+      ],
+      "num_boundary_components": 2,
+      "num_edges": 12,
+      "num_faces": 6,
+      "num_vertices": 6,
+      "runtime_us": 3391,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 3,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 0,
+          "modulus": 2,
+          "prime": 2,
+          "scale_k": 1,
+          "snf_vp_ge_k_count": 1
+        },
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 6,
+          "modulus": 2,
+          "prime": 2,
+          "scale_k": 1,
+          "snf_vp_ge_k_count": 1
+        },
+        {
+          "bockstein_rank_mod_pk": 1,
+          "exact_match": true,
+          "free_h2_rank": 6,
+          "modulus": 4,
+          "prime": 2,
+          "scale_k": 2,
+          "snf_vp_ge_k_count": 1
+        }
+      ],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [
+        2
+      ],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [
+        4
+      ],
+      "h2_int_airy_rank": 6,
+      "max_bits": 5,
+      "monodromy_witness": {
+        "mu_mono_z3_vector": [
+          0,
+          1,
+          0
+        ],
+        "nonzero_monodromy_certified": true,
+        "single_hinge_edge": [
+          0,
+          3
+        ]
+      },
+      "name": "punctured_annulus_b2_s2",
+      "nodal_eval_snf": [
+        1,
+        2,
+        2,
+        2,
+        4,
+        4
+      ],
+      "nodal_eval_torsion": [
+        2,
+        2,
+        2,
+        4,
+        4
+      ],
+      "num_boundary_components": 2,
+      "num_edges": 12,
+      "num_faces": 6,
+      "num_vertices": 6,
+      "runtime_us": 3418,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 6,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {},
+      "geom_vs_prim_edge_torsion": [],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 24,
+      "max_bits": 3,
+      "monodromy_witness": {},
+      "name": "double_punctured_b3",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "nodal_eval_torsion": [],
+      "num_boundary_components": 3,
+      "num_edges": 51,
+      "num_faces": 26,
+      "num_vertices": 24,
+      "runtime_us": 55403,
+      "saturation_projectors_verified": true
+    }
+  ],
+  "scaled_spiderwebs": [
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 1,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": true,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 2,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m1",
+      "nodal_eval_snf": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "nodal_eval_torsion": [],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 1017,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 2,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 2,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m2",
+      "nodal_eval_snf": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "nodal_eval_torsion": [
+        2,
+        2,
+        2
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 1001,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 3,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 2,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m3",
+      "nodal_eval_snf": [
+        1,
+        3,
+        3,
+        3
+      ],
+      "nodal_eval_torsion": [
+        3,
+        3,
+        3
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 995,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 4,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 3,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m4",
+      "nodal_eval_snf": [
+        1,
+        4,
+        4,
+        4
+      ],
+      "nodal_eval_torsion": [
+        4,
+        4,
+        4
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 997,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 5,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 3,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m5",
+      "nodal_eval_snf": [
+        1,
+        5,
+        5,
+        5
+      ],
+      "nodal_eval_torsion": [
+        5,
+        5,
+        5
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 1023,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 6,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 3,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m6",
+      "nodal_eval_snf": [
+        1,
+        6,
+        6,
+        6
+      ],
+      "nodal_eval_torsion": [
+        6,
+        6,
+        6
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 1010,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 8,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 4,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m8",
+      "nodal_eval_snf": [
+        1,
+        8,
+        8,
+        8
+      ],
+      "nodal_eval_torsion": [
+        8,
+        8,
+        8
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 1004,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 9,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 4,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m9",
+      "nodal_eval_snf": [
+        1,
+        9,
+        9,
+        9
+      ],
+      "nodal_eval_torsion": [
+        9,
+        9,
+        9
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 996,
+      "saturation_projectors_verified": true
+    },
+    {
+      "aff_monodromy_free_rank_3_bm1": 0,
+      "bockstein_checks_passed": true,
+      "bockstein_nontrivial_entries": [],
+      "clamped_rim_check": {
+        "q_denominator_at_z0_eq_1": 12,
+        "z0_eq_1_q_sat": true,
+        "z0_eq_1_z_sat": false,
+        "z0_eq_m_z_sat": true
+      },
+      "geom_vs_prim_edge_torsion": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "h1_all_free_rank": 0,
+      "h1_all_torsion": [],
+      "h1_int_free_rank": 0,
+      "h1_int_torsion": [],
+      "h2_int_airy_rank": 4,
+      "max_bits": 4,
+      "monodromy_witness": {},
+      "name": "spiderweb_scaled_m12",
+      "nodal_eval_snf": [
+        1,
+        12,
+        12,
+        12
+      ],
+      "nodal_eval_torsion": [
+        12,
+        12,
+        12
+      ],
+      "num_boundary_components": 1,
+      "num_edges": 6,
+      "num_faces": 3,
+      "num_vertices": 4,
+      "runtime_us": 990,
+      "saturation_projectors_verified": true
+    }
+  ],
+  "stage": "stage3_airy_spiderwebs_and_annuli",
+  "total_runtime_us": 96513
+}

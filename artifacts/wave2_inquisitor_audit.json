@@ -1,0 +1,121 @@
+{
+  "cycle": 2,
+  "stages": [
+    {
+      "architect_47ray_cden512_impostor_verified": true,
+      "elapsed_ms": 745,
+      "impostor_a_architect_subcone_witness": [
+        0,
+        16,
+        24,
+        28,
+        30,
+        31
+      ],
+      "impostor_a_formalist_primal_rejected": true,
+      "impostor_a_s6_chambers_fooled": 720,
+      "impostor_b_architect_subcone_witness": [
+        0,
+        2060701,
+        2070902,
+        2071003,
+        2071004,
+        2081308
+      ],
+      "impostor_b_formalist_rejected": true,
+      "impostor_b_multiprofile_rays_fooled": 2160,
+      "stage": "trap_w2_1_live_max6_impostors",
+      "status": "PASS",
+      "trap_id": "TRAP_W2_1_MAX6_FINITE_RAY_IMPOSTORS"
+    },
+    {
+      "bogus_cases_rejected": 7,
+      "elapsed_ms": 153,
+      "live_architect_tier_witnesses_verified": {
+        "pairwise_m2_945x615_padic_p3": {
+          "cols": 615,
+          "min_v3_ytA": 1,
+          "rows": 113,
+          "v3_ytb": 0
+        },
+        "tier1_bakaev_4plus2_padic_p3": {
+          "cols": 321,
+          "min_v3_ytA": 1,
+          "rows": 109,
+          "v3_ytb": 0
+        },
+        "tier2_small_coeff_joins_padic_p3": {
+          "cols": 364,
+          "min_v3_ytA": 1,
+          "rows": 134,
+          "v3_ytb": 0
+        },
+        "tier3_signed_layer2_padic_p3": {
+          "cols": 384,
+          "min_v3_ytA": 1,
+          "rows": 135,
+          "v3_ytb": 0
+        }
+      },
+      "stage": "trap_w2_2_live_tier123_and_bogus_3adic",
+      "status": "PASS",
+      "trap_id": "TRAP_W2_2_BOGUS_AND_LIVE_TIER123_3ADIC_AUDIT"
+    },
+    {
+      "checkpoint_d4_certificates_verified": true,
+      "dic3_perm_degrees_trans_vs_intrans": [
+        12,
+        7
+      ],
+      "dic3_pure_z_widths_verified": [
+        25,
+        26
+      ],
+      "elapsed_ms": 144,
+      "impostor_circuits_rejected": 4,
+      "q8_pure_z_widths_verified": [
+        17,
+        18
+      ],
+      "stage": "trap_w2_3_live_q8_dic3_guards_and_circuits",
+      "status": "PASS",
+      "trap_id": "TRAP_W2_3_Q8_DIC3_GUARDS_AND_LIVE_CIRCUITS",
+      "value_error_guards_verified": [
+        "Q_8(64)",
+        "Dic_3(144)",
+        "Q_16(256)",
+        "C_2(5>=4)"
+      ]
+    },
+    {
+      "cycle2_and_wave2_auditors_synchronized": true,
+      "elapsed_ms": 19,
+      "formalist_epistemic_guard_verified": true,
+      "mock_overclaims_rejected": 3,
+      "stage": "trap_w2_4_live_epistemic_overclaim_sync",
+      "status": "PASS",
+      "trap_id": "TRAP_W2_4_EPISTEMIC_OVERCLAIM_GUARD",
+      "wave1_ledger_regression_passed": true
+    },
+    {
+      "ast_advisories": 0,
+      "ast_self_tests_passed": 18,
+      "ast_violations": 0,
+      "atlas_svgs_audited": 10,
+      "atlas_total_oob": 0,
+      "atlas_total_overlaps": 0,
+      "elapsed_ms": 757,
+      "json_float_violations": 0,
+      "scanned_python_files": 39,
+      "stage": "live_svg_atlas_and_ast_zero_float_gate",
+      "status": "PASS",
+      "svg_atlas_zero_float": true,
+      "svg_self_tests_passed": 10,
+      "theorem_ledger_v2_status": "PENDING_CYCLE3"
+    }
+  ],
+  "status": "PASS",
+  "suite": "inquisitor.wave2_torture_tests",
+  "total_elapsed_ms": 1820,
+  "wave": "2.0"
+}

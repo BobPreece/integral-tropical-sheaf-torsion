@@ -1,0 +1,482 @@
+{
+  "e0_escher_waterfall_family": [
+    {
+      "all_creases_transversal": true,
+      "bouligand_outer_boundary_invariant": false,
+      "delta": "1/41",
+      "epistemic_tag": "FALSIFIED_COUNTEREXAMPLE",
+      "escape_lap_from_inner_rim": 4,
+      "expands_strictly_outward": true,
+      "full_in_annulus_laps_from_1": 3,
+      "max_trajectory_bits": 71,
+      "one_lap_torsor_drop": "-4",
+      "poincare_lap_multiplier": "194481/160000",
+      "runtime_us": 237,
+      "trajectory_radii_from_1": [
+        "1",
+        "194481/160000",
+        "37822859361/25600000000",
+        "7355827511386641/4096000000000000",
+        "1430568690241985328321/655360000000000000000"
+      ],
+      "worst_cell_and_filippov_deriv": "-10/41"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_outer_boundary_invariant": false,
+      "delta": "1/21",
+      "epistemic_tag": "FALSIFIED_COUNTEREXAMPLE",
+      "escape_lap_from_inner_rim": 2,
+      "expands_strictly_outward": true,
+      "full_in_annulus_laps_from_1": 1,
+      "max_trajectory_bits": 28,
+      "one_lap_torsor_drop": "-4",
+      "poincare_lap_multiplier": "14641/10000",
+      "runtime_us": 126,
+      "trajectory_radii_from_1": [
+        "1",
+        "14641/10000",
+        "214358881/100000000"
+      ],
+      "worst_cell_and_filippov_deriv": "-5/21"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_outer_boundary_invariant": false,
+      "delta": "1/16",
+      "epistemic_tag": "FALSIFIED_COUNTEREXAMPLE",
+      "escape_lap_from_inner_rim": 2,
+      "expands_strictly_outward": true,
+      "full_in_annulus_laps_from_1": 1,
+      "max_trajectory_bits": 33,
+      "one_lap_torsor_drop": "-4",
+      "poincare_lap_multiplier": "83521/50625",
+      "runtime_us": 116,
+      "trajectory_radii_from_1": [
+        "1",
+        "83521/50625",
+        "6975757441/2562890625"
+      ],
+      "worst_cell_and_filippov_deriv": "-15/64"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_outer_boundary_invariant": false,
+      "delta": "1/12",
+      "epistemic_tag": "FALSIFIED_COUNTEREXAMPLE",
+      "escape_lap_from_inner_rim": 2,
+      "expands_strictly_outward": true,
+      "full_in_annulus_laps_from_1": 1,
+      "max_trajectory_bits": 30,
+      "one_lap_torsor_drop": "-4",
+      "poincare_lap_multiplier": "28561/14641",
+      "runtime_us": 108,
+      "trajectory_radii_from_1": [
+        "1",
+        "28561/14641",
+        "815730721/214358881"
+      ],
+      "worst_cell_and_filippov_deriv": "-11/48"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_outer_boundary_invariant": false,
+      "delta": "1/9",
+      "epistemic_tag": "FALSIFIED_COUNTEREXAMPLE",
+      "escape_lap_from_inner_rim": 1,
+      "expands_strictly_outward": true,
+      "full_in_annulus_laps_from_1": 0,
+      "max_trajectory_bits": 10,
+      "one_lap_torsor_drop": "-4",
+      "poincare_lap_multiplier": "625/256",
+      "runtime_us": 84,
+      "trajectory_radii_from_1": [
+        "1",
+        "625/256"
+      ],
+      "worst_cell_and_filippov_deriv": "-2/9"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_outer_boundary_invariant": false,
+      "delta": "1/5",
+      "epistemic_tag": "FALSIFIED_COUNTEREXAMPLE",
+      "escape_lap_from_inner_rim": 1,
+      "expands_strictly_outward": true,
+      "full_in_annulus_laps_from_1": 0,
+      "max_trajectory_bits": 7,
+      "one_lap_torsor_drop": "-4",
+      "poincare_lap_multiplier": "81/16",
+      "runtime_us": 74,
+      "trajectory_radii_from_1": [
+        "1",
+        "81/16"
+      ],
+      "worst_cell_and_filippov_deriv": "-1/5"
+    }
+  ],
+  "e1_pinned_torsor_contraction_family": [
+    {
+      "all_creases_transversal": true,
+      "bouligand_invariance_certified": true,
+      "delta": "1/27",
+      "epistemic_tag": "CERTIFIED_EXACT",
+      "inner_3lap_trace": [
+        "1",
+        "1994/1625",
+        "1340714/1015625",
+        "66317618/48828125"
+      ],
+      "limit_cycle_r_star": "18/13",
+      "max_trajectory_bits": 29,
+      "outer_3lap_trace": [
+        "2",
+        "13298/8125",
+        "7555538/5078125",
+        "348365306/244140625"
+      ],
+      "pinned_torsor_contraction_factor": "256/625",
+      "runtime_us": 297,
+      "worst_cell_and_filippov_deriv": "-13/54"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_invariance_certified": true,
+      "delta": "1/18",
+      "epistemic_tag": "CERTIFIED_EXACT",
+      "inner_3lap_trace": [
+        "1",
+        "7607/5831",
+        "1139671/823543",
+        "47211701207/33614554631"
+      ],
+      "limit_cycle_r_star": "24/17",
+      "max_trajectory_bits": 39,
+      "outer_3lap_trace": [
+        "2",
+        "63874/40817",
+        "8368322/5764801",
+        "334632299074/235301882417"
+      ],
+      "pinned_torsor_contraction_factor": "625/2401",
+      "runtime_us": 306,
+      "worst_cell_and_filippov_deriv": "-17/72"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_invariance_certified": true,
+      "delta": "1/12",
+      "epistemic_tag": "CERTIFIED_EXACT",
+      "inner_3lap_trace": [
+        "1",
+        "1919/1375",
+        "1243439/859375",
+        "780718559/537109375"
+      ],
+      "limit_cycle_r_star": "16/11",
+      "max_trajectory_bits": 32,
+      "outer_3lap_trace": [
+        "2",
+        "10486/6875",
+        "6289366/4296875",
+        "3909438646/2685546875"
+      ],
+      "pinned_torsor_contraction_factor": "81/625",
+      "runtime_us": 312,
+      "worst_cell_and_filippov_deriv": "-11/48"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_invariance_certified": true,
+      "delta": "1/9",
+      "epistemic_tag": "CERTIFIED_EXACT",
+      "inner_3lap_trace": [
+        "1",
+        "47/32",
+        "767/512",
+        "12287/8192"
+      ],
+      "limit_cycle_r_star": "3/2",
+      "max_trajectory_bits": 14,
+      "outer_3lap_trace": [
+        "2",
+        "49/32",
+        "769/512",
+        "12289/8192"
+      ],
+      "pinned_torsor_contraction_factor": "1/16",
+      "runtime_us": 270,
+      "worst_cell_and_filippov_deriv": "-2/9"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_invariance_certified": true,
+      "delta": "1/6",
+      "epistemic_tag": "CERTIFIED_EXACT",
+      "inner_3lap_trace": [
+        "1",
+        "43/27",
+        "3499/2187",
+        "283435/177147"
+      ],
+      "limit_cycle_r_star": "8/5",
+      "max_trajectory_bits": 20,
+      "outer_3lap_trace": [
+        "2",
+        "130/81",
+        "10498/6561",
+        "850306/531441"
+      ],
+      "pinned_torsor_contraction_factor": "1/81",
+      "runtime_us": 277,
+      "worst_cell_and_filippov_deriv": "-5/24"
+    },
+    {
+      "all_creases_transversal": true,
+      "bouligand_invariance_certified": true,
+      "delta": "2/9",
+      "epistemic_tag": "CERTIFIED_EXACT",
+      "inner_3lap_trace": [
+        "1",
+        "1499/875",
+        "937499/546875",
+        "83705357/48828125"
+      ],
+      "limit_cycle_r_star": "12/7",
+      "max_trajectory_bits": 29,
+      "outer_3lap_trace": [
+        "2",
+        "7502/4375",
+        "4687502/2734375",
+        "418526786/244140625"
+      ],
+      "pinned_torsor_contraction_factor": "1/625",
+      "runtime_us": 285,
+      "worst_cell_and_filippov_deriv": "-7/36"
+    }
+  ],
+  "e2_twisted_mobius_N_3_to_12": [
+    {
+      "N": 3,
+      "cells_V_E_F": [
+        6,
+        12,
+        6
+      ],
+      "delta0_rank": 6,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 559,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 4,
+      "cells_V_E_F": [
+        8,
+        16,
+        8
+      ],
+      "delta0_rank": 8,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 844,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 5,
+      "cells_V_E_F": [
+        10,
+        20,
+        10
+      ],
+      "delta0_rank": 10,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 1238,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 6,
+      "cells_V_E_F": [
+        12,
+        24,
+        12
+      ],
+      "delta0_rank": 12,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 1730,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 7,
+      "cells_V_E_F": [
+        14,
+        28,
+        14
+      ],
+      "delta0_rank": 14,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 2284,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 8,
+      "cells_V_E_F": [
+        16,
+        32,
+        16
+      ],
+      "delta0_rank": 16,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 2892,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 9,
+      "cells_V_E_F": [
+        18,
+        36,
+        18
+      ],
+      "delta0_rank": 18,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 3705,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 10,
+      "cells_V_E_F": [
+        20,
+        40,
+        20
+      ],
+      "delta0_rank": 20,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 4706,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 11,
+      "cells_V_E_F": [
+        22,
+        44,
+        22
+      ],
+      "delta0_rank": 22,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 5590,
+      "single_boundary_cycle_verified": true
+    },
+    {
+      "N": 12,
+      "cells_V_E_F": [
+        24,
+        48,
+        24
+      ],
+      "delta0_rank": 24,
+      "delta0_torsion": [
+        2
+      ],
+      "euler_characteristic": 0,
+      "even_cocycle_z_sat": true,
+      "h1_q_minus1": "0",
+      "h1_z_minus1": "Z/2Z",
+      "h2_z_minus1": "0",
+      "max_bits": 2,
+      "odd_cocycle_q_denom": 2,
+      "odd_cocycle_z_sat": false,
+      "runtime_us": 6656,
+      "single_boundary_cycle_verified": true
+    }
+  ],
+  "stage": "cycle2_track_e_torsors_and_mobius",
+  "total_runtime_us": 33030
+}

@@ -1,0 +1,642 @@
+{
+  "all_passed": true,
+  "cycle": 2,
+  "owner": "formalist",
+  "stages": [
+    {
+      "details": {
+        "ledger_v1": {
+          "coverage_percent": 100,
+          "ledger": "theorem_ledger_v1.json",
+          "tag_counts": {
+            "CERTIFIED_EXACT": 19,
+            "FALSIFIED_COUNTEREXAMPLE": 1,
+            "OPEN_BUDGET_EXCEEDED": 1
+          },
+          "total_claims": 21,
+          "verified_count": 21,
+          "verified_ids": [
+            "TRAP_1",
+            "TRAP_2",
+            "TRAP_3",
+            "TRAP_4",
+            "TRAP_5",
+            "TRAP_6",
+            "TRAP_7",
+            "B1",
+            "B2",
+            "C1",
+            "C2",
+            "E0",
+            "E1",
+            "E2",
+            "A1",
+            "A2_MAX6_Z_SIXTH_AND_SYL2_ENGINE",
+            "A2_MAX6_Z_HALF_FRONTIER",
+            "A3",
+            "D1",
+            "D2",
+            "D3"
+          ]
+        },
+        "ledger_v2": {
+          "coverage_percent": 100,
+          "ledger": "theorem_ledger_v2.json",
+          "tag_counts": {
+            "CERTIFIED_EXACT": 24,
+            "FALSIFIED_COUNTEREXAMPLE": 1,
+            "OPEN_BUDGET_EXCEEDED": 1
+          },
+          "total_claims": 26,
+          "verified_count": 26,
+          "verified_ids": [
+            "TRAP_1",
+            "TRAP_2",
+            "TRAP_3",
+            "TRAP_4",
+            "TRAP_5",
+            "TRAP_6",
+            "TRAP_7",
+            "B1",
+            "B2",
+            "C1",
+            "C2",
+            "E0",
+            "E1",
+            "E2",
+            "A1",
+            "A2_MAX6_Z_SIXTH_AND_SYL2_ENGINE",
+            "A2_MAX6_Z_HALF_FRONTIER",
+            "A3",
+            "D1",
+            "D2",
+            "D3",
+            "A2a",
+            "A2_TIER123_3ADIC_OBSTRUCTION",
+            "A2c",
+            "D4a",
+            "D4b"
+          ]
+        },
+        "ledger_v2_present": true
+      },
+      "elapsed_ms": 181,
+      "elapsed_us": 181859,
+      "stage": "stage0_wave1_and_ledger_gate",
+      "status": "PASS"
+    },
+    {
+      "details": {
+        "cases_verified": 7,
+        "kind": "zonotope_join_batch",
+        "results": [
+          {
+            "d_dim": 5,
+            "factorial_divisor": 24,
+            "normalized_volume": 24,
+            "r1": 4,
+            "r2": 0,
+            "verified": true
+          },
+          {
+            "d_dim": 5,
+            "factorial_divisor": 6,
+            "normalized_volume": 6,
+            "r1": 3,
+            "r2": 1,
+            "verified": true
+          },
+          {
+            "d_dim": 5,
+            "factorial_divisor": 4,
+            "normalized_volume": 4,
+            "r1": 2,
+            "r2": 2,
+            "verified": true
+          },
+          {
+            "d_dim": 5,
+            "factorial_divisor": 4,
+            "normalized_volume": 12,
+            "r1": 2,
+            "r2": 2,
+            "verified": true
+          },
+          {
+            "d_dim": 6,
+            "factorial_divisor": 120,
+            "normalized_volume": 120,
+            "r1": 5,
+            "r2": 0,
+            "verified": true
+          },
+          {
+            "d_dim": 6,
+            "factorial_divisor": 24,
+            "normalized_volume": 24,
+            "r1": 4,
+            "r2": 1,
+            "verified": true
+          },
+          {
+            "d_dim": 6,
+            "factorial_divisor": 12,
+            "normalized_volume": 12,
+            "r1": 3,
+            "r2": 2,
+            "verified": true
+          }
+        ],
+        "verified": true
+      },
+      "elapsed_ms": 70,
+      "elapsed_us": 70038,
+      "stage": "stage1_theorem_a2a_join_volume_dichotomy",
+      "status": "PASS"
+    },
+    {
+      "details": {
+        "dual_bounded_tier_3adic": {
+          "gates_verified": 11,
+          "prime": 3,
+          "rows_independently_reconstructed": 3,
+          "s_threshold": 1,
+          "scope": "bounded_tier",
+          "verified": true,
+          "vp_yt_a": 1,
+          "vp_yt_b": 0,
+          "yt_b": 1
+        },
+        "dual_unconstrained_open_guard": {
+          "gates_verified": 11,
+          "prime": 3,
+          "rows_independently_reconstructed": 3,
+          "s_threshold": 1,
+          "scope": "unconstrained_relu_6_2_z_half",
+          "verified": true,
+          "vp_yt_a": 1,
+          "vp_yt_b": 0,
+          "yt_b": 1
+        },
+        "primal_bakaev_z_half": {
+          "braid_representatives_checked": 120,
+          "leaf_subcones_verified": 480,
+          "n_dim": 5,
+          "off_braid_splits_resolved": 360,
+          "pow2_scale": 2,
+          "symmetry_reduction": "none",
+          "t_exp": 1,
+          "translation_equivariant": true,
+          "verified": true
+        },
+        "primal_max4_z": {
+          "braid_representatives_checked": 24,
+          "leaf_subcones_verified": 24,
+          "n_dim": 4,
+          "off_braid_splits_resolved": 0,
+          "pow2_scale": 1,
+          "symmetry_reduction": "none",
+          "t_exp": 0,
+          "translation_equivariant": true,
+          "verified": true
+        }
+      },
+      "elapsed_ms": 44,
+      "elapsed_us": 44934,
+      "stage": "stage2_theorem_a2b_primal_and_dual_verifiers",
+      "status": "PASS"
+    },
+    {
+      "details": {
+        "snf_summary": {
+          "B_4": {
+            "corank": 0,
+            "cpwl_rank": 15,
+            "span_rank": 15,
+            "torsion": []
+          },
+          "B_5": {
+            "corank": 1,
+            "cpwl_rank": 31,
+            "span_rank": 30,
+            "torsion": []
+          },
+          "B_6": {
+            "corank": 7,
+            "cpwl_rank": 63,
+            "span_rank": 56,
+            "torsion": []
+          },
+          "H_4_off_braid": {
+            "chambers": 32,
+            "corank": 3,
+            "cpwl_rank": 19,
+            "span_rank": 16,
+            "torsion": []
+          }
+        },
+        "verified_batch": {
+          "cases_verified": 4,
+          "kind": "arrangement_snf_batch",
+          "results": [
+            {
+              "chambers_checked": 24,
+              "gates_verified": 15,
+              "invariant_factors": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "n_dim": 4,
+              "quotient_free_corank": 0,
+              "rank": 15,
+              "shape": [
+                15,
+                15
+              ],
+              "torsion_factors": [],
+              "verified": true
+            },
+            {
+              "chambers_checked": 120,
+              "gates_verified": 30,
+              "invariant_factors": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "n_dim": 5,
+              "quotient_free_corank": 1,
+              "rank": 30,
+              "shape": [
+                31,
+                30
+              ],
+              "torsion_factors": [],
+              "verified": true
+            },
+            {
+              "chambers_checked": 720,
+              "gates_verified": 56,
+              "invariant_factors": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "n_dim": 6,
+              "quotient_free_corank": 7,
+              "rank": 56,
+              "shape": [
+                63,
+                56
+              ],
+              "torsion_factors": [],
+              "verified": true
+            },
+            {
+              "chambers_checked": 32,
+              "gates_verified": 16,
+              "invariant_factors": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              "n_dim": 4,
+              "quotient_free_corank": 3,
+              "rank": 16,
+              "shape": [
+                19,
+                16
+              ],
+              "torsion_factors": [],
+              "verified": true
+            }
+          ],
+          "verified": true
+        }
+      },
+      "elapsed_ms": 1204,
+      "elapsed_us": 1204357,
+      "stage": "stage3_theorem_a2c_arrangement_paramid_snf",
+      "status": "PASS"
+    },
+    {
+      "details": {
+        "d4_cocycle_check": {
+          "nontrivial": true,
+          "verified": true
+        },
+        "d4b_bounds_and_circuits": {
+          "groups_verified": 7,
+          "kind": "group_indicator_bounds_batch",
+          "results": [
+            {
+              "biased_rank_lower_bound": 2,
+              "circuits_verified": 2,
+              "gram_det": 27,
+              "group_order": 3,
+              "verified": true,
+              "zero_bias_rank_lower_bound": 3
+            },
+            {
+              "biased_rank_lower_bound": 3,
+              "circuits_verified": 2,
+              "gram_det": 256,
+              "group_order": 4,
+              "verified": true,
+              "zero_bias_rank_lower_bound": 4
+            },
+            {
+              "biased_rank_lower_bound": 3,
+              "circuits_verified": 2,
+              "gram_det": 256,
+              "group_order": 4,
+              "verified": true,
+              "zero_bias_rank_lower_bound": 4
+            },
+            {
+              "biased_rank_lower_bound": 4,
+              "circuits_verified": 2,
+              "gram_det": 3125,
+              "group_order": 5,
+              "verified": true,
+              "zero_bias_rank_lower_bound": 5
+            },
+            {
+              "biased_rank_lower_bound": 7,
+              "circuits_verified": 1,
+              "gram_det": 16777216,
+              "group_order": 8,
+              "verified": true,
+              "zero_bias_rank_lower_bound": 8
+            },
+            {
+              "biased_rank_lower_bound": 7,
+              "circuits_verified": 0,
+              "gram_det": 16777216,
+              "group_order": 8,
+              "verified": true,
+              "zero_bias_rank_lower_bound": 8
+            },
+            {
+              "biased_rank_lower_bound": 11,
+              "circuits_verified": 1,
+              "gram_det": 8916100448256,
+              "group_order": 12,
+              "verified": true,
+              "zero_bias_rank_lower_bound": 12
+            }
+          ],
+          "verified": true
+        },
+        "dic3_cocycle_w108_z": {
+          "group_order": 12,
+          "mode": "indicator",
+          "pairs_checked": 144,
+          "ring": "Z",
+          "verified": true,
+          "width": 108
+        },
+        "q8_cocycle_w40_z": {
+          "group_order": 8,
+          "mode": "indicator",
+          "pairs_checked": 64,
+          "ring": "Z",
+          "verified": true,
+          "width": 40
+        }
+      },
+      "elapsed_ms": 35,
+      "elapsed_us": 35919,
+      "stage": "stage4_theorems_d4a_d4b_cocycle_and_bounds",
+      "status": "PASS"
+    },
+    {
+      "details": {
+        "adversarial_cases_rejected": 11,
+        "caught_summaries": {
+          "a2a_forged_join_volume": "zonotope_join: independent Beneath-Beyond volume 4 != expected 6",
+          "a2b_epistemic_guardrail_breach": "Epistemic guardrail violation: bounded-dictionary p-adic UNSAT cannot claim CERTIFIED_EXACT for unconstrained ReLU_{6,2}(Z[1/2]); must carry OPEN_BUDGET_EXCEEDED",
+          "a2b_fake_3adic_valuation": "p-adic obstruction failed: v_p(y^T A)=1 <= v_p(y^T b)=1",
+          "a2b_finite_ray_off_braid_impostor": "Primal Z[1/2] identity failed on sub-cone of perm=(0, 1, 2, 3, 4): grad=[4, 4, 4, -13, 3] != [0, 0, 0, 0, 2], witness=[0, 1, 2, 3, 28]",
+          "a2b_forged_dual_rhs": "Row 0 b mismatch: 2 != 1",
+          "a2b_kink_point_subcone_grad": "Row 0 interior_point [5, 5, 1, 2, 3, 10] lies on an active kink of gate 0",
+          "a2c_corrupt_snf_multiplier": "SNF certificate failed: U @ U_inv != I_m",
+          "a2c_unmodeled_chamber_kink": "arrangement_snf: gate 0 has unmodeled kink strictly cutting chamber 3: [1, 1, -1, -1] vs [0, 0, 0, 0]",
+          "d4a_q8_cayley_spoof": "Group circuit Cayley table is NOT isomorphic to canonical Q_8",
+          "d4a_q8_sign_collapsed_circuit": "Indicator circuit failed at (0,1): got [1, 0, 0, 0, 0, 0, 0, 0] != [0, 1, 0, 0, 0, 0, 0, 0]",
+          "d4a_trivial_coboundary_spoof": "2-cocycle beta is a coboundary ([beta] == 0 in H^2); expected non-trivial class!"
+        }
+      },
+      "elapsed_ms": 4,
+      "elapsed_us": 4610,
+      "stage": "stage5_wave2_adversarial_tamper_suite",
+      "status": "PASS"
+    },
+    {
+      "details": {
+        "architect_a2_subcerts_verified": 13,
+        "architect_a2b_zero_trust_dual_systems": {
+          "pairwise_m2_945x615": {
+            "matched_rows": 113,
+            "padic": {
+              "prime": 3,
+              "s_threshold": 1,
+              "verified": true,
+              "vp_yt_a": 1,
+              "vp_yt_b": 0,
+              "yt_b": 1
+            }
+          },
+          "tier1_bakaev_4plus2_padic_p3": {
+            "cols": 321,
+            "rows_matched_to_true_gates": 109,
+            "vp_yt_a": 1,
+            "vp_yt_b": 0
+          },
+          "tier2_small_coeff_joins_padic_p3": {
+            "cols": 364,
+            "rows_matched_to_true_gates": 134,
+            "vp_yt_a": 1,
+            "vp_yt_b": 0
+          },
+          "tier3_signed_layer2_padic_p3": {
+            "cols": 384,
+            "rows_matched_to_true_gates": 135,
+            "vp_yt_a": 1,
+            "vp_yt_b": 0
+          }
+        },
+        "architect_a2c_torsion_verified": {
+          "h4_pure_paramids_snf": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "h4_zonotope_pairs_snf": [
+            2,
+            2,
+            2
+          ],
+          "h5_d4_pure_paramids_snf": [
+            4
+          ],
+          "h5_d4_zonotope_pairs_snf": [
+            2
+          ],
+          "h6_d6_zonotope_pairs_snf": [
+            2,
+            2,
+            6
+          ],
+          "h6_s6_pure_paramids_snf": [
+            3,
+            12
+          ],
+          "h6_s6_zonotope_pairs_snf": [
+            2,
+            2,
+            6,
+            6,
+            60,
+            180
+          ]
+        },
+        "architect_d4_subcerts_verified": 21,
+        "architect_d4a_widths_verified": {
+          "d4_shifted_coset_w17_pure_z": 17,
+          "dic3_shifted_coset_w25_pure_z": 25,
+          "q8_shifted_coset_w17_pure_z": 17,
+          "q8_shifted_coset_w18_unbiased_pure_z": 18,
+          "q8_v4_cocycle_reduced_pure_z": 38,
+          "q8_v4_cocycle_w48_pure_z": 48,
+          "q8_walsh_howell_lafon_w22_argmax_z": 22
+        },
+        "simulator_join_families_checked": 69,
+        "simulator_tier3_pure_z_widths": {
+          "D_4": 17,
+          "Dic_3": 25,
+          "Q_16": 33,
+          "Q_8": 17,
+          "S_3": 13
+        },
+        "simulator_v4_surgical_pure_z_width": 6
+      },
+      "elapsed_ms": 1323,
+      "elapsed_us": 1323479,
+      "stage": "stage6_live_peer_checkpoints_cross_audit",
+      "status": "PASS"
+    }
+  ],
+  "stages_passed": 7,
+  "total_elapsed_ms": 2865,
+  "total_stages": 7,
+  "wave": "2.0"
+}

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="628" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="624" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="650" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="492" y="104" width="146" height="24" rx="6" fill="#EDE9FE" stroke="none" data-role="badge-bg" />
+  <polygon id="poly_13" points="338,340 528,340 524,278" fill="#EFF6FF" stroke="none" />
+  <polygon id="poly_14" points="338,340 524,278 152,278" fill="#F5F3FF" stroke="none" />
+  <polygon id="poly_15" points="338,340 152,278 250,516" fill="#F0FDFA" stroke="none" />
+  <polygon id="poly_16" points="338,340 250,516 338,526" fill="#FFFBEB" stroke="none" />
+  <line id="line_17" x1="338" y1="340" x2="528" y2="340" stroke="#2563EB" stroke-width="3" />
+  <polygon id="poly_18" points="528,340 519,344 519,336" fill="#2563EB" stroke="none" />
+  <line id="line_19" x1="338" y1="340" x2="524" y2="278" stroke="#7C3AED" stroke-width="3" />
+  <polygon id="poly_20" points="524,278 517,284 515,278" fill="#7C3AED" stroke="none" />
+  <line id="line_21" x1="338" y1="340" x2="152" y2="278" stroke="#7C3AED" stroke-width="3" />
+  <polygon id="poly_22" points="152,278 162,277 160,285" fill="#7C3AED" stroke="none" />
+  <line id="line_23" x1="338" y1="340" x2="250" y2="516" stroke="#0D9488" stroke-width="3" />
+  <polygon id="poly_24" points="250,516 251,506 259,510" fill="#0D9488" stroke="none" />
+  <line id="line_25" x1="338" y1="340" x2="338" y2="526" stroke="#DC2626" stroke-width="3" />
+  <polygon id="poly_26" points="338,526 334,517 342,517" fill="#DC2626" stroke="none" />
+  <circle id="circ_27" cx="338" cy="340" r="6" fill="#0F172A" stroke="#FFFFFF" stroke-width="2" />
+  <rect id="rect_33" x="46" y="568" width="584" height="250" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_41" x="672" y="96" width="704" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_42" x="674" y="98" width="700" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_43" x1="674" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_45" x="1229" y="104" width="133" height="24" rx="6" fill="#D1FAE5" stroke="none" data-role="badge-bg" />
+  <line id="line_47" x1="744" y1="434" x2="1340" y2="434" stroke="#334155" stroke-width="2" />
+  <line id="line_48" x1="744" y1="168" x2="744" y2="434" stroke="#334155" stroke-width="2" />
+  <line id="line_50" x1="738" y1="408" x2="744" y2="408" stroke="#334155" stroke-width="1" />
+  <line id="line_52" x1="738" y1="356" x2="744" y2="356" stroke="#334155" stroke-width="1" />
+  <line id="line_54" x1="738" y1="304" x2="744" y2="304" stroke="#334155" stroke-width="1" />
+  <line id="line_56" x1="738" y1="252" x2="744" y2="252" stroke="#334155" stroke-width="1" />
+  <line id="line_58" x1="738" y1="200" x2="744" y2="200" stroke="#334155" stroke-width="1" />
+  <line id="line_60" x1="748" y1="408" x2="1336" y2="408" stroke="#D97706" stroke-width="2" stroke-dasharray="6,4" />
+  <rect id="rect_61" x="776" y="184" width="240" height="26" rx="6" fill="#FEF3C7" stroke="#D97706" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_63" x="788" y="356" width="74" height="78" rx="6" fill="#EFF6FF" stroke="#2563EB" stroke-width="2" data-role="shape" />
+  <rect id="rect_68" x="924" y="304" width="74" height="130" rx="6" fill="#CCFBF1" stroke="#0F766E" stroke-width="2" data-role="shape" />
+  <rect id="rect_73" x="1060" y="252" width="74" height="182" rx="6" fill="#EDE9FE" stroke="#7C3AED" stroke-width="2" data-role="shape" />
+  <rect id="rect_78" x="1196" y="200" width="74" height="234" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" data-role="shape" />
+  <rect id="rect_83" x="696" y="496" width="656" height="322" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 04 — Track B2: 5-Ray Fan Sigma_5^(k) Genuine Simultaneous Chvatal Rank = 2k + 1</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track B (Theorem B2) | Escaping Planar 2-Cone Collapse via dim B_Sigma = 3 in R^3 (Ranks 3, 5, 7, 9)</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact | Rays (1,0), (2k+1,1), (-(2k+1),1), (-1,-2), (0,-1) | Pure Cartier w(f) = (0, 1, 0, 1, -(2k+1))</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. 5-Ray Complete Fan Sigma_5^(k) (dim B = 3)</text>
+  <text id="txt_12" x="565" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#7C3AED">ESCAPES 2D CEILING</text>
+  <text id="txt_28" x="538" y="345" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#2563EB">v_1=(1,0) [w=0]</text>
+  <text id="txt_29" x="514" y="264" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#7C3AED">v_2=(2k+1,1) [w=1]</text>
+  <text id="txt_30" x="162" y="264" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#7C3AED">v_3=(-(2k+1),1) [w=0]</text>
+  <text id="txt_31" x="238" y="534" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="end" fill="#0F766E">v_4=(-1,-2) [w=1]</text>
+  <text id="txt_32" x="352" y="534" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#DC2626">v_5=(0,-1) [w=-(2k+1)]</text>
+  <text id="txt_34" x="60" y="590" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#7C3AED">Structural Mechanism of Unbounded Rank inside Cart(Sigma)</text>
+  <text id="txt_35" x="60" y="610" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">1. With m = 5 primitive rays in R^2, balanced wall space has</text>
+  <text id="txt_36" x="60" y="641" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">   dimension dim B_{Sigma_5^(k)} = 5 - 2 = 3 (3D polyhedral cone!).</text>
+  <text id="txt_37" x="60" y="672" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">2. Pure integer-gradient Cartier target w^prim(f) = (0, 1, 0, 1, -(2k+1))</text>
+  <text id="txt_38" x="60" y="703" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">   induces a narrow 3-facet spike with initial vertex denominator 4k + 3.</text>
+  <text id="txt_39" x="60" y="734" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">3. Each simultaneous elementary Chvatal closure P -&gt; P^(1) shaves</text>
+  <text id="txt_40" x="60" y="765" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">   spike height by exactly 1 unit, forcing EXACT rank = 2k + 1!</text>
+  <text id="txt_44" x="688" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. Simultaneous Elementary Chvatal Rank = 2k + 1</text>
+  <text id="txt_46" x="1295" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#059669">EXACT 3, 5, 7, 9</text>
+  <text id="txt_49" x="756" y="162" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#334155">Sim. CG Rank</text>
+  <text id="txt_51" x="732" y="412" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">1</text>
+  <text id="txt_53" x="732" y="360" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">3</text>
+  <text id="txt_55" x="732" y="308" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">5</text>
+  <text id="txt_57" x="732" y="256" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">7</text>
+  <text id="txt_59" x="732" y="204" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">9</text>
+  <text id="txt_62" x="896" y="200" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#D97706">4-Ray Ceiling: Sim. Rank = 1</text>
+  <text id="txt_64" x="825" y="332" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#2563EB">Rank = 3</text>
+  <text id="txt_65" x="825" y="347" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">den=7</text>
+  <text id="txt_66" x="825" y="454" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">k=1 (m=3)</text>
+  <text id="txt_67" x="825" y="472" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#64748B">apex (3,4,3)</text>
+  <text id="txt_69" x="961" y="280" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#0F766E">Rank = 5</text>
+  <text id="txt_70" x="961" y="295" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">den=11</text>
+  <text id="txt_71" x="961" y="454" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">k=2 (m=5)</text>
+  <text id="txt_72" x="961" y="472" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#64748B">apex (5,6,5)</text>
+  <text id="txt_74" x="1097" y="228" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#7C3AED">Rank = 7</text>
+  <text id="txt_75" x="1097" y="243" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">den=15</text>
+  <text id="txt_76" x="1097" y="454" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">k=3 (m=7)</text>
+  <text id="txt_77" x="1097" y="472" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#64748B">apex (7,8,7)</text>
+  <text id="txt_79" x="1233" y="176" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#DC2626">Rank = 9</text>
+  <text id="txt_80" x="1233" y="191" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">den=19</text>
+  <text id="txt_81" x="1233" y="454" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F172A">k=4 (m=9)</text>
+  <text id="txt_82" x="1233" y="472" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#64748B">apex (9,10,9)</text>
+  <text id="txt_84" x="710" y="518" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">Certified Exact 3D Hilbert-Parallelepiped Closure Summary</text>
+  <text id="txt_85" x="710" y="538" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">k=1 (m=3): P^(0) max_den=7  -&gt; P^(1) -&gt; P^(2) -&gt; P^(3) INT {(1,1,0),(2,1,1),(3,4,3)}</text>
+  <text id="txt_86" x="710" y="572" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">k=2 (m=5): P^(0) max_den=11 -&gt; ... (5 exact rounds) ... -&gt; P^(5) INT {(1,1,0),(2,1,1),(5,6,5)}</text>
+  <text id="txt_87" x="710" y="606" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">k=3 (m=7): P^(0) max_den=15 -&gt; ... (7 exact rounds) ... -&gt; P^(7) INT {(1,1,0),(2,1,1),(7,8,7)}</text>
+  <text id="txt_88" x="710" y="640" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">k=4 (m=9): P^(0) max_den=19 -&gt; ... (9 exact rounds) ... -&gt; P^(9) INT {(1,1,0),(2,1,1),(9,10,9)}</text>
+  <text id="txt_89" x="710" y="674" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"></text>
+  <text id="txt_90" x="710" y="708" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">General Law: rank_CG^sim(D_tilde_{Sigma_5^(k)}(w(f))) = 2k + 1 -&gt; +infinity as k -&gt; +inf,</text>
+  <text id="txt_91" x="710" y="742" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">proving arbitrarily high simultaneous Chvatal-Gomory rank even on pure Cartier functions!</text>
+  </g>
+</svg>

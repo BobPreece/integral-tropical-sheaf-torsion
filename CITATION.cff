@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or proof certificates, please cite it as below."
+title: "Integral Tropical-Sheaf Torsion: Machine-Certified Z and p-Adic Obstructions Across Piecewise-Linear Expressivity, Splines, Airy Cosheaves, Group Circuits, and CPA Torsors"
+version: 2.0.0
+date-released: 2026-11-26
+authors:
+  - family-names: "Preece"
+    given-names: "Bob"
+license: "MIT"
+repository-code: "https://github.com/BobPreece/integral-tropical-sheaf-torsion"

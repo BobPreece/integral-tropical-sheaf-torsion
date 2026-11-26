@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="656" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="652" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="678" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="547" y="104" width="119" height="24" rx="6" fill="#D1FAE5" stroke="none" data-role="badge-bg" />
+  <line id="line_13" x1="352" y1="186" x2="352" y2="446" stroke="#0D9488" stroke-width="2" stroke-dasharray="6,4" />
+  <line id="line_14" x1="465" y1="251" x2="239" y2="381" stroke="#0D9488" stroke-width="2" stroke-dasharray="6,4" />
+  <line id="line_15" x1="465" y1="381" x2="239" y2="251" stroke="#0D9488" stroke-width="2" stroke-dasharray="6,4" />
+  <line id="line_16" x1="352" y1="186" x2="465" y2="381" stroke="#2563EB" stroke-width="2" />
+  <line id="line_17" x1="465" y1="251" x2="352" y2="446" stroke="#2563EB" stroke-width="2" />
+  <line id="line_18" x1="465" y1="381" x2="239" y2="381" stroke="#2563EB" stroke-width="2" />
+  <line id="line_19" x1="352" y1="446" x2="239" y2="251" stroke="#2563EB" stroke-width="2" />
+  <line id="line_20" x1="352" y1="186" x2="465" y2="251" stroke="#DC2626" stroke-width="4" />
+  <line id="line_21" x1="465" y1="251" x2="465" y2="381" stroke="#DC2626" stroke-width="4" />
+  <line id="line_22" x1="465" y1="381" x2="352" y2="446" stroke="#DC2626" stroke-width="4" />
+  <line id="line_23" x1="352" y1="446" x2="239" y2="381" stroke="#DC2626" stroke-width="4" />
+  <line id="line_24" x1="239" y1="381" x2="239" y2="251" stroke="#DC2626" stroke-width="4" />
+  <line id="line_25" x1="239" y1="251" x2="352" y2="186" stroke="#DC2626" stroke-width="4" />
+  <circle id="circ_26" cx="352" cy="186" r="8" fill="#0F172A" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_27" cx="465" cy="251" r="8" fill="#0F172A" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_28" cx="465" cy="381" r="8" fill="#0F172A" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_29" cx="352" cy="446" r="8" fill="#0F172A" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_30" cx="239" cy="381" r="8" fill="#0F172A" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_31" cx="239" cy="251" r="8" fill="#0F172A" stroke="#FFFFFF" stroke-width="2" />
+  <rect id="rect_38" x="56" y="494" width="186" height="30" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_40" x="256" y="494" width="196" height="30" rx="6" fill="#EFF6FF" stroke="#2563EB" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_42" x="466" y="494" width="190" height="30" rx="6" fill="#CCFBF1" stroke="#0D9488" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_44" x="46" y="540" width="612" height="280" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_53" x="700" y="96" width="676" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_54" x="702" y="98" width="672" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_55" x1="702" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_57" x="1209" y="104" width="153" height="24" rx="6" fill="#FEF3C7" stroke="none" data-role="badge-bg" />
+  <rect id="rect_59" x="724" y="156" width="192" height="54" rx="6" fill="#F1F5F9" stroke="#334155" stroke-width="1" data-role="badge-bg" />
+  <line id="line_61" x1="924" y1="183" x2="962" y2="183" stroke="#1E3A8A" stroke-width="2" />
+  <polygon id="poly_62" points="962,183 953,187 953,179" fill="#1E3A8A" stroke="none" />
+  <rect id="rect_63" x="970" y="156" width="196" height="54" rx="6" fill="#DBEAFE" stroke="#1E3A8A" stroke-width="1" data-role="badge-bg" />
+  <line id="line_65" x1="1174" y1="183" x2="1210" y2="183" stroke="#0F766E" stroke-width="2" />
+  <polygon id="poly_66" points="1210,183 1201,187 1201,179" fill="#0F766E" stroke="none" />
+  <rect id="rect_67" x="1218" y="156" width="136" height="54" rx="6" fill="#CCFBF1" stroke="#0D9488" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_70" x="724" y="252" width="628" height="88" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="2" data-role="panel" />
+  <rect id="rect_74" x="724" y="354" width="628" height="88" rx="8" fill="#EFF6FF" stroke="#2563EB" stroke-width="2" data-role="panel" />
+  <rect id="rect_78" x="724" y="456" width="628" height="88" rx="8" fill="#F0FDFA" stroke="#0F766E" stroke-width="2" data-role="panel" />
+  <rect id="rect_82" x="724" y="558" width="628" height="88" rx="8" fill="#F5F3FF" stroke="#7C3AED" stroke-width="2" data-role="panel" />
+  <rect id="rect_86" x="724" y="668" width="628" height="152" rx="8" fill="#FFFBEB" stroke="#D97706" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 02 — D_6 105-Gate 6*MAX_6 Identity vs Syl_2(S_6) 45-Orbit 3-Adic Frontier</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track A (Theorems A2, A2b, A2c) | Regular Z_6 Hexagon Pairwise-Max Orbits &amp; Sylow-2 Local-Global Engine</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact: 6*MAX_6 in ReLU_{6,2}(Z) (13944 leaf cones) | Syl_2(S_6) (45 orbits) solves in ~13 ms</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. D_6 Hexagon 15 Pairwise Maxima &amp; 105-Gate Identity</text>
+  <text id="txt_12" x="606" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#059669">6 * MAX_6 IN Z</text>
+  <text id="txt_32" x="352" y="166" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="middle" fill="#0F172A">x_0</text>
+  <text id="txt_33" x="486" y="250" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">x_1</text>
+  <text id="txt_34" x="486" y="392" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">x_2</text>
+  <text id="txt_35" x="352" y="474" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="middle" fill="#0F172A">x_3</text>
+  <text id="txt_36" x="218" y="392" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="end" fill="#0F172A">x_4</text>
+  <text id="txt_37" x="218" y="250" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="end" fill="#0F172A">x_5</text>
+  <text id="txt_39" x="149" y="512" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">6 Edges: m_{i,i+1} (w=-2)</text>
+  <text id="txt_41" x="354" y="512" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#1E3A8A">6 Short Diags: m_{i,i+2}</text>
+  <text id="txt_43" x="561" y="512" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#0F766E">3 Long Diags: m_{i,i+3}</text>
+  <text id="txt_45" x="60" y="562" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">D_6 105-Gate Identity &amp; 47-Ray Impostor Trap Refutation</text>
+  <text id="txt_46" x="60" y="582" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">D_6 Baseline (11 orbits): -2*sum m_{i,i+1} + 99 paramids = 6*MAX_6 over Z</text>
+  <text id="txt_47" x="60" y="613" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  -&gt; Certified across 720 S_6 chambers &amp; 13944 leaf sub-cones!</text>
+  <text id="txt_48" x="60" y="644" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">47-Ray Impostor Trap: finite 47-ray test yields fake Z[1/2] hit (c_den=512),</text>
+  <text id="txt_49" x="60" y="675" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  EXPOSED &amp; REFUTED at off-braid point x* = (0,4,6,10,25,40)!</text>
+  <text id="txt_50" x="60" y="706" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Full Pairwise-M2 Sub-Chamber System (945 x 615 Syl_2 matrix):</text>
+  <text id="txt_51" x="60" y="737" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  -&gt; Z[1/6]-SAT (den=192), while Z[1/2] is UNSAT_MOD3_PRESCREEN (p=3)!</text>
+  <text id="txt_52" x="60" y="768" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Moral: True CPWL verification MUST split all induced off-braid sub-cones.</text>
+  <text id="txt_56" x="716" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. Syl_2(S_6) 45-Orbit Hierarchy &amp; p=3 Obstructions</text>
+  <text id="txt_58" x="1285" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#D97706">TIERS 1-3 CERTIFIED</text>
+  <text id="txt_60" x="820" y="187" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#0F172A">S_6: 720 Chambers</text>
+  <text id="txt_64" x="1068" y="187" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#1E3A8A">Syl_2: 45 Free Orbits</text>
+  <text id="txt_68" x="1286" y="186" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F766E">945x615 Exact</text>
+  <text id="txt_69" x="1038" y="232" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">Syl_2(S_6) = D_4({0,1,2,3}) x C_2({4,5}), |G| = 16 = 2^4 in Z_(3)^x (zero odd-prime averaging loss!)</text>
+  <text id="txt_71" x="740" y="278" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#DC2626">Pairwise-M2 Sub-Chamber Base (615 Syl_2 Orbits, 945 Rows)</text>
+  <text id="txt_72" x="740" y="302" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#0F172A">Status: CERTIFIED_EXACT UNSAT (p=3, Z[1/6] den=192)</text>
+  <text id="txt_73" x="740" y="324" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Exposes &amp; refutes 47-ray impostor (c_den=512) at (0,4,6,10,25,40)</text>
+  <text id="txt_75" x="740" y="380" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#2563EB">Tier 1: 4+2 Bakaev (2,2) [321 Orbits, 362 Rows]</text>
+  <text id="txt_76" x="740" y="404" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#0F172A">Status: CERTIFIED_EXACT UNSAT (p=3, |supp y| = 103)</text>
+  <text id="txt_77" x="740" y="426" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">4+2 Bakaev (2,2) joins (Vol_5=4 == 1 mod 3) across 362 exact rows</text>
+  <text id="txt_79" x="740" y="482" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#0F766E">Tier 2: Small-Coeff (2,2)+(3,1)+(4,0) [364 Orbits]</text>
+  <text id="txt_80" x="740" y="506" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#0F172A">Status: CERTIFIED_EXACT UNSAT (p=3, |supp y| = 118)</text>
+  <text id="txt_81" x="740" y="528" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Primitive {-2..2}^6 (2,2)+(3,1)+(4,0) joins across 362 exact rows</text>
+  <text id="txt_83" x="740" y="584" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#7C3AED">Tier 3: Non-Convex Signed L2 ReLU(U-V) [384 Orbits]</text>
+  <text id="txt_84" x="740" y="608" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#0F172A">Status: CERTIFIED_EXACT UNSAT (p=3, |supp y| = 131)</text>
+  <text id="txt_85" x="740" y="630" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Signed Layer-2 ReLU(U - V) differences across 362 exact rows</text>
+  <text id="txt_87" x="738" y="690" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#D97706">3-Valued Epistemic Guardrail: OPEN_BUDGET_EXCEEDED</text>
+  <text id="txt_88" x="738" y="710" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">1. Fixed-dictionary p=3 valuation witness y (v_3(y^T A) &gt; v_3(y^T b)) is</text>
+  <text id="txt_89" x="738" y="733" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   machine-checked as CERTIFIED_EXACT on each explicit finite gate tier.</text>
+  <text id="txt_90" x="738" y="756" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">2. Unconstrained ReLU_{6,2}(Z[1/2]) over ALL off-braid hyperplanes remains</text>
+  <text id="txt_91" x="738" y="779" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   tagged OPEN_BUDGET_EXCEEDED unless a universal invariant or SAT net is proved.</text>
+  </g>
+</svg>

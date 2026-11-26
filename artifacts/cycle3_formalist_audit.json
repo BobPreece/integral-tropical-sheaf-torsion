@@ -1,0 +1,54 @@
+{
+  "cycle": 3,
+  "owner": "formalist",
+  "all_passed": true,
+  "stages_passed": 1,
+  "total_stages": 1,
+  "total_elapsed_ms": 18,
+  "stages": [
+    {
+      "stage": "cycle3_100pct_ledger_and_dossier_audit",
+      "status": "PASS",
+      "elapsed_us": 18329,
+      "elapsed_ms": 18,
+      "details": {
+        "total_ledger_entries": 21,
+        "certified_coverage_count": 21,
+        "coverage_percent": 100,
+        "tag_counts": {
+          "CERTIFIED_EXACT": 19,
+          "OPEN_BUDGET_EXCEEDED": 1,
+          "FALSIFIED_COUNTEREXAMPLE": 1
+        },
+        "verified_claim_ids": [
+          "TRAP_1",
+          "TRAP_2",
+          "TRAP_3",
+          "TRAP_4",
+          "TRAP_5",
+          "TRAP_6",
+          "TRAP_7",
+          "B1",
+          "B2",
+          "C1",
+          "C2",
+          "E0",
+          "E1",
+          "E2",
+          "A1",
+          "A2_MAX6_Z_SIXTH_AND_SYL2_ENGINE",
+          "A2_MAX6_Z_HALF_FRONTIER",
+          "A3",
+          "D1",
+          "D2",
+          "D3"
+        ],
+        "proof_dossier_audit": {
+          "present": true,
+          "char_length": 43260,
+          "markers_verified": 18
+        }
+      }
+    }
+  ]
+}

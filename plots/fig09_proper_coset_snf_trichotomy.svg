@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="700" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="696" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="722" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="618" y="104" width="92" height="24" rx="6" fill="#CCFBF1" stroke="none" data-role="badge-bg" />
+  <rect id="rect_13" x="46" y="152" width="656" height="188" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="1" data-role="panel" />
+  <rect id="rect_19" x="46" y="358" width="656" height="224" rx="8" fill="#FFFBEB" stroke="#D97706" stroke-width="1" data-role="panel" />
+  <rect id="rect_26" x="46" y="600" width="656" height="220" rx="8" fill="#D1FAE5" stroke="#059669" stroke-width="1" data-role="panel" />
+  <rect id="rect_33" x="744" y="96" width="632" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_34" x="746" y="98" width="628" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_35" x1="746" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_37" x="1270" y="104" width="92" height="24" rx="6" fill="#DBEAFE" stroke="none" data-role="badge-bg" />
+  <rect id="rect_39" x="766" y="152" width="588" height="310" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_41" x="796" y="200" width="244" height="146" rx="8" fill="#FEE2E2" stroke="#DC2626" stroke-width="2" data-role="panel" />
+  <rect id="rect_47" x="1080" y="200" width="244" height="146" rx="8" fill="#D1FAE5" stroke="#059669" stroke-width="2" data-role="panel" />
+  <rect id="rect_56" x="766" y="480" width="588" height="340" rx="8" fill="#EFF6FF" stroke="#2563EB" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 09 — Track D2/D3: Proper-Coset SNF Readout Trichotomy &amp; C_5 Phi_5 Bottleneck</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track D (Theorems D2 &amp; D3) | 3-Regime Coset Readout Classification (S_4 Bezout [1]^24) &amp; C_5 Equivariance Barrier</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact | S_4: 3*e_0 - 2*e_0 = e_0 over Z | V_4 Hadamard [1,2,2,4] | C_5 Equiv W&gt;=25 vs Unconstrained W=8</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. Proper-Subgroup Coset (|H| &gt;= 2) Readout SNF Trichotomy</text>
+  <text id="txt_12" x="664" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#0F766E">THEOREM D2</text>
+  <text id="txt_14" x="60" y="174" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#DC2626">Regime I — Q-Rank Deficient (rank_Q(C_G) &lt; |G| =&gt; e_0 UNSAT Even Over Q)</text>
+  <text id="txt_15" x="60" y="194" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Prime Cyclic C_3 (1 col, rank 1 &lt; 3) &amp; C_5 (1 col, rank 1 &lt; 5): only H = G exists.</text>
+  <text id="txt_16" x="60" y="224" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Cyclic C_4 (3 cols, rank 2 &lt; 4): unique nontrivial H = {0, 2} cannot separate 0 from 2.</text>
+  <text id="txt_17" x="60" y="254" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Quaternion Q_8 (11 cols, rank 4 &lt; 8): central -1 lies in EVERY H != {1}, forcing</text>
+  <text id="txt_18" x="60" y="284" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   identical rows on {+g, -g}! (Adding 4D Z-quaternions restores rank 8, SNF [1^4,2,4,4,8].)</text>
+  <text id="txt_20" x="60" y="380" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#D97706">Regime II — Q-Complete + Genuine Z-Torsion (e_0 Q-SAT, Z-UNSAT!)</text>
+  <text id="txt_21" x="60" y="400" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Klein V_4  (7 cols, rank 4):  Proper-coset torsion = [2]    | Sylvester H_4 SNF = [1, 2, 2, 4]</text>
+  <text id="txt_22" x="60" y="432" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Symm S_3   (12 cols, rank 6): Proper-coset torsion = [3]    | Irrep SNF = [1, 1, 1, 3, 3, 6]</text>
+  <text id="txt_23" x="60" y="464" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Dihed D_4  (27 cols, rank 8): Proper-coset torsion = [2]    | Irrep SNF = [1, 1, 2, 2, 2, 4, 4, 8]</text>
+  <text id="txt_24" x="60" y="496" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Dihed D_5  (28 cols, rank 10):Proper-coset torsion = [5]    | Irrep SNF = [1^7, 5, 5, 10]</text>
+  <text id="txt_25" x="60" y="528" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"> * Alt A_4    (38 cols, rank 12):Proper-coset torsion = [2, 2] | Irrep SNF = [1^3, 2^6, 4, 4, 12]</text>
+  <text id="txt_27" x="60" y="622" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">Regime III — Z-Unimodular Proper-Coset Synthesis: S_4 Achieves SNF = [1]^24!</text>
+  <text id="txt_28" x="60" y="642" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Across all 210 proper-subgroup cosets of S_4 (|G| = 24), C_{S_4} has ZERO Z-torsion:</text>
+  <text id="txt_29" x="60" y="673" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  * Stabilizer S_3 &lt;= S_4 synthesizes 3 * e_0 in Span_Z(cosets of S_3 &amp; subgroups).</text>
+  <text id="txt_30" x="60" y="704" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  * Sylow-2 D_4 &lt;= S_4 synthesizes 2 * e_0 in Span_Z(cosets of D_4 &amp; subgroups).</text>
+  <text id="txt_31" x="60" y="735" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  * Exact Bezout Identity over Z:   1 * (3 * e_0)  -  1 * (2 * e_0)  =  1 * e_0 !</text>
+  <text id="txt_32" x="60" y="766" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Result: e_0 is Z-SAT on S_4 using ONLY proper-subgroup coset indicators (det = 1)!</text>
+  <text id="txt_36" x="760" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. C_5 Equivariance Barrier vs Phi_5 Bottleneck</text>
+  <text id="txt_38" x="1316" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">THEOREM D3</text>
+  <text id="txt_40" x="1060" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0F172A">Strict (C_5 x C_5) Hidden Permutation Equivariance vs Unconstrained Z</text>
+  <text id="txt_42" x="918" y="228" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#DC2626">Strict Equivariant</text>
+  <text id="txt_43" x="918" y="258" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="middle" fill="#0F172A">W &gt;= 25 (Even Over R!)</text>
+  <text id="txt_44" x="918" y="286" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">gcd(25,2)=1: zero sign chars</text>
+  <text id="txt_45" x="918" y="308" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">Short orbits -&gt; 9D f1(g)+f2(h)</text>
+  <text id="txt_46" x="918" y="330" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">100-row Bareiss Farkas UNSAT</text>
+  <text id="txt_48" x="1202" y="228" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#059669">Unconstrained Pure-Z</text>
+  <text id="txt_49" x="1202" y="258" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#0F172A">W = 8 &lt;&lt; 25!</text>
+  <text id="txt_50" x="1202" y="286" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">h_t = ReLU(g + h - t)</text>
+  <text id="txt_51" x="1202" y="308" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">t = 0..7 ramp 2nd-diffs</text>
+  <text id="txt_52" x="1202" y="330" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#059669">No Q(sqrt(5)) barrier!</text>
+  <text id="txt_53" x="1060" y="380" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">Symmetry-Breaking Gain: 25 -&gt; 8 (3.125x fewer neurons by dropping equivariance!)</text>
+  <text id="txt_54" x="1060" y="404" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">Strict-Argmax Ring Collapse (D1a): W_Z^argmax(G) == W_Q^argmax(G) == W_R^argmax(G).</text>
+  <text id="txt_55" x="1060" y="428" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#64748B">(Positive LCM layer scaling preserves ReLU &amp; strict argmax at zero neuron overhead.)</text>
+  <text id="txt_57" x="780" y="502" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">Linear Bottleneck Separation: d_emb(R) = 2 vs d_emb(Q) = d_emb(Z) = 4</text>
+  <text id="txt_58" x="780" y="522" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Over R (Irrational 2*pi/5 Rotation in Q(sqrt(5))):</text>
+  <text id="txt_59" x="780" y="556" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  d_emb(R) = 2   via  cos(2*pi/5) = (sqrt(5) - 1) / 4.</text>
+  <text id="txt_60" x="780" y="590" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155"></text>
+  <text id="txt_61" x="780" y="624" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Over Q and Z (5th Cyclotomic Polynomial Phi_5(x) = 1 + x + x^2 + x^3 + x^4):</text>
+  <text id="txt_62" x="780" y="658" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  Shifted Eisenstein at p = 5:</text>
+  <text id="txt_63" x="780" y="692" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">    Phi_5(y + 1) = y^4 + 5*y^3 + 10*y^2 + 10*y + 5</text>
+  <text id="txt_64" x="780" y="726" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">    (5 | 5, 10, 10, 5  and  25 !| 5  =&gt;  Phi_5 irreducible of degree 4 over Q!)</text>
+  <text id="txt_65" x="780" y="760" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  Companion Matrix C(Phi_5) in GL_4(Z) realizes exact minimum d_emb(Q) = d_emb(Z) = 4.</text>
+  </g>
+</svg>

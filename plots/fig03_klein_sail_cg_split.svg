@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="684" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="680" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="706" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="534" y="104" width="160" height="24" rx="6" fill="#DBEAFE" stroke="none" data-role="badge-bg" />
+  <polygon id="poly_13" points="266,642 630,484 630,200 435,200" fill="#FEF3C7" fill-opacity="0.45" stroke="none" />
+  <polygon id="poly_14" points="370,540 500,540 630,484 630,200 435,200 370,370" fill="#D1FAE5" fill-opacity="0.65" stroke="#059669" stroke-width="3" />
+  <line id="line_15" x1="110" y1="710" x2="650" y2="710" stroke="#0F172A" stroke-width="2" />
+  <polygon id="poly_16" points="650,710 641,714 641,706" fill="#0F172A" stroke="none" />
+  <line id="line_17" x1="110" y1="710" x2="110" y2="175" stroke="#0F172A" stroke-width="2" />
+  <polygon id="poly_18" points="110,175 114,184 106,184" fill="#0F172A" stroke="none" />
+  <line id="line_21" x1="110" y1="710" x2="110" y2="716" stroke="#334155" stroke-width="2" />
+  <line id="line_23" x1="240" y1="710" x2="240" y2="716" stroke="#334155" stroke-width="2" />
+  <line id="line_25" x1="370" y1="710" x2="370" y2="716" stroke="#334155" stroke-width="2" />
+  <line id="line_27" x1="500" y1="710" x2="500" y2="716" stroke="#334155" stroke-width="2" />
+  <line id="line_29" x1="630" y1="710" x2="630" y2="716" stroke="#334155" stroke-width="2" />
+  <line id="line_31" x1="104" y1="710" x2="110" y2="710" stroke="#334155" stroke-width="2" />
+  <line id="line_33" x1="104" y1="540" x2="110" y2="540" stroke="#334155" stroke-width="2" />
+  <line id="line_35" x1="104" y1="370" x2="110" y2="370" stroke="#334155" stroke-width="2" />
+  <line id="line_37" x1="104" y1="200" x2="110" y2="200" stroke="#334155" stroke-width="2" />
+  <line id="line_39" x1="266" y1="642" x2="630" y2="484" stroke="#DC2626" stroke-width="2" />
+  <line id="line_40" x1="266" y1="642" x2="435" y2="200" stroke="#DC2626" stroke-width="2" />
+  <line id="line_41" x1="140" y1="540" x2="630" y2="540" stroke="#D97706" stroke-width="2" stroke-dasharray="6,4" />
+  <line id="line_42" x1="370" y1="690" x2="370" y2="200" stroke="#2563EB" stroke-width="2" stroke-dasharray="6,4" />
+  <circle id="circ_43" cx="240" cy="540" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_44" cx="240" cy="370" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_45" cx="240" cy="200" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_46" cx="370" cy="540" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_47" cx="370" cy="370" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_48" cx="370" cy="200" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_49" cx="500" cy="540" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_50" cx="500" cy="370" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_51" cx="500" cy="200" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_52" cx="630" cy="540" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_53" cx="630" cy="370" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_54" cx="630" cy="200" r="4" fill="#64748B" stroke="none" />
+  <circle id="circ_55" cx="266" cy="642" r="7" fill="#DC2626" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_56" cx="305" cy="540" r="7" fill="#D97706" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_57" cx="370" cy="540" r="8" fill="#059669" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_58" cx="370" cy="370" r="8" fill="#059669" stroke="#FFFFFF" stroke-width="2" />
+  <circle id="circ_59" cx="500" cy="540" r="8" fill="#059669" stroke="#FFFFFF" stroke-width="2" />
+  <rect id="rect_60" x="132" y="654" width="214" height="28" rx="6" fill="#FEE2E2" stroke="#DC2626" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_62" x="126" y="496" width="170" height="28" rx="6" fill="#FEF3C7" stroke="#D97706" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_64" x="446" y="336" width="172" height="34" rx="6" fill="#FFFFFF" stroke="#059669" stroke-width="1" data-role="badge-bg" />
+  <rect id="rect_72" x="728" y="96" width="648" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_73" x="730" y="98" width="644" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_74" x1="730" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_76" x="1223" y="104" width="139" height="24" rx="6" fill="#FEF3C7" stroke="none" data-role="badge-bg" />
+  <rect id="rect_78" x="748" y="152" width="608" height="138" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_85" x="748" y="306" width="608" height="514" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_86" x="750" y="308" width="604" height="34" rx="6" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <rect id="rect_88" x="756" y="350" width="592" height="46" rx="4" fill="#F0FDFA" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_90" x="756" y="406" width="592" height="46" rx="4" fill="#FFFBEB" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_92" x="756" y="462" width="592" height="46" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_94" x="756" y="518" width="592" height="46" rx="4" fill="#FFFBEB" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_96" x="756" y="574" width="592" height="46" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_98" x="756" y="630" width="592" height="46" rx="4" fill="#FFFBEB" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_100" x="756" y="686" width="592" height="46" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  <rect id="rect_102" x="756" y="742" width="592" height="46" rx="4" fill="#FFFBEB" stroke="#E2E8F0" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 03 — Track B2: 4-Ray Sigma_*^(k) Fractional Vertex (6/5, 2/5), Klein Sail &amp; CG Split</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track B (Theorem B2) | Sequential Axis Gomory Rank = 2..3 vs Simultaneous Schrijver-Chvatal Rank = 1</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact | w^(1)(u,t) = (-u+3t, u, 2t, 2u-t) &gt;= (0,1,0,2) | LP Opt (6/5, 2/5) | Klein Sail {(2,1),(2,2),(3,1)}</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. Exact (u, t) Cone &amp; Klein Sail Hull on Sigma_*^(1)</text>
+  <text id="txt_12" x="614" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#1E3A8A">LP VERTEX (6/5, 2/5)</text>
+  <text id="txt_19" x="656" y="715" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">u</text>
+  <text id="txt_20" x="104" y="162" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="bold" text-anchor="end" fill="#0F172A">t</text>
+  <text id="txt_22" x="110" y="734" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="middle" fill="#334155">0</text>
+  <text id="txt_24" x="240" y="734" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="middle" fill="#334155">1</text>
+  <text id="txt_26" x="370" y="734" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="middle" fill="#334155">2</text>
+  <text id="txt_28" x="500" y="734" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="middle" fill="#334155">3</text>
+  <text id="txt_30" x="630" y="734" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="middle" fill="#334155">4</text>
+  <text id="txt_32" x="96" y="714" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">0</text>
+  <text id="txt_34" x="96" y="544" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">1</text>
+  <text id="txt_36" x="96" y="374" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">2</text>
+  <text id="txt_38" x="96" y="204" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="end" fill="#334155">3</text>
+  <text id="txt_61" x="239" y="671" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#DC2626">LP Opt (6/5, 2/5), ||w+||=4</text>
+  <text id="txt_63" x="211" y="513" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="middle" fill="#D97706">Seq R1: (3/2, 1)</text>
+  <text id="txt_65" x="532" y="357" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#059669">Klein Sail P_I</text>
+  <text id="txt_66" x="388" y="522" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">(2,1) Opt=6</text>
+  <text id="txt_67" x="514" y="566" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">(3,1)</text>
+  <text id="txt_68" x="386" y="366" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">(2,2)</text>
+  <text id="txt_69" x="136" y="232" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="start" fill="#2563EB">Cut u &gt;= 2</text>
+  <text id="txt_70" x="366" y="776" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="middle" fill="#1E3A8A">Simultaneous Round 1 applies BOTH lambda^(1)=(2/5,0,0,1/5) =&gt; t&gt;=1</text>
+  <text id="txt_71" x="366" y="798" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#059669">AND lambda^(2)=(1/5,0,0,3/5) =&gt; u&gt;=2 in P_0^(1) -&gt; Sim. CG Rank = 1!</text>
+  <text id="txt_75" x="744" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. CG Definition Split Across Sigma_*^(k) (k=1..10)</text>
+  <text id="txt_77" x="1292" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#D97706">SIM=1 VS SEQ=2..3</text>
+  <text id="txt_79" x="762" y="174" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#1E3A8A">Why Simultaneous Schrijver-Chvatal = 1 While Sequential Gomory = 2..3</text>
+  <text id="txt_80" x="762" y="194" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">1. Jensen's inequality makes w_2 &gt;= 1 and w_3 &gt;= 0 redundant on P_0,</text>
+  <text id="txt_81" x="762" y="214" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   collapsing P_0 to a planar 2-facet cone of determinant D = 2k + 3.</text>
+  <text id="txt_82" x="762" y="234" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">2. Every Hilbert-basis generator of the active 2-cone belongs to P_0^(1) -&gt; Rank 1!</text>
+  <text id="txt_83" x="762" y="254" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">3. Sequential axis cuts (t &gt;= 1, then u &gt;= k+1) leave residual fractional</text>
+  <text id="txt_84" x="762" y="274" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">   vertex (k+1, 2k/(2k-1)) for ALL k &gt;= 2, requiring a 3rd oblique cut!</text>
+  <text id="txt_87" x="762" y="330" font-family="Menlo, Consolas, monospace" font-size="10" font-weight="bold" text-anchor="start" fill="#0F172A">k  | Det | LP Opt (u*, t*) | After u&gt;=k+1   | Seq | Sim | Klein Sail</text>
+  <text id="txt_89" x="764" y="378" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A"> 1 |   5 | (6/5, 2/5)      | (2,1) INT!     |  2  |  1  | (2,1),(2,2),(3,1)</text>
+  <text id="txt_91" x="764" y="434" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A"> 2 |   7 | (10/7, 2/7)     | (3, 4/3) FRAC  |  3  |  1  | (3,1),(4,2),(5,1)</text>
+  <text id="txt_93" x="764" y="490" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A"> 3 |   9 | (14/9, 2/9)     | (4, 6/5) FRAC  |  3  |  1  | (4,1),(6,2),(7,1)</text>
+  <text id="txt_95" x="764" y="546" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A"> 4 |  11 | (18/11, 2/11)   | (5, 8/7) FRAC  |  3  |  1  | (5,1),(8,2),(9,1)</text>
+  <text id="txt_97" x="764" y="602" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A"> 5 |  13 | (22/13, 2/13)   | (6, 10/9) FRAC |  3  |  1  | (6,1),(10,2),(11,1)</text>
+  <text id="txt_99" x="764" y="658" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A"> 6 |  15 | (26/15, 2/15)   | (7, 12/11) FRAC |  3  |  1  | (7,1),(12,2),(13,1)</text>
+  <text id="txt_101" x="764" y="714" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A"> 8 |  19 | (34/19, 2/19)   | (9, 16/15) FRAC |  3  |  1  | (9,1),(16,2),(17,1)</text>
+  <text id="txt_103" x="764" y="770" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#0F172A">10 |  23 | (42/23, 2/23)   | (11,20/19) FRAC |  3  |  1  | (11,1),(20,2),(21,1)</text>
+  </g>
+</svg>

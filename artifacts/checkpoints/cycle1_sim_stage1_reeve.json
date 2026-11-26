@@ -1,0 +1,1293 @@
+{
+  "a1_2d_control": {
+    "c12_gradient_q": [
+      "0",
+      "1/2"
+    ],
+    "cartier_dc_hull_integral_nonempty": false,
+    "cone_12_snf": [
+      1,
+      2
+    ],
+    "dim_balanced_space": 1,
+    "name": "A_1_2D_fan",
+    "nontrivial_dc_splits_possible": false,
+    "primitive_normals": [
+      [
+        0,
+        1
+      ],
+      [
+        -2,
+        -1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "primitive_wall_jumps_q": [
+      "1/2",
+      "1/2",
+      "1"
+    ],
+    "rays": [
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        2
+      ],
+      [
+        0,
+        -1
+      ]
+    ],
+    "runtime_us": 73,
+    "weil_mod_cart_torsion": [
+      2
+    ],
+    "weil_witness_h": [
+      0,
+      1,
+      0
+    ]
+  },
+  "reeve_sweep_r_2_to_12": [
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          2
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 2,
+        "polar_input_bits": 2,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 2,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/2Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        2,
+        2
+      ],
+      "normalized_vol3": 2,
+      "polar_facet_snf": [
+        1,
+        2,
+        2
+      ],
+      "polar_torsion": [
+        2,
+        2
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        2
+      ],
+      "primal_torsion": [
+        2
+      ],
+      "r": 2,
+      "ridge_colon_snfs": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "runtime_us": 261,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          2
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/2",
+        "1/2",
+        "1/2"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          3
+        ],
+        [
+          1,
+          1,
+          3
+        ],
+        [
+          1,
+          1,
+          3
+        ],
+        [
+          1,
+          1,
+          3
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 2,
+        "polar_input_bits": 2,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 2,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/3Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        3,
+        3
+      ],
+      "normalized_vol3": 3,
+      "polar_facet_snf": [
+        1,
+        3,
+        3
+      ],
+      "polar_torsion": [
+        3,
+        3
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        3
+      ],
+      "primal_torsion": [
+        3
+      ],
+      "r": 3,
+      "ridge_colon_snfs": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "runtime_us": 274,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          3
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/3",
+        "1/3",
+        "1/3"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          4
+        ],
+        [
+          1,
+          1,
+          4
+        ],
+        [
+          1,
+          1,
+          4
+        ],
+        [
+          1,
+          1,
+          4
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 3,
+        "polar_input_bits": 3,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 3,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/4Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        4,
+        4
+      ],
+      "normalized_vol3": 4,
+      "polar_facet_snf": [
+        1,
+        4,
+        4
+      ],
+      "polar_torsion": [
+        4,
+        4
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        4
+      ],
+      "primal_torsion": [
+        4
+      ],
+      "r": 4,
+      "ridge_colon_snfs": [
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "runtime_us": 267,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          4
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          5
+        ],
+        [
+          1,
+          1,
+          5
+        ],
+        [
+          1,
+          1,
+          5
+        ],
+        [
+          1,
+          1,
+          5
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 3,
+        "polar_input_bits": 3,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 3,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/5Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        5,
+        5
+      ],
+      "normalized_vol3": 5,
+      "polar_facet_snf": [
+        1,
+        5,
+        5
+      ],
+      "polar_torsion": [
+        5,
+        5
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        5
+      ],
+      "primal_torsion": [
+        5
+      ],
+      "r": 5,
+      "ridge_colon_snfs": [
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          5
+        ]
+      ],
+      "runtime_us": 277,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          5
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/5",
+        "1/5",
+        "1/5"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          6
+        ],
+        [
+          1,
+          1,
+          6
+        ],
+        [
+          1,
+          1,
+          6
+        ],
+        [
+          1,
+          1,
+          6
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 3,
+        "polar_input_bits": 3,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 3,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/6Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        6,
+        6
+      ],
+      "normalized_vol3": 6,
+      "polar_facet_snf": [
+        1,
+        6,
+        6
+      ],
+      "polar_torsion": [
+        6,
+        6
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        6
+      ],
+      "primal_torsion": [
+        6
+      ],
+      "r": 6,
+      "ridge_colon_snfs": [
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          6
+        ]
+      ],
+      "runtime_us": 270,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          6
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/6",
+        "1/6",
+        "1/6"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          7
+        ],
+        [
+          1,
+          1,
+          7
+        ],
+        [
+          1,
+          1,
+          7
+        ],
+        [
+          1,
+          1,
+          7
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 3,
+        "polar_input_bits": 3,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 3,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/7Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        7,
+        7
+      ],
+      "normalized_vol3": 7,
+      "polar_facet_snf": [
+        1,
+        7,
+        7
+      ],
+      "polar_torsion": [
+        7,
+        7
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        7
+      ],
+      "primal_torsion": [
+        7
+      ],
+      "r": 7,
+      "ridge_colon_snfs": [
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          7
+        ]
+      ],
+      "runtime_us": 301,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          7
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/7",
+        "1/7",
+        "1/7"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          8
+        ],
+        [
+          1,
+          1,
+          8
+        ],
+        [
+          1,
+          1,
+          8
+        ],
+        [
+          1,
+          1,
+          8
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 4,
+        "polar_input_bits": 4,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 4,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/8Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        8,
+        8
+      ],
+      "normalized_vol3": 8,
+      "polar_facet_snf": [
+        1,
+        8,
+        8
+      ],
+      "polar_torsion": [
+        8,
+        8
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        8
+      ],
+      "primal_torsion": [
+        8
+      ],
+      "r": 8,
+      "ridge_colon_snfs": [
+        [
+          1,
+          8
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          1,
+          8
+        ]
+      ],
+      "runtime_us": 269,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          8
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/8",
+        "1/8",
+        "1/8"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          9
+        ],
+        [
+          1,
+          1,
+          9
+        ],
+        [
+          1,
+          1,
+          9
+        ],
+        [
+          1,
+          1,
+          9
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 4,
+        "polar_input_bits": 4,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 4,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/9Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        9,
+        9
+      ],
+      "normalized_vol3": 9,
+      "polar_facet_snf": [
+        1,
+        9,
+        9
+      ],
+      "polar_torsion": [
+        9,
+        9
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        9
+      ],
+      "primal_torsion": [
+        9
+      ],
+      "r": 9,
+      "ridge_colon_snfs": [
+        [
+          1,
+          9
+        ],
+        [
+          1,
+          9
+        ],
+        [
+          1,
+          9
+        ]
+      ],
+      "runtime_us": 291,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          9
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/9",
+        "1/9",
+        "1/9"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          10
+        ],
+        [
+          1,
+          1,
+          10
+        ],
+        [
+          1,
+          1,
+          10
+        ],
+        [
+          1,
+          1,
+          10
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 4,
+        "polar_input_bits": 4,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 4,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/10Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        10,
+        10
+      ],
+      "normalized_vol3": 10,
+      "polar_facet_snf": [
+        1,
+        10,
+        10
+      ],
+      "polar_torsion": [
+        10,
+        10
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        10
+      ],
+      "primal_torsion": [
+        10
+      ],
+      "r": 10,
+      "ridge_colon_snfs": [
+        [
+          1,
+          10
+        ],
+        [
+          1,
+          10
+        ],
+        [
+          1,
+          10
+        ]
+      ],
+      "runtime_us": 277,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          10
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/10",
+        "1/10",
+        "1/10"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          11
+        ],
+        [
+          1,
+          1,
+          11
+        ],
+        [
+          1,
+          1,
+          11
+        ],
+        [
+          1,
+          1,
+          11
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 4,
+        "polar_input_bits": 4,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 4,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/11Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        11,
+        11
+      ],
+      "normalized_vol3": 11,
+      "polar_facet_snf": [
+        1,
+        11,
+        11
+      ],
+      "polar_torsion": [
+        11,
+        11
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        11
+      ],
+      "primal_torsion": [
+        11
+      ],
+      "r": 11,
+      "ridge_colon_snfs": [
+        [
+          1,
+          11
+        ],
+        [
+          1,
+          11
+        ],
+        [
+          1,
+          11
+        ]
+      ],
+      "runtime_us": 295,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          11
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/11",
+        "1/11",
+        "1/11"
+      ]
+    },
+    {
+      "all_4_vertex_cones_snf": [
+        [
+          1,
+          1,
+          12
+        ],
+        [
+          1,
+          1,
+          12
+        ],
+        [
+          1,
+          1,
+          12
+        ],
+        [
+          1,
+          1,
+          12
+        ]
+      ],
+      "bit_metrics": {
+        "peak_bits": 4,
+        "polar_input_bits": 4,
+        "polar_u_bits": 1,
+        "polar_v_bits": 1,
+        "primal_input_bits": 4,
+        "primal_u_bits": 1,
+        "primal_v_bits": 1
+      },
+      "cartier_dc_hull_empty_for_non_cartier_weil": true,
+      "complete_fan_weil_mod_cart": "Z/12Z",
+      "is_empty_lattice_simplex": true,
+      "lattice_point_count": 4,
+      "normal_fan_cone_snf": [
+        1,
+        12,
+        12
+      ],
+      "normalized_vol3": 12,
+      "polar_facet_snf": [
+        1,
+        12,
+        12
+      ],
+      "polar_torsion": [
+        12,
+        12
+      ],
+      "primal_edge_snf": [
+        1,
+        1,
+        12
+      ],
+      "primal_torsion": [
+        12
+      ],
+      "r": 12,
+      "ridge_colon_snfs": [
+        [
+          1,
+          12
+        ],
+        [
+          1,
+          12
+        ],
+        [
+          1,
+          12
+        ]
+      ],
+      "runtime_us": 284,
+      "vertices": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          12
+        ]
+      ],
+      "weil_generator_reeve_wall_jumps": [
+        "1/12",
+        "1/12",
+        "1/12"
+      ]
+    }
+  ],
+  "stage": "stage1_reeve_tetrahedra",
+  "total_runtime_us": 3461,
+  "unimodular_r1_control": {
+    "all_4_vertex_cones_snf": [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "bit_metrics": {
+      "peak_bits": 1,
+      "polar_input_bits": 1,
+      "polar_u_bits": 1,
+      "polar_v_bits": 1,
+      "primal_input_bits": 1,
+      "primal_u_bits": 1,
+      "primal_v_bits": 1
+    },
+    "cartier_dc_hull_empty_for_non_cartier_weil": false,
+    "complete_fan_weil_mod_cart": "0",
+    "is_empty_lattice_simplex": true,
+    "lattice_point_count": 4,
+    "normal_fan_cone_snf": [
+      1,
+      1,
+      1
+    ],
+    "normalized_vol3": 1,
+    "polar_facet_snf": [
+      1,
+      1,
+      1
+    ],
+    "polar_torsion": [],
+    "primal_edge_snf": [
+      1,
+      1,
+      1
+    ],
+    "primal_torsion": [],
+    "r": 1,
+    "ridge_colon_snfs": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "runtime_us": 265,
+    "vertices": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "weil_generator_reeve_wall_jumps": [
+      "1",
+      "1",
+      "1"
+    ]
+  }
+}

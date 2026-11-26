@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <g id="layer_shapes">
+  <rect id="rect_1" x="0" y="0" width="1400" height="900" fill="#F8FAFC" stroke="none" data-role="canvas-bg" />
+  <rect id="rect_2" x="24" y="18" width="1352" height="64" rx="10" fill="#0F172A" stroke="none" data-role="panel" />
+  <rect id="rect_5" x="24" y="852" width="1352" height="30" rx="6" fill="#EEF2F6" stroke="#CBD5E1" stroke-width="1" data-role="panel" />
+  <rect id="rect_7" x="24" y="96" width="436" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_8" x="26" y="98" width="432" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_9" x1="26" y1="136" x2="458" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_11" x="361" y="104" width="85" height="24" rx="6" fill="#FEE2E2" stroke="none" data-role="badge-bg" />
+  <rect id="rect_13" x="90" y="158" width="304" height="304" fill="#FEF2F2" stroke="#334155" stroke-width="2" data-role="shape" />
+  <rect id="rect_14" x="166" y="234" width="152" height="152" fill="#FFFFFF" stroke="#334155" stroke-width="2" data-role="shape" />
+  <line id="line_15" x1="318" y1="386" x2="394" y2="462" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_16" x1="318" y1="234" x2="394" y2="158" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_17" x1="166" y1="234" x2="90" y2="158" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_18" x1="166" y1="386" x2="90" y2="462" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_19" x1="318" y1="386" x2="326" y2="226" stroke="#DC2626" stroke-width="3" />
+  <polygon id="poly_20" points="326,226 330,235 322,235" fill="#DC2626" stroke="none" />
+  <line id="line_21" x1="326" y1="226" x2="149" y2="217" stroke="#DC2626" stroke-width="3" />
+  <polygon id="poly_22" points="149,217 158,214 158,222" fill="#DC2626" stroke="none" />
+  <line id="line_23" x1="149" y1="217" x2="139" y2="413" stroke="#DC2626" stroke-width="3" />
+  <polygon id="poly_24" points="139,413 136,403 144,405" fill="#DC2626" stroke="none" />
+  <line id="line_25" x1="139" y1="413" x2="355" y2="423" stroke="#DC2626" stroke-width="3" />
+  <polygon id="poly_26" points="355,423 345,427 347,419" fill="#DC2626" stroke="none" />
+  <circle id="circ_27" cx="318" cy="386" r="5" fill="#0F172A" stroke="#FFFFFF" stroke-width="1" />
+  <circle id="circ_28" cx="355" cy="423" r="6" fill="#DC2626" stroke="#FFFFFF" stroke-width="2" />
+  <rect id="rect_30" x="42" y="514" width="400" height="306" rx="8" fill="#F8FAFC" stroke="#DC2626" stroke-width="1" data-role="panel" />
+  <rect id="rect_41" x="476" y="96" width="444" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_42" x="478" y="98" width="440" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_43" x1="478" y1="136" x2="918" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_45" x="821" y="104" width="85" height="24" rx="6" fill="#D1FAE5" stroke="none" data-role="badge-bg" />
+  <rect id="rect_47" x="548" y="160" width="300" height="300" fill="#F0FDFA" stroke="#334155" stroke-width="2" data-role="shape" />
+  <rect id="rect_48" x="648" y="260" width="100" height="100" fill="#FFFFFF" stroke="#334155" stroke-width="2" data-role="shape" />
+  <rect id="rect_49" x="615" y="227" width="166" height="166" fill="none" stroke="#059669" stroke-width="3" data-role="shape" />
+  <line id="line_50" x1="848" y1="460" x2="826" y2="182" stroke="#2563EB" stroke-width="2" />
+  <polygon id="poly_51" points="826,182 831,190 823,192" fill="#2563EB" stroke="none" />
+  <line id="line_52" x1="826" y1="182" x2="585" y2="197" stroke="#2563EB" stroke-width="2" />
+  <polygon id="poly_53" points="585,197 593,193 595,201" fill="#2563EB" stroke="none" />
+  <line id="line_54" x1="585" y1="197" x2="595" y2="413" stroke="#2563EB" stroke-width="2" />
+  <polygon id="poly_55" points="595,413 591,404 599,404" fill="#2563EB" stroke="none" />
+  <line id="line_56" x1="595" y1="413" x2="795" y2="407" stroke="#2563EB" stroke-width="2" />
+  <polygon id="poly_57" points="795,407 786,412 786,404" fill="#2563EB" stroke="none" />
+  <line id="line_58" x1="748" y1="360" x2="759" y2="249" stroke="#D97706" stroke-width="2" />
+  <polygon id="poly_59" points="759,249 763,258 755,258" fill="#D97706" stroke="none" />
+  <line id="line_60" x1="759" y1="249" x2="630" y2="242" stroke="#D97706" stroke-width="2" />
+  <polygon id="poly_61" points="630,242 639,239 639,247" fill="#D97706" stroke="none" />
+  <line id="line_62" x1="630" y1="242" x2="627" y2="381" stroke="#D97706" stroke-width="2" />
+  <polygon id="poly_63" points="627,381 624,371 632,373" fill="#D97706" stroke="none" />
+  <line id="line_64" x1="627" y1="381" x2="771" y2="383" stroke="#D97706" stroke-width="2" />
+  <polygon id="poly_65" points="771,383 761,387 763,379" fill="#D97706" stroke="none" />
+  <rect id="rect_67" x="494" y="514" width="408" height="306" rx="8" fill="#F8FAFC" stroke="#059669" stroke-width="1" data-role="panel" />
+  <rect id="rect_78" x="936" y="96" width="440" height="744" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2" data-role="panel" />
+  <rect id="rect_79" x="938" y="98" width="436" height="38" rx="8" fill="#F1F5F9" stroke="none" data-role="panel" />
+  <line id="line_80" x1="938" y1="136" x2="1374" y2="136" stroke="#CBD5E1" stroke-width="1" />
+  <rect id="rect_82" x="1263" y="104" width="99" height="24" rx="6" fill="#EDE9FE" stroke="none" data-role="badge-bg" />
+  <rect id="rect_84" x="978" y="196" width="356" height="176" fill="#F5F3FF" stroke="none" data-role="shape" />
+  <line id="line_85" x1="978" y1="196" x2="1067" y2="196" stroke="#334155" stroke-width="2" />
+  <line id="line_86" x1="978" y1="372" x2="1067" y2="372" stroke="#334155" stroke-width="2" />
+  <line id="line_87" x1="978" y1="372" x2="1067" y2="196" stroke="#1E3A8A" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_88" x1="1067" y1="196" x2="1156" y2="196" stroke="#334155" stroke-width="2" />
+  <line id="line_89" x1="1067" y1="372" x2="1156" y2="372" stroke="#334155" stroke-width="2" />
+  <line id="line_90" x1="1067" y1="372" x2="1156" y2="196" stroke="#1E3A8A" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_91" x1="1067" y1="196" x2="1067" y2="372" stroke="#334155" stroke-width="2" />
+  <line id="line_92" x1="1156" y1="196" x2="1245" y2="196" stroke="#334155" stroke-width="2" />
+  <line id="line_93" x1="1156" y1="372" x2="1245" y2="372" stroke="#334155" stroke-width="2" />
+  <line id="line_94" x1="1156" y1="372" x2="1245" y2="196" stroke="#1E3A8A" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_95" x1="1156" y1="196" x2="1156" y2="372" stroke="#334155" stroke-width="2" />
+  <line id="line_96" x1="1245" y1="196" x2="1334" y2="196" stroke="#334155" stroke-width="2" />
+  <line id="line_97" x1="1245" y1="372" x2="1334" y2="372" stroke="#334155" stroke-width="2" />
+  <line id="line_98" x1="1245" y1="372" x2="1334" y2="196" stroke="#1E3A8A" stroke-width="1" stroke-dasharray="4,3" />
+  <line id="line_99" x1="1245" y1="196" x2="1245" y2="372" stroke="#334155" stroke-width="2" />
+  <line id="line_100" x1="978" y1="372" x2="978" y2="206" stroke="#7C3AED" stroke-width="4" />
+  <polygon id="poly_101" points="978,206 982,215 974,215" fill="#7C3AED" stroke="none" />
+  <line id="line_102" x1="1334" y1="196" x2="1334" y2="362" stroke="#7C3AED" stroke-width="4" />
+  <polygon id="poly_103" points="1334,362 1330,353 1338,353" fill="#7C3AED" stroke="none" />
+  <rect id="rect_109" x="954" y="456" width="404" height="364" rx="8" fill="#F8FAFC" stroke="#7C3AED" stroke-width="1" data-role="panel" />
+  </g>
+  <g id="layer_labels">
+  <text id="txt_3" x="44" y="46" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#F8FAFC">Fig 10 — Track E: Outward Escher Waterfall, Pinned Contraction &amp; Mobius Z/2Z Torsion</text>
+  <text id="txt_4" x="44" y="69" font-family="Menlo, Consolas, monospace" font-size="12" text-anchor="start" fill="#CBD5E1">Track E (Counterexample E0 &amp; Theorems E1, E2) | Closed CPA Torsors vs Pinned Return Map &amp; Twisted Sheaf Z_{-1}</text>
+  <text id="txt_6" x="40" y="871" font-family="Menlo, Consolas, monospace" font-size="11" text-anchor="start" fill="#334155">Certified Exact | E0: D^+ V_tilde &lt;= -19 yet P(r)=(21/19)^4 r &gt; r | E1: Factor 16/81 -&gt; r*=10/3 | E2: H^1(M_N;Z_{-1})=Z/2Z</text>
+  <text id="txt_10" x="40" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">A. E0: Escher Waterfall</text>
+  <text id="txt_12" x="403" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#DC2626">FALSIFIED</text>
+  <text id="txt_29" x="242" y="490" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#DC2626">Start r_0 = 1 -&gt; 1-Lap r_1 = 194481/130321 &gt; 1!</text>
+  <text id="txt_31" x="56" y="536" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#DC2626">Why Unpinned Closed Torsors Fail</text>
+  <text id="txt_32" x="56" y="556" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Annulus: {1 &lt;= ||x||_inf &lt;= 2} (8 cells)</text>
+  <text id="txt_33" x="56" y="584" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Flow:    f_k = R_{90}^k(1, 20) (outward!)</text>
+  <text id="txt_34" x="56" y="612" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Torsor:  [eta] = -16 != 0, d^1 eta = 0</text>
+  <text id="txt_35" x="56" y="640" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Every cell &amp; all 32 Filippov creases:</text>
+  <text id="txt_36" x="56" y="668" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  &lt;g, f&gt; in {-38, -21, -19} &lt;= -19 &lt; 0!</text>
+  <text id="txt_37" x="56" y="696" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Zero sliding modes (&lt;f_+- , n&gt; &gt; 0).</text>
+  <text id="txt_38" x="56" y="724" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Yet Poincare map EXPANDS outward:</text>
+  <text id="txt_39" x="56" y="752" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  P(r_0) = (21/19)^4 r_0 &gt; r_0!</text>
+  <text id="txt_40" x="56" y="780" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Angular drop -16 masks radial drift!</text>
+  <text id="txt_44" x="492" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">B. E1: Pinned Contraction 16/81</text>
+  <text id="txt_46" x="863" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#059669">CERTIFIED</text>
+  <text id="txt_66" x="698" y="490" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#059669">Unique Rational Limit Cycle r* = 10/3</text>
+  <text id="txt_68" x="508" y="536" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#059669">Pinned-Torsor &amp; Bouligand Certification</text>
+  <text id="txt_69" x="508" y="556" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Annulus: {2 &lt;= ||x||_inf &lt;= 6} (8 cells)</text>
+  <text id="txt_70" x="508" y="584" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Bouligand Invariance: &lt;f, n_out&gt; = -1 &lt; 0</text>
+  <text id="txt_71" x="508" y="612" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  (incl. 270-deg reflex inner corners!)</text>
+  <text id="txt_72" x="508" y="640" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Global CPA LP: INFEASIBLE (Farkas cycle)</text>
+  <text id="txt_73" x="508" y="668" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Flat Torsor [eta] = -96: D^+ V_tilde &lt;= -8</text>
+  <text id="txt_74" x="508" y="696" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Sector Refraction: r |-&gt; (2/3)r + 10/9</text>
+  <text id="txt_75" x="508" y="724" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">1-Lap Pinned Contraction (Ghrist §6.2):</text>
+  <text id="txt_76" x="508" y="752" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  P(r) - 10/3 = (16/81) * (r - 10/3)!</text>
+  <text id="txt_77" x="508" y="780" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  r=2 -&gt; 238/81;   r=6 -&gt; 938/243.</text>
+  <text id="txt_81" x="952" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0F172A">C. E2: Mobius Z_{-1} Torsion</text>
+  <text id="txt_83" x="1312" y="120" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#7C3AED">H^1 ~= Z/2Z</text>
+  <text id="txt_104" x="1156" y="178" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#7C3AED">Triangulated Mobius Band M_N (chi = 0)</text>
+  <text id="txt_105" x="968" y="288" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="end" fill="#7C3AED">+1</text>
+  <text id="txt_106" x="1344" y="288" font-family="Menlo, Consolas, monospace" font-size="12" font-weight="bold" text-anchor="start" fill="#7C3AED">-1</text>
+  <text id="txt_107" x="1156" y="404" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="bold" text-anchor="middle" fill="#7C3AED">Antipodal Seam Twist: R_e = -1 in GL_1(Z)</text>
+  <text id="txt_108" x="1156" y="426" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="middle" fill="#334155">Single Boundary Cycle (2N edges) for all N &gt;= 3</text>
+  <text id="txt_110" x="968" y="478" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" text-anchor="start" fill="#7C3AED">Exact Z vs Q Twisted Cohomology Split</text>
+  <text id="txt_111" x="968" y="498" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Orientable Annulus: H^1(A; Z) ~= Z (free).</text>
+  <text id="txt_112" x="968" y="523" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Non-Orientable M_N carrying Z_{-1} (N=3..12):</text>
+  <text id="txt_113" x="968" y="548" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  * Exact Complex: delta^1 o delta^0 == 0</text>
+  <text id="txt_114" x="968" y="573" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  * Unimodular Coboundary SNF:</text>
+  <text id="txt_115" x="968" y="598" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">      SNF(delta^0_{M_N}) = [1, ..., 1, 2]</text>
+  <text id="txt_116" x="968" y="623" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">      (2N - 1 units and ONE factor of 2!)</text>
+  <text id="txt_117" x="968" y="648" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  * Integral Cohomology:</text>
+  <text id="txt_118" x="968" y="673" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">      H^1(M_N; Z_{-1}) ~= Z / 2Z  (TORSION!)</text>
+  <text id="txt_119" x="968" y="698" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">  * Rational Cohomology:</text>
+  <text id="txt_120" x="968" y="723" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">      H^1(M_N; Q_{-1}) == 0       (TRIVIAL!)</text>
+  <text id="txt_121" x="968" y="748" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">Odd loop cocycles trivialize over (1/2)Z,</text>
+  <text id="txt_122" x="968" y="773" font-family="Menlo, Consolas, monospace" font-size="10" text-anchor="start" fill="#334155">never over Z!</text>
+  </g>
+</svg>
